@@ -1,0 +1,3161 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+jinghpaw	dwi	0001	#	#	#nc	#nc				
+jinghpaw	dwi	0001	Maumwi-gabaw	story-title	nc	nc				
+jinghpaw	dwi	0001	=gaw	=TOP	nc	nc				
+jinghpaw	dwi	0001	jahkrai-ma	orphan-child	nc	nc				
+jinghpaw	dwi	0001	hkan	3DU	nc	nc				
+jinghpaw	dwi	0001	dwi	grandmother	nc	nc				
+jinghpaw	dwi	0001	=a	=GEN	nc	nc				
+jinghpaw	dwi	0001	lam	story	nc	nc				
+jinghpaw	dwi	0001	nga	say	nc	nc				
+jinghpaw	dwi	0001	re	COP	nc	nc				
+jinghpaw	dwi	0002	#	#	##	##				
+jinghpaw	dwi	0002	Moi	long.ago	np:other	np		other		
+jinghpaw	dwi	0002	kalang	once	np:other	np		other		
+jinghpaw	dwi	0002	mi	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0002	=hta	=LOC	=rn	=rn				
+jinghpaw	dwi	0002	=da	=HS	=other	=other				
+jinghpaw	dwi	0002	ndai	well	other	other				
+jinghpaw	dwi	0003	mare	village	np:l	np		l	201	new
+jinghpaw	dwi	0003	langai	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0003	mi	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0003	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0003	=she	=then	=other	=other				
+jinghpaw	dwi	0003	ndai	well	other	other				
+jinghpaw	dwi	0003	jahkrai-ma	orphan-child	ln_np.h	ln_np	h		202	new
+jinghpaw	dwi	0003	hkan	both	ln_qfr	ln_qfr				
+jinghpaw	dwi	0003	dwi	grandmother	np.h:s	np	h	s	203	new
+jinghpaw	dwi	0003	lahkawng	two	rn_qfr	rn_qfr				
+jinghpaw	dwi	0003	nga	live	v:pred	v		pred		
+jinghpaw	dwi	0003	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0003	=da	=HS	=other	=other				
+jinghpaw	dwi	0004	#	#	##	##				
+jinghpaw	dwi	0004	shan	3DU	nc	nc				
+jinghpaw	dwi	0004	dwi	grandmother	nc_np.h	nc_np	h		204	bridging
+jinghpaw	dwi	0004	dai	that	dem_pro.h:s	dem_pro	h	s	202	
+jinghpaw	dwi	0004	lasha-wa	man-man	nc	nc				
+jinghpaw	dwi	0004	re	COP	nc	nc				
+jinghpaw	dwi	0004	lasha	man	np.h:pred	np	h	pred		
+jinghpaw	dwi	0004	re	COP	cop	cop				
+jinghpaw	dwi	0004	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0004	=da	=HS	=other	=other				
+jinghpaw	dwi	0005	#	#	##	##				
+jinghpaw	dwi	0005	rai	COP	other	other				
+jinghpaw	dwi	0005	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0005	=she	=then	=other	=other				
+jinghpaw	dwi	0005	shan	3DU	ln_pro.h	ln_pro	h			
+jinghpaw	dwi	0005	dwi	grandmother	np.h:s	np	h	s	204	
+jinghpaw	dwi	0005	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0005	matsan	be.poor	lv	lv				
+jinghpaw	dwi	0005	=ma	=also	=other	=other				
+jinghpaw	dwi	0005	grai	very	other	other				
+jinghpaw	dwi	0005	matsan	be.poor	v:pred	v		pred		
+jinghpaw	dwi	0005	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0006	#	#	##neg	##neg				
+jinghpaw	dwi	0006	re	COP	other	other				
+jinghpaw	dwi	0006	yang	when	other	other				
+jinghpaw	dwi	0006	=she	=then	=other	=other				
+jinghpaw	dwi	0006	masha	person	ln_np.h:poss	ln_np	h	poss		
+jinghpaw	dwi	0006	=ni	=PL	=ln	=ln				
+jinghpaw	dwi	0006	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0006	zawn	like	np:other	np		other		
+jinghpaw	dwi	0006	ndai	well	other	other				
+jinghpaw	dwi	0006	ahpraw-nsam	appearance-color	np:s	np		s	206	bridging
+jinghpaw	dwi	0006	=mung	=also	=other	=other				
+jinghpaw	dwi	0006	n-tsawm	NEG-be.beautiful	v:pred	v		pred		
+jinghpaw	dwi	0006	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0006	=i	=SFP	=other	=other				
+jinghpaw	dwi	0007	#	#	##	##				
+jinghpaw	dwi	0007	shan	skin	np:s	np		s	207	bridging
+jinghpaw	dwi	0007	=mung	=also	=other	=other				
+jinghpaw	dwi	0007	chyang-chyang	be.black-RED	v:pred	v		pred		
+jinghpaw	dwi	0007	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0007	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0007	re	COP	other	other				
+jinghpaw	dwi	0007	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0007	#	#	##neg	##neg				
+jinghpaw	dwi	0007	ahpraw-nsam	appearance-color	np:s	np		s	206	
+jinghpaw	dwi	0007	=mung	=also	=other	=other				
+jinghpaw	dwi	0007	n-tsawm	NEG-be.beautiful	v:pred	v		pred		
+jinghpaw	dwi	0007	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0008	#	#	##neg	##neg				
+jinghpaw	dwi	0008	0	0	0.h:a	0	h	a	204	
+jinghpaw	dwi	0008	e	INTJ	other	other				
+jinghpaw	dwi	0008	dan	thus	other	other				
+jinghpaw	dwi	0008	re	COP	other	other				
+jinghpaw	dwi	0008	hpaji	knowledge	np:p	np		p	208	new
+jinghpaw	dwi	0008	=mung	=also	=other	=other				
+jinghpaw	dwi	0008	n-chye	NEG-know	v:pred	v		pred		
+jinghpaw	dwi	0008	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0008	re	COP	other	other				
+jinghpaw	dwi	0009	#	#	##	##				
+jinghpaw	dwi	0009	dai	that	nc	nc				
+jinghpaw	dwi	0009	lahkawng	two	nc	nc				
+jinghpaw	dwi	0009	hkan	3DU	ln_pro.h	ln_pro	h			
+jinghpaw	dwi	0009	dwi	grandmother	np.h:s	np	h	s	204	
+jinghpaw	dwi	0009	lahkawng	two	rn_qfr	rn_qfr				
+jinghpaw	dwi	0009	nga	live	v:pred	v		pred		
+jinghpaw	dwi	0009	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0009	=da	=HS	=other	=other				
+jinghpaw	dwi	0010	#	#	##neg	##neg				
+jinghpaw	dwi	0010	mare	village	np.h:a	np	h	a	209	bridging
+jinghpaw	dwi	0010	ting	whole	rn_qfr	rn_qfr				
+jinghpaw	dwi	0010	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0010	shan	3DU	ln_pro	ln_pro				
+jinghpaw	dwi	0010	dwi	grandmother	np.h:p	np	h	p	204	
+jinghpaw	dwi	0010	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0010	nau	too.much	other	other				
+jinghpaw	dwi	0010	=mung	=also	=other	=other				
+jinghpaw	dwi	0010	n-kam	NEG-be.willing	lv	lv				
+jinghpaw	dwi	0010	hkau	befriend	v:pred	v		pred		
+jinghpaw	dwi	0010	=la	=take	=aux	=aux				
+jinghpaw	dwi	0010	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0010	=i	=SFP	=other	=other				
+jinghpaw	dwi	0011	#	#	##neg	##neg				
+jinghpaw	dwi	0011	shan	3DU	ln_pro	ln_pro				
+jinghpaw	dwi	0011	dwi	grandmother	np.h:a	np	h	a	204	
+jinghpaw	dwi	0011	hpa	what	np:p	np		p		
+jinghpaw	dwi	0011	=mung	=also	=other	=other				
+jinghpaw	dwi	0011	n-lu	NEG-be.able	v:pred	v		pred		
+jinghpaw	dwi	0011	#	#	##neg	##neg				
+jinghpaw	dwi	0011	0	0	0.h:s	0	h	s	204	
+jinghpaw	dwi	0011	tsawm	be.beautiful	lv	lv				
+jinghpaw	dwi	0011	=mung	=also	=lv	=lv				
+jinghpaw	dwi	0011	n-tsawm	NEG-be.beautiful	v:pred	v		pred		
+jinghpaw	dwi	0011	yang	when	other	other				
+jinghpaw	dwi	0011	=she	=then	=other	=other				
+jinghpaw	dwi	0012	#	#	##neg	##neg				
+jinghpaw	dwi	0012	0	0	0.h:p	0	h	p	204	
+jinghpaw	dwi	0012	gadai	who	np.h:a	np	h	a		
+jinghpaw	dwi	0012	=mung	=also	=other	=other				
+jinghpaw	dwi	0012	nau	too.much	other	other				
+jinghpaw	dwi	0012	n-kam	NEG-be.willing	lv	lv				
+jinghpaw	dwi	0012	hkau	befriend	v:pred	v		pred		
+jinghpaw	dwi	0012	=la	=take	=aux	=aux				
+jinghpaw	dwi	0012	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0012	rai	COP	other	other				
+jinghpaw	dwi	0012	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0013	#	#	##	##				
+jinghpaw	dwi	0013	gaga	other	ln_adj	ln_adj				
+jinghpaw	dwi	0013	ma	child	np.h:a	np	h	a	210	bridging
+jinghpaw	dwi	0013	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0013	=mung	=also	=other	=other				
+jinghpaw	dwi	0013	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0013	lasha	man	np.h:p	np	h	p	202	
+jinghpaw	dwi	0013	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0013	grai	very	other	other				
+jinghpaw	dwi	0013	=mung	=also	=other	=other				
+jinghpaw	dwi	0013	dangsha	tease	v:pred	v		pred		
+jinghpaw	dwi	0013	=ma	=PL	=aux	=aux				
+jinghpaw	dwi	0013	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0013	=da	=HS	=other	=other				
+jinghpaw	dwi	0014	#	#	##	##				
+jinghpaw	dwi	0014	la-ni	one-day	np:other	np		other	211	new
+jinghpaw	dwi	0014	mi	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0014	=she	=then	=other	=other				
+jinghpaw	dwi	0014	=da	=HS	=other	=other				
+jinghpaw	dwi	0014	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0014	mare	village	ln_np	ln_np			201	
+jinghpaw	dwi	0014	=kaw	=LOC	=ln	=ln				
+jinghpaw	dwi	0014	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0014	lasha	man	nc_np.h	nc_np	h		212	bridging
+jinghpaw	dwi	0014	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0014	lasha	man	ln_np.h	ln_np	h		212	
+jinghpaw	dwi	0014	=hte	=COM	=ln	=ln				
+jinghpaw	dwi	0014	shanhte	3PL	ln_pro	ln_pro				
+jinghpaw	dwi	0014	ram	youth	np.h:a	np	h	a	210	
+jinghpaw	dwi	0014	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0014	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0014	=i	=SFP	=other	=other				
+jinghpaw	dwi	0014	#	#	#cc:p	#cc		p		
+jinghpaw	dwi	0014	0	0	0.h:a	0	h	a	214	bridging
+jinghpaw	dwi	0014	nga	fish	np:p	np		p	213	new
+jinghpaw	dwi	0014	sa	go	lv	lv				
+jinghpaw	dwi	0014	hkwi	catch	vother:pred	vother		pred		
+jinghpaw	dwi	0014	=na	=IRR	=aux	=aux				
+jinghpaw	dwi	0014	%	%	%	%				
+jinghpaw	dwi	0014	hkyen	prepare	v:pred	v		pred		
+jinghpaw	dwi	0014	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0014	=da	=HS	=other	=other				
+jinghpaw	dwi	0015	#	#	##	##				
+jinghpaw	dwi	0015	#	#	#cc:p	#cc		p		
+jinghpaw	dwi	0015	0	0	0.h:a	0	h	a	214	
+jinghpaw	dwi	0015	nga	fish	np:p	np		p	213	
+jinghpaw	dwi	0015	sa	go	lv	lv				
+jinghpaw	dwi	0015	hkwi	catch	vother:pred	vother		pred		
+jinghpaw	dwi	0015	=na	=IRR	=aux	=aux				
+jinghpaw	dwi	0015	%	%	%	%				
+jinghpaw	dwi	0015	0	0	0.h:a	0	h	a	214	
+jinghpaw	dwi	0015	hkyen	prepare	v:pred	v		pred		
+jinghpaw	dwi	0015	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0015	#	#	##	##				
+jinghpaw	dwi	0015	0	0	0.h:s	0	h	s	214	
+jinghpaw	dwi	0015	lai	pass	v:pred	v		pred		
+jinghpaw	dwi	0015	wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0015	yang	when	other	other				
+jinghpaw	dwi	0016	#	#	##	##				
+jinghpaw	dwi	0016	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0016	ma	child	np.h:s	np	h	s	202	
+jinghpaw	dwi	0016	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0016	manang	friend	np.h:obl	np	h	obl		
+jinghpaw	dwi	0016	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0016	=hte	=COM	=rn	=rn				
+jinghpaw	dwi	0016	grai	very	other	other				
+jinghpaw	dwi	0016	chyai	play	v:pred	v		pred		
+jinghpaw	dwi	0016	=mayu	=DESID	=aux	=aux				
+jinghpaw	dwi	0016	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0017	#	#	##	##				
+jinghpaw	dwi	0017	0	0	0.h:s	0	h	s	202	
+jinghpaw	dwi	0017	ma	child	np.h:pred	np	h	pred		
+jinghpaw	dwi	0017	re	COP	cop	cop				
+jinghpaw	dwi	0017	nga	say	other	other				
+jinghpaw	dwi	0017	yang	when	other	other				
+jinghpaw	dwi	0017	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0017	#	#	##	##				
+jinghpaw	dwi	0017	0	0	0.h:s	0	h	s	202	
+jinghpaw	dwi	0017	grai	very	other	other				
+jinghpaw	dwi	0017	ginsup	play	v:pred	v		pred		
+jinghpaw	dwi	0017	=mayu	=DESID	=aux	=aux				
+jinghpaw	dwi	0017	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0017	re	COP	other	other				
+jinghpaw	dwi	0017	majaw	because	other	other				
+jinghpaw	dwi	0018	#	#	##	##				
+jinghpaw	dwi	0018	shi	3SG	pro.h:dt_a	pro	h	dt_a	202	
+jinghpaw	dwi	0018	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0018	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0018	ma	child	np.h:a	np	h	a	202	
+jinghpaw	dwi	0018	#	#	#cc:p	#cc		p		
+jinghpaw	dwi	0018	lasha	man	np.h:s	np	h	s	214	
+jinghpaw	dwi	0018	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0018	lai	pass	v:pred	v		pred		
+jinghpaw	dwi	0018	wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0018	%	%	%	%				
+jinghpaw	dwi	0018	mu	see	v:pred	v		pred		
+jinghpaw	dwi	0018	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0018	=she	=then	=other	=other				
+jinghpaw	dwi	0019	#	#	##ds	##ds				
+jinghpaw	dwi	0019	nanhte	2PL	pro.2:s	pro	2	s	214	
+jinghpaw	dwi	0019	gara	where	np:g	np		g		
+jinghpaw	dwi	0019	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0019	=na	=IRR	=aux	=aux				
+jinghpaw	dwi	0019	=rai	=Q	=other	=other				
+jinghpaw	dwi	0019	#	#	##	##				
+jinghpaw	dwi	0019	0	0	0.h:s_ds	0	h	s_ds	202	
+jinghpaw	dwi	0019	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0019	yang	when	other	other				
+jinghpaw	dwi	0019	=she	=then	=other	=other				
+jinghpaw	dwi	0020	#	#	##ds	##ds				
+jinghpaw	dwi	0020	0	0	0.1:a	0	1	a	214	
+jinghpaw	dwi	0020	nga	fish	np:p	np		p	213	
+jinghpaw	dwi	0020	hkwi	catch	lv	lv				
+jinghpaw	dwi	0020	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0020	=na	=IRR	=aux	=aux				
+jinghpaw	dwi	0020	#	#	##	##				
+jinghpaw	dwi	0020	0	0	0.h:s_ds	0	h	s_ds	214	
+jinghpaw	dwi	0020	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0020	yang	when	other	other				
+jinghpaw	dwi	0021	#	#	##ds	##ds				
+jinghpaw	dwi	0021	0	0	0.1:a	0	1	a	214	
+jinghpaw	dwi	0021	nga	fish	np:p	np		p	213	
+jinghpaw	dwi	0021	hkwi	catch	lv	lv				
+jinghpaw	dwi	0021	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0021	=na	=IRR	=aux	=aux				
+jinghpaw	dwi	0021	#	#	##	##				
+jinghpaw	dwi	0021	0	0	0.h:s_ds	0	h	s_ds	214	
+jinghpaw	dwi	0021	nga	QUOT	other	other				
+jinghpaw	dwi	0021	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0021	yang	when	other	other				
+jinghpaw	dwi	0021	=she	=then	=other	=other				
+jinghpaw	dwi	0022	#	#	##	##				
+jinghpaw	dwi	0022	shi	3SG	np.h:s_ds	np	h	s_ds	202	
+jinghpaw	dwi	0022	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0022	#	#	##ds	##ds				
+jinghpaw	dwi	0022	0	0	0.2:p	0	2	p	214	
+jinghpaw	dwi	0022	ngai	1SG	pro.1:a	pro	1	a	202	
+jinghpaw	dwi	0022	=ma	=also	=other	=other				
+jinghpaw	dwi	0022	i	Q	other	other				
+jinghpaw	dwi	0022	mai	be.OK	lv	lv				
+jinghpaw	dwi	0022	hkan	follow	v:pred	v		pred		
+jinghpaw	dwi	0022	=na	=IRR	=aux	=aux				
+jinghpaw	dwi	0022	=rai	=Q	=other	=other				
+jinghpaw	dwi	0022	%	%	%	%				
+jinghpaw	dwi	0022	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0022	yang	when	other	other				
+jinghpaw	dwi	0023	#	#	##ds	##ds				
+jinghpaw	dwi	0023	0	0	0.2:a	0	2	a	202	
+jinghpaw	dwi	0023	0	0	0.1:p	0	1	p	214	
+jinghpaw	dwi	0023	hkan	follow	v:pred	v		pred		
+jinghpaw	dwi	0023	=ga	=HORT	=rv	=rv				
+jinghpaw	dwi	0023	=le	=SFP	=other	=other				
+jinghpaw	dwi	0024	#	#	##ds	##ds				
+jinghpaw	dwi	0024	0	0	0.1:s	0	1	s		
+jinghpaw	dwi	0024	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0024	=ga	=HORT	=rv	=rv				
+jinghpaw	dwi	0024	=le	=SFP	=other	=other				
+jinghpaw	dwi	0024	#	#	##	##				
+jinghpaw	dwi	0024	0	0	0.h:s_ds	0	h	s_ds	214	
+jinghpaw	dwi	0024	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0024	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0025	#	#	##	##				
+jinghpaw	dwi	0025	0	0	0.h:s	0	h	s	214	
+jinghpaw	dwi	0025	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0025	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0025	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0025	yang	when	other	other				
+jinghpaw	dwi	0025	=she	=then	=other	=other				
+jinghpaw	dwi	0026	#	#	##	##				
+jinghpaw	dwi	0026	ma	child	np.h:s	np	h	s	202	
+jinghpaw	dwi	0026	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0026	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0026	nta	house	np:g	np		g	217	bridging
+jinghpaw	dwi	0026	=de	=ALL	=rn	=rn				
+jinghpaw	dwi	0026	gat-gat	run-RED	v:pred	v		pred		
+jinghpaw	dwi	0026	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0026	=she	=then	=other	=other				
+jinghpaw	dwi	0027	#	#	##ds	##ds				
+jinghpaw	dwi	0027	a-dwi	KIN-grandmother	np.h:voc	np	h	voc	203	
+jinghpaw	dwi	0027	ngai	1SG	pro.1:a	pro	1	a	202	
+jinghpaw	dwi	0027	nga	fish	np:p	np		p	213	
+jinghpaw	dwi	0027	hkwi	catch	lv	lv				
+jinghpaw	dwi	0027	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0027	=na	=IRR	=aux	=aux				
+jinghpaw	dwi	0027	=yaw	=SFP	=other	=other				
+jinghpaw	dwi	0027	#	#	##	##				
+jinghpaw	dwi	0027	0	0	0.h:s_ds	0	h	s_ds	202	
+jinghpaw	dwi	0027	nga	QUOT	other	other				
+jinghpaw	dwi	0027	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0027	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0028	#	#	##ds	##ds				
+jinghpaw	dwi	0028	0	0	0.2:s	0	2	s	202	
+jinghpaw	dwi	0028	e	INTJ	other	other				
+jinghpaw	dwi	0028	ma	child	np.h:voc	np	h	voc	202	
+jinghpaw	dwi	0028	=e	=SFP	=other	=other				
+jinghpaw	dwi	0028	gadai	who	np.h:obl	np	h	obl		
+jinghpaw	dwi	0028	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0028	=hte	=COM	=rn	=rn				
+jinghpaw	dwi	0028	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0028	=na	=IRR	=aux	=aux				
+jinghpaw	dwi	0028	=ma	=Q	=other	=other				
+jinghpaw	dwi	0028	#	#	##	##				
+jinghpaw	dwi	0028	0	0	0.h:s_ds	0	h	s_ds	203	
+jinghpaw	dwi	0028	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0028	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0029	#	#	##ds	##ds				
+jinghpaw	dwi	0029	0	0	0.1:s	0	1	s	202	
+jinghpaw	dwi	0029	dai	well	other	other				
+jinghpaw	dwi	0029	aw	over.there	ln_dem	ln_dem				
+jinghpaw	dwi	0029	mare	village	ln_np	ln_np			201	
+jinghpaw	dwi	0029	=kaw	=LOC	=ln	=ln				
+jinghpaw	dwi	0029	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0029	manang	friend	np.h:obl	np	h	obl	210	
+jinghpaw	dwi	0029	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0029	=hte	=COM	=rn	=rn				
+jinghpaw	dwi	0029	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0029	=na	=IRR	=aux	=aux				
+jinghpaw	dwi	0030	#	#	##ds	##ds				
+jinghpaw	dwi	0030	0	0	0.2:a	0	2	a	202	
+jinghpaw	dwi	0030	ma	ma	np.h:voc	np	h	voc	202	
+jinghpaw	dwi	0030	=e	=SFP	=other	=other				
+jinghpaw	dwi	0031	an	1DU	ln_pro	ln_pro				
+jinghpaw	dwi	0031	dwi	grandmother	ln_np.h:poss	ln_np	h	poss	204	
+jinghpaw	dwi	0031	=ni	=PL	=ln	=ln				
+jinghpaw	dwi	0031	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0031	lam	situation	np:p	np		p	218	bridging
+jinghpaw	dwi	0031	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0031	chye	know	v:pred	v		pred		
+jinghpaw	dwi	0031	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	dwi	0031	n-re	NEG-COP	other	other				
+jinghpaw	dwi	0031	=i	=SFP	=other	=other				
+jinghpaw	dwi	0032	#	#	##ds.neg	##ds.neg				
+jinghpaw	dwi	0032	masha	person	np.h:a	np	h	a	209	
+jinghpaw	dwi	0032	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0032	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0032	an	1DU	ln_pro	ln_pro				
+jinghpaw	dwi	0032	dwi	grandmother	np.h:p	np	h	p	204	
+jinghpaw	dwi	0032	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0032	=hpe	=ACC	=other	=other				
+jinghpaw	dwi	0032	a-tsawm	ADV-be.beautiful	other	other				
+jinghpaw	dwi	0032	re	COP	other	other				
+jinghpaw	dwi	0032	hkau	befriend	v:pred	v		pred		
+jinghpaw	dwi	0032	=la	=take	=aux	=aux				
+jinghpaw	dwi	0032	=na	=IRR.NMLZ	=aux	=aux				
+jinghpaw	dwi	0032	n-re	NEG-COP	other	other				
+jinghpaw	dwi	0033	#	#	##ds	##ds				
+jinghpaw	dwi	0033	0	0	0.2:s	0	2	s	202	
+jinghpaw	dwi	0033	hkum	PROH	other	other				
+jinghpaw	dwi	0033	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0033	#	#	##	##				
+jinghpaw	dwi	0033	0	0	0.h:s_ds	0	h	s_ds	203	
+jinghpaw	dwi	0033	nga	QUOT	other	other				
+jinghpaw	dwi	0033	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0033	yang	when	other	other				
+jinghpaw	dwi	0033	=she	=then	=other	=other				
+jinghpaw	dwi	0034	#	#	##	##				
+jinghpaw	dwi	0034	shi	3SG	pro.h:s_ds	pro	h	s_ds	202	
+jinghpaw	dwi	0034	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0034	#	#	##ds	##ds				
+jinghpaw	dwi	0034	0	0	0.1:p	0	1	p	202	
+jinghpaw	dwi	0034	a-dwi	KIN-grandmother	np.h:voc	np	h	voc	203	
+jinghpaw	dwi	0034	shanhte	3PL	pro.h:s	pro	h	s	210	
+jinghpaw	dwi	0034	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0034	gaja	be.well	other	other				
+jinghpaw	dwi	0034	=wa	=ADV	=other	=other				
+jinghpaw	dwi	0034	=sha	=only	=other	=other				
+jinghpaw	dwi	0034	hkau	befriend	v:pred	v		pred		
+jinghpaw	dwi	0034	=la	=take	=aux	=aux				
+jinghpaw	dwi	0034	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0034	=law	=SFP	=other	=other				
+jinghpaw	dwi	0035	#	#	##ds	##ds				
+jinghpaw	dwi	0035	ngai	1SG	pro.h:s	pro	h	s	202	
+jinghpaw	dwi	0035	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0035	=na	=IRR	=aux	=aux				
+jinghpaw	dwi	0035	=law	=SFP	=other	=other				
+jinghpaw	dwi	0035	#	#	##	##				
+jinghpaw	dwi	0035	0	0	0.1:s_ds	0	1	s_ds	202	
+jinghpaw	dwi	0035	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0035	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0035	=she	=then	=other	=other				
+jinghpaw	dwi	0036	#	#	##ds	##ds				
+jinghpaw	dwi	0036	e	INTJ	other	other				
+jinghpaw	dwi	0036	e	INTJ	other	other				
+jinghpaw	dwi	0036	e	INTJ	other	other				
+jinghpaw	dwi	0036	nang	2SG	pro.2:s	pro	2	s	202	
+jinghpaw	dwi	0036	yu	look	v:pred	v		pred		
+jinghpaw	dwi	0036	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0036	#	#	##ds	##ds				
+jinghpaw	dwi	0036	#	#	#ds_ac	#ds_ac				
+jinghpaw	dwi	0036	0	0	0.2:p	0	2	p	202	
+jinghpaw	dwi	0036	a-tsawm	ADV-be.beautiful	other	other				
+jinghpaw	dwi	0036	rai	COP	other	other				
+jinghpaw	dwi	0036	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0036	masha	person	np.h:a	np	h	a	219	bridging
+jinghpaw	dwi	0036	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0036	dangsha	tease	v:pred	v		pred		
+jinghpaw	dwi	0036	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0036	yang	when	other	other				
+jinghpaw	dwi	0036	=mung	=also	=other	=other				
+jinghpaw	dwi	0036	%	%	%	%				
+jinghpaw	dwi	0037	0	0	0.2:a	0	2	a	202	
+jinghpaw	dwi	0037	matai	answer	np:p	np		p		
+jinghpaw	dwi	0037	hkum	PROH	other	other				
+jinghpaw	dwi	0037	htang	reply	v:pred	v		pred		
+jinghpaw	dwi	0037	=yaw	=SFP	=other	=other				
+jinghpaw	dwi	0038	#	#	##ds	##ds				
+jinghpaw	dwi	0038	0	0	0.2:s	0	2	s	202	
+jinghpaw	dwi	0038	a-tsawm	ADV-be.beautiful	other	other				
+jinghpaw	dwi	0038	rai	COP	other	other				
+jinghpaw	dwi	0038	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0038	bai	again	other	other				
+jinghpaw	dwi	0038	wa	return	v:pred	v		pred		
+jinghpaw	dwi	0038	=u	=IMP	=rv	=rv				
+jinghpaw	dwi	0038	=yaw	=SFP	=other	=other				
+jinghpaw	dwi	0038	#	#	##	##				
+jinghpaw	dwi	0038	0	0	0.h:s_ds	0	h	s_ds	203	
+jinghpaw	dwi	0038	nga	QUOT	other	other				
+jinghpaw	dwi	0038	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0038	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0039	#	#	##ds	##ds				
+jinghpaw	dwi	0039	e	INTJ	other	other				
+jinghpaw	dwi	0039	mai	be.OK	v:pred	v		pred		
+jinghpaw	dwi	0039	=s-a	=CSM-DECL	=rv	=rv				
+jinghpaw	dwi	0039	#	#	##	##				
+jinghpaw	dwi	0039	0	0	0.h:s_ds	0	h	s_ds	202	
+jinghpaw	dwi	0039	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0039	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0039	=she	=then	=other	=other				
+jinghpaw	dwi	0040	#	#	##	##				
+jinghpaw	dwi	0040	0	0	0.h:p	0	h	p	214	
+jinghpaw	dwi	0040	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0040	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0040	hkan-nang	follow-follow	v:pred	v		pred		
+jinghpaw	dwi	0040	=mat	=COMPL	=aux	=aux				
+jinghpaw	dwi	0040	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0040	jang	when	other	other				
+jinghpaw	dwi	0040	=she	=then	=other	=other				
+jinghpaw	dwi	0041	#	#	##	##				
+jinghpaw	dwi	0041	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0041	0	0	0.h:p	0	h	p	214	
+jinghpaw	dwi	0041	hkan-nang	follow-follow	v:pred	v		pred		
+jinghpaw	dwi	0041	=mat	=COMPL	=aux	=aux				
+jinghpaw	dwi	0041	wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0041	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0041	shaloi	when	other	other				
+jinghpaw	dwi	0042	#	#	##	##				
+jinghpaw	dwi	0042	0	0	0.h:a	0	h	a	266	bridging
+jinghpaw	dwi	0042	shani	daytime	other	other				
+jinghpaw	dwi	0042	nga	fish	nc	nc				
+jinghpaw	dwi	0042	=ni	=PL	nc	nc				
+jinghpaw	dwi	0042	hka	river	np:p	np		p	216	new
+jinghpaw	dwi	0042	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0042	pat	close	v:pred	v		pred		
+jinghpaw	dwi	0042	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0043	#	#	##	##				
+jinghpaw	dwi	0043	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0043	nga	fish	np:p	np		p	220	bridging
+jinghpaw	dwi	0043	htawk	scoop	nc	nc				
+jinghpaw	dwi	0043	htawk	scoop	nc	nc				
+jinghpaw	dwi	0043	htawk	scoop	v:pred	v		pred		
+jinghpaw	dwi	0043	rai	LV	other	other				
+jinghpaw	dwi	0043	#	#	##	##				
+jinghpaw	dwi	0043	0	0	0.h:a	0	h	a	210	
+jinghpaw	dwi	0043	0	0	0:p2	0		p2	220	
+jinghpaw	dwi	0043	shi	3SG	pro.h:p	pro	h	p	202	
+jinghpaw	dwi	0043	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0043	agying	with.total.effort	other	other				
+jinghpaw	dwi	0043	htawk	scoop	v:pred	v		pred		
+jinghpaw	dwi	0043	=shangun	=CAUS	=aux	=aux				
+jinghpaw	dwi	0043	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0044	#	#	##	##				
+jinghpaw	dwi	0044	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0044	0	0	0:p	0		p	220	
+jinghpaw	dwi	0044	htawk	scoop	nc	nc				
+jinghpaw	dwi	0044	htawk	scoop	nc	nc				
+jinghpaw	dwi	0044	htawk	scoop	v:pred	v		pred		
+jinghpaw	dwi	0044	rai	COP	other	other				
+jinghpaw	dwi	0044	yang	when	other	other				
+jinghpaw	dwi	0045	#	#	##	##				
+jinghpaw	dwi	0045	#	#	#ac	#ac				
+jinghpaw	dwi	0045	hka	water	np:s	np		s		
+jinghpaw	dwi	0045	hkyet	dry.up	v:pred	v		pred		
+jinghpaw	dwi	0045	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0045	maga	side	np:other	np		other		
+jinghpaw	dwi	0045	%	%	%	%				
+jinghpaw	dwi	0045	=de	=ALL	=rn	=rn				
+jinghpaw	dwi	0045	=she	=then	=other	=other				
+jinghpaw	dwi	0045	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0045	=kaw	=LOC	=ln	=ln				
+jinghpaw	dwi	0045	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0045	ma	child	ln_np.h	ln_np	h		210	
+jinghpaw	dwi	0045	=kaw	=LOC	=ln	=ln				
+jinghpaw	dwi	0045	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0045	langai	one	np.h:s_ds	np	h	s_ds	221	bridging
+jinghpaw	dwi	0045	mi	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0045	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0045	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0045	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0046	#	#	##ds	##ds				
+jinghpaw	dwi	0046	e	INTJ	other	other				
+jinghpaw	dwi	0046	nang	2SG	pro.2:a	pro	2	a	202	
+jinghpaw	dwi	0046	nam	forest	np:g	np		g	222	unused
+jinghpaw	dwi	0046	=de	=ALL	=rn	=rn				
+jinghpaw	dwi	0046	ora	over.there	ln_dem_pro	ln_dem_pro				
+jinghpaw	dwi	0046	=kaw	=LOC	=ln	=ln				
+jinghpaw	dwi	0046	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0046	ndai	well	nc	nc				
+jinghpaw	dwi	0046	#	#	#ds_rc.neg	#ds_rc.neg				
+jinghpaw	dwi	0046	kawa-tsawp	bamboo-shell	np:s	np		s		
+jinghpaw	dwi	0046	n-kap	NEG-be.attached	v:pred	v		pred		
+jinghpaw	dwi	0046	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	dwi	0046	%	%	%	%				
+jinghpaw	dwi	0046	kawa	bamboo	np:p	np		p	223	new
+jinghpaw	dwi	0046	sa	go	lv	lv				
+jinghpaw	dwi	0046	dan	cut	v:pred	v		pred		
+jinghpaw	dwi	0046	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0046	=rit	=IMP	=rv	=rv				
+jinghpaw	dwi	0046	#	#	##	##				
+jinghpaw	dwi	0046	0	0	0.h:s_ds	0	h	s_ds	221	
+jinghpaw	dwi	0046	nga	QUOT	other	other				
+jinghpaw	dwi	0046	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0046	=dat	=away	=other	=other				
+jinghpaw	dwi	0046	yang	when	other	other				
+jinghpaw	dwi	0046	=she	=then	=other	=other				
+jinghpaw	dwi	0047	#	#	#nc	#nc				
+jinghpaw	dwi	0047	0	0	nc_0.h	nc_0	h		221	
+jinghpaw	dwi	0047	tsawp	shell	nc	nc				
+jinghpaw	dwi	0047	n-kap	NEG-be.attached	nc	nc				
+jinghpaw	dwi	0047	=ai	=DECL.NMLZ	nc	nc				
+jinghpaw	dwi	0047	kawa	bamboo	nc_np	nc_np			223	
+jinghpaw	dwi	0047	sa	go	nc	nc				
+jinghpaw	dwi	0047	dan	cut	nc	nc				
+jinghpaw	dwi	0047	=wa	=VEN	nc	nc				
+jinghpaw	dwi	0047	=rit	=IMP	nc	nc				
+jinghpaw	dwi	0047	#	#	##ds	##ds				
+jinghpaw	dwi	0047	0	0	0.h:s_ds	0	h	s_ds	221	
+jinghpaw	dwi	0047	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0047	yang	when	other	other				
+jinghpaw	dwi	0047	=she	=then	=other	=other				
+jinghpaw	dwi	0048	#	#	##	##				
+jinghpaw	dwi	0048	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0048	ma	child	np.h:dt_s	np	h	dt_s	202	
+jinghpaw	dwi	0048	dai	that	dem_pro.h:s_ds	dem_pro	h	s_ds	202	
+jinghpaw	dwi	0048	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0048	#	#	##ds	##ds				
+jinghpaw	dwi	0048	e	INTJ	other	other				
+jinghpaw	dwi	0048	mai	be.OK	v:pred	v		pred		
+jinghpaw	dwi	0048	=s-a	=CSM-DECL	=rv	=rv				
+jinghpaw	dwi	0048	%	%	%	%				
+jinghpaw	dwi	0048	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0048	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0048	=she	=then	=other	=other				
+jinghpaw	dwi	0049	#	#	##	##				
+jinghpaw	dwi	0049	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0049	nhtu	sword	np:p	np		p	224	new
+jinghpaw	dwi	0049	la	take	v:pred	v		pred		
+jinghpaw	dwi	0049	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0049	=she	=then	=other	=other				
+jinghpaw	dwi	0050	#	#	##	##				
+jinghpaw	dwi	0050	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0050	kawa	bamboo	np:p	np		p	223	
+jinghpaw	dwi	0050	sa	go	lv	lv				
+jinghpaw	dwi	0050	kahtam	cut	lv	lv				
+jinghpaw	dwi	0050	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0051	#	#	#nc	#nc				
+jinghpaw	dwi	0051	gara	where	nc	nc				
+jinghpaw	dwi	0051	=kaw	=LOC	nc	nc				
+jinghpaw	dwi	0051	kahtam	cut	nc	nc				
+jinghpaw	dwi	0051	=tim	=but	nc	nc				
+jinghpaw	dwi	0051	kap	be.attached	nc	nc				
+jinghpaw	dwi	0051	=taw-nga	=CONT-CONT	nc	nc				
+jinghpaw	dwi	0052	#	#	##	##				
+jinghpaw	dwi	0052	#	#	#ac	#ac				
+jinghpaw	dwi	0052	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0052	0	0	0:p	0		p	223	
+jinghpaw	dwi	0052	gara	where	np:l	np		l		
+jinghpaw	dwi	0052	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0052	kahtam	cut	v:pred	v		pred		
+jinghpaw	dwi	0052	=tim	=but	=other	=other				
+jinghpaw	dwi	0052	%	%	%	%				
+jinghpaw	dwi	0052	0	0	0:s	0		s		
+jinghpaw	dwi	0052	kawa	bamboo	np:l	np		l	225	bridging
+jinghpaw	dwi	0052	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0052	kap	be.attached	v:pred	v		pred		
+jinghpaw	dwi	0052	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0052	yang	when	other	other				
+jinghpaw	dwi	0052	=she	=then	=other	=other				
+jinghpaw	dwi	0053	#	#	##	##				
+jinghpaw	dwi	0053	shi	3SG	pro.h:s_ds	pro	h	s_ds	202	
+jinghpaw	dwi	0053	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0053	#	#	##ds.neg	##ds.neg				
+jinghpaw	dwi	0053	0	0	0:s	0		s	223	
+jinghpaw	dwi	0053	n-nga	NEG-be	v:pred	v		pred		
+jinghpaw	dwi	0053	%	%	%	%				
+jinghpaw	dwi	0053	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0054	#	#	##	##				
+jinghpaw	dwi	0054	#	#	#ac	#ac				
+jinghpaw	dwi	0054	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0054	agying	with.total.effort	other	other				
+jinghpaw	dwi	0054	nam	forest	np:p	np		p	222	
+jinghpaw	dwi	0054	ting	whole	other	other				
+jinghpaw	dwi	0054	gade	how.much	other	other				
+jinghpaw	dwi	0054	kahtam	cut	v:pred	v		pred		
+jinghpaw	dwi	0054	=tim	=but	=other	=other				
+jinghpaw	dwi	0054	%	%	%	%				
+jinghpaw	dwi	0054	=sha	=only	=other	=other				
+jinghpaw	dwi	0054	0	0	0:s	0		s		
+jinghpaw	dwi	0054	naw	still	other	other				
+jinghpaw	dwi	0054	kap	be.attached	v:pred	v		pred		
+jinghpaw	dwi	0054	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0054	yang	when	other	other				
+jinghpaw	dwi	0054	=she	=then	=other	=other				
+jinghpaw	dwi	0055	#	#	##	##				
+jinghpaw	dwi	0055	shi	3SG	nc_pro.h	nc_pro	h		202	
+jinghpaw	dwi	0055	=gaw	=TOP	nc	nc				
+jinghpaw	dwi	0055	hpang-jahtum	after-end	other	other				
+jinghpaw	dwi	0055	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0055	shi	3SG	pro.h:s_ds	pro	h	s_ds	202	
+jinghpaw	dwi	0055	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0055	#	#	##ds	##ds				
+jinghpaw	dwi	0055	0	0	0.1:s	0	1	s	202	
+jinghpaw	dwi	0055	chye	know	v:pred	v		pred		
+jinghpaw	dwi	0055	=yau	=away	=aux	=aux				
+jinghpaw	dwi	0055	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	dwi	0055	=law	=SFP	=other	=other				
+jinghpaw	dwi	0056	#	#	##nc	##nc				
+jinghpaw	dwi	0056	gara	how	nc	nc				
+jinghpaw	dwi	0056	=hku	=like	nc	nc				
+jinghpaw	dwi	0056	rai	COP	nc	nc				
+jinghpaw	dwi	0056	yang	when	nc	nc				
+jinghpaw	dwi	0056	rai	COP	nc	nc				
+jinghpaw	dwi	0056	#	#	##	##				
+jinghpaw	dwi	0056	0	0	0.h:s_ds	0	h	s_ds	202	
+jinghpaw	dwi	0056	ngu	say	v:pred	v		pred		
+jinghpaw	dwi	0056	=she	=then	=other	=other				
+jinghpaw	dwi	0057	#	#	##	##				
+jinghpaw	dwi	0057	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0057	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0057	langai	one	np:p	np		p	229	bridging
+jinghpaw	dwi	0057	mi	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0057	kahtam	cut	v:pred	v		pred		
+jinghpaw	dwi	0057	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0057	di	LV	other	other				
+jinghpaw	dwi	0057	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0057	#	#	##	##				
+jinghpaw	dwi	0057	0	0	0.h:s	0	h	s		
+jinghpaw	dwi	0057	wa	return	v:pred	v		pred		
+jinghpaw	dwi	0057	re	LV	other	other				
+jinghpaw	dwi	0057	=she	=then	=other	=other				
+jinghpaw	dwi	0058	#	#	##	##				
+jinghpaw	dwi	0058	htora	that	dem_pro.h:a	dem_pro	h	a	214	
+jinghpaw	dwi	0058	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0058	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0058	nga	fish	np:p	np		p	220	
+jinghpaw	dwi	0058	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0058	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0058	yawng	all	other	other				
+jinghpaw	dwi	0058	manaw	pick	v:pred	v		pred		
+jinghpaw	dwi	0058	=la	=take	=aux	=aux				
+jinghpaw	dwi	0058	di	LV	other	other				
+jinghpaw	dwi	0058	#	#	##	##				
+jinghpaw	dwi	0058	0	0	0.h:s	0	h	s	214	
+jinghpaw	dwi	0058	wa	return	v:pred	v		pred		
+jinghpaw	dwi	0058	=mat	=COMPL	=aux	=aux				
+jinghpaw	dwi	0058	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0059	#	#	##	##				
+jinghpaw	dwi	0059	rai	COP	other	other				
+jinghpaw	dwi	0059	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0059	=she	=then	=other	=other				
+jinghpaw	dwi	0059	shanhte	3PL	pro.h:a	pro	h	a	214	
+jinghpaw	dwi	0059	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0059	ndai	this	ln_dem	ln_dem				
+jinghpaw	dwi	0059	nga	fish	np:p	np		p	220	
+jinghpaw	dwi	0059	htawk	scoop	v:pred	v		pred		
+jinghpaw	dwi	0059	=la	=take	=aux	=aux				
+jinghpaw	dwi	0059	=ngut	=finish	=aux	=aux				
+jinghpaw	dwi	0059	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0059	hpang	after	other	other				
+jinghpaw	dwi	0059	=e	=LOC	=rn	=rn				
+jinghpaw	dwi	0059	=she	=then	=other	=other				
+jinghpaw	dwi	0060	#	#	##	##				
+jinghpaw	dwi	0060	0	0	0.h:a	0	h	a	214	
+jinghpaw	dwi	0060	hka	water	np:p	np		p	216	
+jinghpaw	dwi	0060	bai	again	other	other				
+jinghpaw	dwi	0060	hpaw	open	lv	lv				
+jinghpaw	dwi	0060	bang	put	v:pred	v		pred		
+jinghpaw	dwi	0060	=dat	=away	=aux	=aux				
+jinghpaw	dwi	0060	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0060	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0060	shaloi	then	np:other	np		other		
+jinghpaw	dwi	0060	=she	=then	=other	=other				
+jinghpaw	dwi	0061	#	#	##neg	##neg				
+jinghpaw	dwi	0061	#	#	#ac	#ac				
+jinghpaw	dwi	0061	shanhte	3PL	np.h:a	np	h	a	214	
+jinghpaw	dwi	0061	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0061	nga	fish	np:p	np		p	220	
+jinghpaw	dwi	0061	hkwi	catch	v:pred	v		pred		
+jinghpaw	dwi	0061	=ai	=DECL	=aux	=aux				
+jinghpaw	dwi	0061	shaloi	when	other	other				
+jinghpaw	dwi	0061	%	%	%	%				
+jinghpaw	dwi	0062	0	0	0.h:a	0	h	a	214	
+jinghpaw	dwi	0062	ndai	this	ln_dem	ln_dem				
+jinghpaw	dwi	0062	nga	fish	np:p	np		p	226	bridging
+jinghpaw	dwi	0062	chyi-chyi-sha-law	be.small-RED-ADV-very	rn_adj	rn_adj				
+jinghpaw	dwi	0062	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0062	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0062	n-la	NEG-la	v:pred	v		pred		
+jinghpaw	dwi	0062	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0062	=le	=SFP	=other	=other				
+jinghpaw	dwi	0063	#	#	##	##				
+jinghpaw	dwi	0063	dai	that	dem_pro:s	dem_pro		s	226	
+jinghpaw	dwi	0063	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0063	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0063	hkumpup	mud	np:l	np		l	227	bridging
+jinghpaw	dwi	0063	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0063	nang	be.intoxicated	v:pred	v		pred		
+jinghpaw	dwi	0063	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0063	#	#	##	##				
+jinghpaw	dwi	0063	0	0	0:s	0		s	226	
+jinghpaw	dwi	0063	si	die	v:pred	v		pred		
+jinghpaw	dwi	0063	=mat	=COMPL	=aux	=aux				
+jinghpaw	dwi	0063	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0063	=le	=SFP	=other	=other				
+jinghpaw	dwi	0064	#	#	##	##				
+jinghpaw	dwi	0064	0	0	0:s	0		s	226	
+jinghpaw	dwi	0064	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0064	re	COP	other	other				
+jinghpaw	dwi	0064	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0064	=she	=then	=other	=other				
+jinghpaw	dwi	0065	nga	be	v:pred	v		pred		
+jinghpaw	dwi	0065	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0065	#	#	##	##				
+jinghpaw	dwi	0065	ndai	this	ln_dem	ln_dem				
+jinghpaw	dwi	0065	hka	water	ln_np	ln_np			228	bridging
+jinghpaw	dwi	0065	ntsa	above	np:l	np		l		
+jinghpaw	dwi	0065	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0065	dai	that	dem_pro:s	dem_pro		s	226	
+jinghpaw	dwi	0065	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0065	=sha	=only	=other	=other				
+jinghpaw	dwi	0065	waw	float	v:pred	v		pred		
+jinghpaw	dwi	0065	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0065	yang	when	other	other				
+jinghpaw	dwi	0065	=she	=then	=other	=other				
+jinghpaw	dwi	0066	#	#	##	##				
+jinghpaw	dwi	0066	0	0	0:s	0		s	226	
+jinghpaw	dwi	0066	#	#	#rc	#rc				
+jinghpaw	dwi	0066	0	0	rel_f0:s	rel_f0		s	228	
+jinghpaw	dwi	0066	hka	water	np:other	np		other	228	
+jinghpaw	dwi	0066	hkanu	be.dirty	v:pred	v		pred		
+jinghpaw	dwi	0066	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0066	%	%	%	%				
+jinghpaw	dwi	0066	ntsa	above	np:l	np		l		
+jinghpaw	dwi	0066	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0066	waw	float	v:pred	v		pred		
+jinghpaw	dwi	0066	=taw-nga	=CONT-CONTtaw	=aux	=aux				
+jinghpaw	dwi	0066	yang	when	other	other				
+jinghpaw	dwi	0066	=she	=then	=other	=other				
+jinghpaw	dwi	0067	#	#	##	##				
+jinghpaw	dwi	0067	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0067	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0067	dai	that	dem_pro:p	dem_pro		p	226	
+jinghpaw	dwi	0067	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0067	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0067	hta	pick	v:pred	v		pred		
+jinghpaw	dwi	0067	=la	=take	=aux	=aux				
+jinghpaw	dwi	0067	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0067	=she	=then	=other	=other				
+jinghpaw	dwi	0068	#	#	##	##				
+jinghpaw	dwi	0068	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0068	0	0	0:p	0		p	226	
+jinghpaw	dwi	0068	dai	that	nc	nc				
+jinghpaw	dwi	0068	kawa	bamboo	nc_np	nc_np			229	
+jinghpaw	dwi	0068	#	#	#rc	#rc				
+jinghpaw	dwi	0068	0	0	rel_f0:p	rel_f0		p	229	
+jinghpaw	dwi	0068	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0068	la	take	v:pred	v		pred		
+jinghpaw	dwi	0068	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0068	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0068	%	%	%	%				
+jinghpaw	dwi	0068	kawa-ntum	bamboo-bottle	np:g	np		g	229	
+jinghpaw	dwi	0068	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0068	bang	put	nc	nc				
+jinghpaw	dwi	0068	bang	put	nc	nc				
+jinghpaw	dwi	0068	bang	put	v:pred	v		pred		
+jinghpaw	dwi	0068	rai	COP	other	other				
+jinghpaw	dwi	0068	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0068	=she	=then	=other	=other				
+jinghpaw	dwi	0069	#	#	##	##				
+jinghpaw	dwi	0069	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0069	#	#	#rc	#rc				
+jinghpaw	dwi	0069	0	0	rel_f0:s	rel_f0		s	230	new
+jinghpaw	dwi	0069	hka	water	ln_np	ln_np			216	
+jinghpaw	dwi	0069	kau	beside	np:l	np		l		
+jinghpaw	dwi	0069	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0069	tu	sprout	v:pred	v		pred		
+jinghpaw	dwi	0069	=nga	=CONT	=aux	=aux				
+jinghpaw	dwi	0069	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	dwi	0069	%	%	%	%				
+jinghpaw	dwi	0069	namlap	leaf	np:p	np		p	230	
+jinghpaw	dwi	0069	langai	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0069	mi	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0069	dai	that	nc	nc				
+jinghpaw	dwi	0069	matsut	cork	nc	nc				
+jinghpaw	dwi	0069	kawa	bamboo	np:g	np		g	229	
+jinghpaw	dwi	0069	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0069	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0069	matsut	cork	v:pred	v		pred		
+jinghpaw	dwi	0069	di	LV	other	other				
+jinghpaw	dwi	0069	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0069	=she	=then	=other	=other				
+jinghpaw	dwi	0070	#	#	##	##				
+jinghpaw	dwi	0070	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0070	0	0	0:p	0		p	229	
+jinghpaw	dwi	0070	hpai	carry	v:pred	v		pred		
+jinghpaw	dwi	0070	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0070	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0071	#	#	##	##				
+jinghpaw	dwi	0071	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0071	0	0	0:p	0		p	229	
+jinghpaw	dwi	0071	hpai	carry	v:pred	v		pred		
+jinghpaw	dwi	0071	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0071	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0071	=she	=then	=other	=other				
+jinghpaw	dwi	0072	#	#	##	##				
+jinghpaw	dwi	0072	0	0	0.h:s	0	h	s	202	
+jinghpaw	dwi	0072	nta	house	np:g	np		g	217	
+jinghpaw	dwi	0072	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0072	du	arrive	v:pred	v		pred		
+jinghpaw	dwi	0072	yang	when	other	other				
+jinghpaw	dwi	0072	=she	=then	=other	=other				
+jinghpaw	dwi	0073	#	#	##ds	##ds				
+jinghpaw	dwi	0073	a-dwi	KIN-grandmother	np.h:voc	np	h	voc	203	
+jinghpaw	dwi	0073	ngai	1SG	pro.1:a	pro	1	a	202	
+jinghpaw	dwi	0073	daini	today	np:other	np		other	211	
+jinghpaw	dwi	0073	nga	fish	np:p	np		p	226	
+jinghpaw	dwi	0073	ndai	this	rn_dem	rn_dem				
+jinghpaw	dwi	0073	=sha	=only	=other	=other				
+jinghpaw	dwi	0073	la	take	v:pred	v		pred		
+jinghpaw	dwi	0073	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0073	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0073	#	#	##	##				
+jinghpaw	dwi	0073	0	0	0.h:s_ds	0	h	s_ds	202	
+jinghpaw	dwi	0073	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0073	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0074	#	#	##	##				
+jinghpaw	dwi	0074	0	0	0:p	0		p	229	
+jinghpaw	dwi	0074	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0074	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0074	ning	thus	other	other				
+jinghpaw	dwi	0074	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0074	hpaw	open	v:pred	v		pred		
+jinghpaw	dwi	0074	=dan	=CON	=aux	=aux				
+jinghpaw	dwi	0074	=dat	=away	=aux	=aux				
+jinghpaw	dwi	0074	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0074	shaloi	when	other	other				
+jinghpaw	dwi	0074	=she	=then	=other	=other				
+jinghpaw	dwi	0075	#	#	##	##				
+jinghpaw	dwi	0075	nga	fish	np:s	np		s	226	
+jinghpaw	dwi	0075	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0075	yawng	all	other	other				
+jinghpaw	dwi	0075	=hkra	=until	=other	=other				
+jinghpaw	dwi	0075	bai	again	other	other				
+jinghpaw	dwi	0075	hkrung	alive	v:pred	v		pred		
+jinghpaw	dwi	0075	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0075	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0075	=da	=HS	=other	=other				
+jinghpaw	dwi	0076	#	#	##	##				
+jinghpaw	dwi	0076	nga	fish	nc_np	nc_np			226	
+jinghpaw	dwi	0076	=ni	=PL	nc	nc				
+jinghpaw	dwi	0076	=gaw	=TOP	nc	nc				
+jinghpaw	dwi	0076	nga-gasha	fish-small	np:s	np		s	226	
+jinghpaw	dwi	0076	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0076	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0076	ndai	this	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0076	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0076	pyau	flit	v:pred	v		pred		
+jinghpaw	dwi	0076	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0076	hka	water	ln_np	ln_np			231	new
+jinghpaw	dwi	0076	kata	inside	np:l	np		l		
+jinghpaw	dwi	0076	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0077	#	#	##	##				
+jinghpaw	dwi	0077	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0077	0	0	0:g	0		g	229	
+jinghpaw	dwi	0077	hka	water	np:p	np		p	231	
+jinghpaw	dwi	0077	=ma	=also	=other	=other				
+jinghpaw	dwi	0077	bang	put	v:pred	v		pred		
+jinghpaw	dwi	0077	=da	=RES	=aux	=aux				
+jinghpaw	dwi	0077	=i	=SFP	=other	=other				
+jinghpaw	dwi	0078	#	#	##	##				
+jinghpaw	dwi	0078	dai	that	dem_pro:obl	dem_pro		obl		
+jinghpaw	dwi	0078	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0078	rai	COP	other	other				
+jinghpaw	dwi	0079	yawng	all	np:s	np		s	226	
+jinghpaw	dwi	0079	bai	again	other	other				
+jinghpaw	dwi	0079	hkrung	alive	v:pred	v		pred		
+jinghpaw	dwi	0079	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0079	rai	LV	other	other				
+jinghpaw	dwi	0079	yang	when	other	other				
+jinghpaw	dwi	0079	=she	=then	=other	=other				
+jinghpaw	dwi	0080	#	#	##	##				
+jinghpaw	dwi	0080	shi	3SG	pro.h:s	pro	h	s	202	
+jinghpaw	dwi	0080	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0080	bai	again	other	other				
+jinghpaw	dwi	0080	mau	be.surprised	v:pred	v		pred		
+jinghpaw	dwi	0080	=mat	=COMPL	=aux	=aux				
+jinghpaw	dwi	0080	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0081	#	#	##	##				
+jinghpaw	dwi	0081	dai	that	dem_pro:obl	dem_pro		obl		
+jinghpaw	dwi	0081	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0081	=na	=ABL	=rn	=rn				
+jinghpaw	dwi	0081	=she	=then	=other	=other				
+jinghpaw	dwi	0082	#	#	##ds	##ds				
+jinghpaw	dwi	0082	a-dwi	KIN-grandmother	np.h:voc	np	h	voc	203	
+jinghpaw	dwi	0082	ngai	1SG	nc_pro.1	nc_pro	1		202	
+jinghpaw	dwi	0082	myiyet	just.now	other	other				
+jinghpaw	dwi	0082	=sha	=only	=other	=other				
+jinghpaw	dwi	0082	re	COP	other	other				
+jinghpaw	dwi	0082	yang	when	other	other				
+jinghpaw	dwi	0082	nga	fish	np:s	np		s	226	
+jinghpaw	dwi	0082	ndai	this	rn_np	rn_np				
+jinghpaw	dwi	0082	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0082	yawng	all	other	other				
+jinghpaw	dwi	0082	=hkra	=until	=other	=other				
+jinghpaw	dwi	0082	si	die	v:pred	v		pred		
+jinghpaw	dwi	0082	=taw	=CONT	=aux	=aux				
+jinghpaw	dwi	0082	=s-a	=CSM-DECL	=rv	=rv				
+jinghpaw	dwi	0083	#	#	##ds.neg	##ds.neg				
+jinghpaw	dwi	0083	#	#	#ds_cc:p	#ds_cc		p		
+jinghpaw	dwi	0083	0	0	0:s	0		s	226	
+jinghpaw	dwi	0083	ya	now	other	other				
+jinghpaw	dwi	0083	hpa	what	np:other	np		other		
+jinghpaw	dwi	0083	=na	=ABL	=rn	=rn				
+jinghpaw	dwi	0083	hkrung	alive	v:pred	v		pred		
+jinghpaw	dwi	0083	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0083	=kun	=Q	=other	=other				
+jinghpaw	dwi	0083	%	%	%	%				
+jinghpaw	dwi	0083	0	0	0.1:a	0	1	a	202	
+jinghpaw	dwi	0083	n-chye	NEG-know	v:pred	v		pred		
+jinghpaw	dwi	0083	#	#	##	##				
+jinghpaw	dwi	0083	0	0	0.h:s_ds	0	h	s_ds	202	
+jinghpaw	dwi	0083	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0083	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0083	=she	=then	=other	=other				
+jinghpaw	dwi	0084	#	#	##	##				
+jinghpaw	dwi	0084	rai	COP	other	other				
+jinghpaw	dwi	0084	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0084	=she	=then	=other	=other				
+jinghpaw	dwi	0085	dai	well	other	other				
+jinghpaw	dwi	0085	shi	3SG	ln_pro.h:poss	ln_pro	h	poss	202	
+jinghpaw	dwi	0085	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0085	a-dwi	KIN-grandmother	np.h:a	np	h	a	203	
+jinghpaw	dwi	0085	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0085	dai	that	nc	nc				
+jinghpaw	dwi	0085	namlap	leaf	nc_np	nc_np			230	
+jinghpaw	dwi	0085	#	#	#rc	#rc				
+jinghpaw	dwi	0085	0	0	rel_f0:p	rel_f0		p	230	
+jinghpaw	dwi	0085	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0085	matstut	cork	v:pred	v		pred		
+jinghpaw	dwi	0085	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0085	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	dwi	0085	%	%	%	%				
+jinghpaw	dwi	0085	namlap	leaf	np:p	np		p	230	
+jinghpaw	dwi	0085	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0085	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0085	yu	look	v:pred	v		pred		
+jinghpaw	dwi	0085	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0085	=da	=HS	=other	=other				
+jinghpaw	dwi	0086	#	#	##	##				
+jinghpaw	dwi	0086	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0086	namlap	leaf	np:dt_s	np		dt_s	230	
+jinghpaw	dwi	0086	dai	that	dem_pro:s	dem_pro		s	230	
+jinghpaw	dwi	0086	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0086	ndai	well	other	other				
+jinghpaw	dwi	0086	tsi-hkrung-tsi-nan	medicine-alive-medicine-NC	np:pred	np		pred		
+jinghpaw	dwi	0086	=i	=SFP	=other	=other				
+jinghpaw	dwi	0087	#	#	##	##				
+jinghpaw	dwi	0087	0	0	0:s	0		s	230	
+jinghpaw	dwi	0087	dai	that	dem_pro:pred	dem_pro		pred	230	
+jinghpaw	dwi	0087	re	COP	cop	cop				
+jinghpaw	dwi	0087	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0087	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0087	re	LV	other	other				
+jinghpaw	dwi	0087	shaloi	when	other	other				
+jinghpaw	dwi	0087	=she	=then	=other	=other				
+jinghpaw	dwi	0088	#	#	##	##				
+jinghpaw	dwi	0088	dai	that	nc	nc				
+jinghpaw	dwi	0088	ma	child	nc_np.h:dt	nc_np	h	dt	202	
+jinghpaw	dwi	0088	dai	that	nc	nc			202	
+jinghpaw	dwi	0088	=gaw	=TOP	nc	nc				
+jinghpaw	dwi	0088	shi	3SG.GEN	ln_pro.h:poss	ln_pro	h	poss	202	
+jinghpaw	dwi	0088	dwi	grandmother	np.h:s_ds	np	h	s_ds	203	
+jinghpaw	dwi	0088	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0088	=i	=SFP	=other	=other				
+jinghpaw	dwi	0088	#	#	##ds.neg	##ds.neg				
+jinghpaw	dwi	0088	ma	child	np.h:voc	np	h	voc	202	
+jinghpaw	dwi	0088	=e	=SFP	=other	=other				
+jinghpaw	dwi	0088	#	#	#ds_cc:s	#ds_cc		s		
+jinghpaw	dwi	0088	ndai	this	ln_dem	ln_dem				
+jinghpaw	dwi	0088	nga	fish	np:dt_s	np		dt_s	226	
+jinghpaw	dwi	0088	ndai	this	dem_pro:s	dem_pro		s	226	
+jinghpaw	dwi	0088	hkrung	alive	v:pred	v		pred		
+jinghpaw	dwi	0088	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	dwi	0088	%	%	%	%				
+jinghpaw	dwi	0088	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0088	gaga	other	np:pred	np		pred		
+jinghpaw	dwi	0088	n-re	NEG-COP	cop	cop				
+jinghpaw	dwi	0089	#	#	##ds	##ds				
+jinghpaw	dwi	0089	0	0	0:s	0		s		
+jinghpaw	dwi	0089	ndai	this	ln_dem	ln_dem				
+jinghpaw	dwi	0089	namlap	leaf	ln_np:poss	ln_np		poss	230	
+jinghpaw	dwi	0089	=a	=GEN	=ln	=ln				
+jinghpaw	dwi	0089	majaw	because	np:pred	np		pred		
+jinghpaw	dwi	0089	re	COP	cop	cop				
+jinghpaw	dwi	0090	#	#	##ds	##ds				
+jinghpaw	dwi	0090	ma	child	np.h:voc	np	h	voc	202	
+jinghpaw	dwi	0090	nang	2SG	pro.2:a	pro	2	a	202	
+jinghpaw	dwi	0090	#	#	#ds_rc	#ds_rc				
+jinghpaw	dwi	0090	0	0	rel_f0:l	rel_f0		l	233	bridging
+jinghpaw	dwi	0090	ndai	this	ln_dem	ln_dem				
+jinghpaw	dwi	0090	namlap	leaf	np:s	np		s	230	
+jinghpaw	dwi	0090	ndai	this	rn_dem	rn_dem				
+jinghpaw	dwi	0090	naw	still	other	other				
+jinghpaw	dwi	0090	tu	sprout	v:pred	v		pred		
+jinghpaw	dwi	0090	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	dwi	0090	%	%	%	%				
+jinghpaw	dwi	0090	shara	place	np:p	np		p	233	
+jinghpaw	dwi	0090	i	Q	other	other				
+jinghpaw	dwi	0090	naw	still	other	other				
+jinghpaw	dwi	0090	matsing	remember	v:pred	v		pred		
+jinghpaw	dwi	0090	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0090	=rai	=Q	=other	=other				
+jinghpaw	dwi	0090	%	%	%	%				
+jinghpaw	dwi	0090	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0090	yang	when	other	other				
+jinghpaw	dwi	0091	#	#	##ds.neg	##ds.neg				
+jinghpaw	dwi	0091	0	0	0.1:a	0	1	a	202	
+jinghpaw	dwi	0091	0	0	0:p	0		p	233	
+jinghpaw	dwi	0091	a-dwi	KIN-grandmother	np.h:voc	np	h	voc	203	
+jinghpaw	dwi	0091	n-matsing	NEG-remember	v:pred	v		pred		
+jinghpaw	dwi	0091	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	dwi	0092	#	#	##ds.neg	##ds.neg				
+jinghpaw	dwi	0092	#	#	#ds_cc:p	#ds_cc		p	233	
+jinghpaw	dwi	0092	0	0	0:p	0		p	230	
+jinghpaw	dwi	0092	ngai	1SG	pro.1:a	pro	1	a	202	
+jinghpaw	dwi	0092	gara	where	np:l	np		l		
+jinghpaw	dwi	0092	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0092	=na	=ABL	=rn	=rn				
+jinghpaw	dwi	0092	di	cut	lv	lv				
+jinghpaw	dwi	0092	la	take	v:pred	v		pred		
+jinghpaw	dwi	0092	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	dwi	0092	%	%	%	%				
+jinghpaw	dwi	0092	ngai	1SG	pro.1:a	pro	1	a	202	
+jinghpaw	dwi	0092	n-matsing	NEG-remember	v:pred	v		pred		
+jinghpaw	dwi	0092	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	dwi	0093	#	#	##	##				
+jinghpaw	dwi	0093	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0093	shaloi	then	np:other	np		other		
+jinghpaw	dwi	0093	=she	=then	=other	=other				
+jinghpaw	dwi	0093	shi	3SG.GEN	ln_pro.h:poss	ln_pro	h	poss	202	
+jinghpaw	dwi	0093	dwi	grandmother	np.h:a	np	h	a	203	
+jinghpaw	dwi	0093	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0093	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0093	namlap	leaf	np:p	np		p	230	
+jinghpaw	dwi	0093	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0093	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0093	=she	=then	=other	=other				
+jinghpaw	dwi	0093	garep	shelf	ln_np	ln_np			234	new
+jinghpaw	dwi	0093	ntsa	above	np:l	np		l		
+jinghpaw	dwi	0093	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0093	ja-hkraw	CAUS-be.dried	v:pred	v		pred		
+jinghpaw	dwi	0093	=da	=RES	=aux	=aux				
+jinghpaw	dwi	0093	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0094	#	#	##	##				
+jinghpaw	dwi	0094	0	0	0.h:a	0	h	a	203	
+jinghpaw	dwi	0094	0	0	0:p	0		p	230	
+jinghpaw	dwi	0094	garep	shelf	ln_np	ln_np			234	
+jinghpaw	dwi	0094	ntsa	above	np:l	np		l		
+jinghpaw	dwi	0094	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0094	ja-hkraw	CAUS-be.dried	v:pred	v		pred		
+jinghpaw	dwi	0094	=da	=RES	=aux	=aux				
+jinghpaw	dwi	0094	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0094	=she	=then	=other	=other				
+jinghpaw	dwi	0095	#	#	##	##				
+jinghpaw	dwi	0095	0	0	0.h:a	0	h	a	203	
+jinghpaw	dwi	0095	0	0	0:p	0		p	230	
+jinghpaw	dwi	0095	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0095	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0095	tawn	place	v:pred	v		pred		
+jinghpaw	dwi	0095	=da	=RES	=aux	=aux				
+jinghpaw	dwi	0095	yang	when	other	other				
+jinghpaw	dwi	0095	=she	=then	=other	=other				
+jinghpaw	dwi	0096	#	#	##	##				
+jinghpaw	dwi	0096	la-ni	one-day	np:other	np		other		
+jinghpaw	dwi	0096	mi	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0096	=she	=then	=other	=other				
+jinghpaw	dwi	0096	ma	child	np.h:a	np	h	a	202	
+jinghpaw	dwi	0096	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0096	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0096	hto	over.there	ln_dem	ln_dem				
+jinghpaw	dwi	0096	mare	village	ln_np	ln_np			201	
+jinghpaw	dwi	0096	shingnawm	outside	np:g	np		g		
+jinghpaw	dwi	0096	=de	=ALL	=rn	=rn				
+jinghpaw	dwi	0096	hpun	wood	np:p	np		p		
+jinghpaw	dwi	0096	hta	pick	lv	lv				
+jinghpaw	dwi	0096	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0096	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0097	#	#	##	##				
+jinghpaw	dwi	0097	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0097	hpun	wood	np:p	np		p		
+jinghpaw	dwi	0097	hta	pick	lv	lv				
+jinghpaw	dwi	0097	sa	go	v:other	v		other		
+jinghpaw	dwi	0097	dai	that	dem_pro:l	dem_pro		l		
+jinghpaw	dwi	0097	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0097	=she	=then	=other	=other				
+jinghpaw	dwi	0098	#	#	##	##				
+jinghpaw	dwi	0098	dai	well	other	other				
+jinghpaw	dwi	0098	gwi	dog	np:dt_p	np		dt_p	235	new
+jinghpaw	dwi	0098	langai	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0098	mi	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0098	masha	person	np.h:a	np	h	a		
+jinghpaw	dwi	0098	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0098	#	#	##	##				
+jinghpaw	dwi	0098	0	0	0.h:s	0	h	s		
+jinghpaw	dwi	0098	si	die	v:pred	v		pred		
+jinghpaw	dwi	0098	=mat	=COMPL	=aux	=aux				
+jinghpaw	dwi	0098	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0098	#	#	##	##				
+jinghpaw	dwi	0098	sa	go	lv	lv				
+jinghpaw	dwi	0098	gabai	throw.away	v:pred	v		pred		
+jinghpaw	dwi	0098	=da	=RES	=aux	=aux				
+jinghpaw	dwi	0098	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0098	=le	=SFP	=other	=other				
+jinghpaw	dwi	0098	=i	=SFP	=other	=other				
+jinghpaw	dwi	0099	#	#	##	##				
+jinghpaw	dwi	0099	dan	thus	other	other				
+jinghpaw	dwi	0099	yang	when	other	other				
+jinghpaw	dwi	0099	=she	=then	=other	=other				
+jinghpaw	dwi	0099	shi	3SG	np.h:a	np	h	a	202	
+jinghpaw	dwi	0099	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0099	gwi	dog	np:p	np		p	235	
+jinghpaw	dwi	0099	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0099	mu	see	v:pred	v		pred		
+jinghpaw	dwi	0099	di	LV	other	other				
+jinghpaw	dwi	0099	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0099	=she	=then	=other	=other				
+jinghpaw	dwi	0100	#	#	##	##				
+jinghpaw	dwi	0100	0	0	0:p	0		p	235	
+jinghpaw	dwi	0100	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0100	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0100	ra	like	v:pred	v		pred		
+jinghpaw	dwi	0100	di	LV	other	other				
+jinghpaw	dwi	0100	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0100	=she	=then	=other	=other				
+jinghpaw	dwi	0101	#	#	##	##				
+jinghpaw	dwi	0101	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0101	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0101	#	#	#rc	#rc				
+jinghpaw	dwi	0101	0	0	rel_f0:p	rel_f0		p	230	
+jinghpaw	dwi	0101	shi	3SG.GEN	ln_pro.h:poss	ln_pro	h	poss	202	
+jinghpaw	dwi	0101	dwi	grandmother	np.h:a	np	h	a	203	
+jinghpaw	dwi	0101	ja-hkraw	CAUS-be.dried	v:pred	v		pred		
+jinghpaw	dwi	0101	=da	=RES	=aux	=aux				
+jinghpaw	dwi	0101	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	dwi	0101	%	%	%	%				
+jinghpaw	dwi	0101	namlap	leaf	np:p	np		p	230	
+jinghpaw	dwi	0101	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0101	wa	return	lv	lv				
+jinghpaw	dwi	0101	la	take	v:pred	v		pred		
+jinghpaw	dwi	0101	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0101	=she	=then	=other	=other				
+jinghpaw	dwi	0102	#	#	##	##				
+jinghpaw	dwi	0102	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0102	0	0	0:p	0		p	230	
+jinghpaw	dwi	0102	gwi	dog	ln_np:poss	ln_np		poss	235	
+jinghpaw	dwi	0102	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0102	ngup	mouth	np:g	np		g	236	bridging
+jinghpaw	dwi	0102	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0102	bang	put	v:pred	v		pred		
+jinghpaw	dwi	0102	=da	=RES	=aux	=aux				
+jinghpaw	dwi	0102	=ya	=BEN	=aux	=aux				
+jinghpaw	dwi	0102	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0102	=she	=then	=other	=other				
+jinghpaw	dwi	0103	#	#	##	##				
+jinghpaw	dwi	0103	gwi	dog	np:s	np		s	235	
+jinghpaw	dwi	0103	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0103	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0103	hkrung	alive	v:pred	v		pred		
+jinghpaw	dwi	0103	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0103	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0104	#	#	##	##				
+jinghpaw	dwi	0104	gwi	dog	np:s	np		s	235	
+jinghpaw	dwi	0104	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0104	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0104	hkrung	alive	v:pred	v		pred		
+jinghpaw	dwi	0104	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0104	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0104	=she	=then	=other	=other				
+jinghpaw	dwi	0105	#	#	##	##				
+jinghpaw	dwi	0105	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0105	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0105	gwi	dog	np:p	np		p	235	
+jinghpaw	dwi	0105	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0105	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0105	woi	lead	v:pred	v		pred		
+jinghpaw	dwi	0105	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0105	re	LV	other	other				
+jinghpaw	dwi	0105	=she	=then	=other	=other				
+jinghpaw	dwi	0106	#	#	#nc	#nc				
+jinghpaw	dwi	0106	gwi	dog	nc_np	nc_np			235	
+jinghpaw	dwi	0106	dai	that	nc	nc				
+jinghpaw	dwi	0106	=hpe	=ACC	nc	nc				
+jinghpaw	dwi	0106	woi	lead	nc	nc				
+jinghpaw	dwi	0106	=wa	=VEN	nc	nc				
+jinghpaw	dwi	0106	=na	=SEQ	nc	nc				
+jinghpaw	dwi	0106	=she	=then	nc	nc				
+jinghpaw	dwi	0107	#	#	##	##				
+jinghpaw	dwi	0107	shan	3DU	ln_pro	ln_pro				
+jinghpaw	dwi	0107	dwi	grandmother	np.h:a	np	h	a	204	
+jinghpaw	dwi	0107	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0107	gwi	dog	np:p	np		p	235	
+jinghpaw	dwi	0107	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0107	=ma	=also	=other	=other				
+jinghpaw	dwi	0107	lu	get	v:pred	v		pred		
+jinghpaw	dwi	0107	=mat	=COMPL	=aux	=aux				
+jinghpaw	dwi	0107	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	dwi	0108	#	#	##	##				
+jinghpaw	dwi	0108	0	0	0.h:s	0	h	s	202	
+jinghpaw	dwi	0108	re	COP	other	other				
+jinghpaw	dwi	0108	yang	when	other	other				
+jinghpaw	dwi	0108	gwi	dog	np:obl	np		obl	235	
+jinghpaw	dwi	0108	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0108	=hte	=COM	=rn	=rn				
+jinghpaw	dwi	0108	manang	friend	np.h:pred	np	h	pred		
+jinghpaw	dwi	0108	tai	become	cop	cop				
+jinghpaw	dwi	0108	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0109	#	#	##	##				
+jinghpaw	dwi	0109	0	0	0.h:s	0	h	s	202	
+jinghpaw	dwi	0109	0	0	0:obl	0		obl	235	
+jinghpaw	dwi	0109	ginsup	play	v:pred	v		pred		
+jinghpaw	dwi	0109	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0109	=she	=then	=other	=other				
+jinghpaw	dwi	0110	#	#	##	##				
+jinghpaw	dwi	0110	gwi	dog	np:dt_s	np		dt_s	235	
+jinghpaw	dwi	0110	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0110	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0110	#	#	#	#				
+jinghpaw	dwi	0110	ma	child	np.h:s	np	h	s	202	
+jinghpaw	dwi	0110	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0110	gara	where	np:g	np		g		
+jinghpaw	dwi	0110	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0110	yang	when	other	other				
+jinghpaw	dwi	0110	=mung	=also	=other	=other				
+jinghpaw	dwi	0111	#	#	##	##				
+jinghpaw	dwi	0111	0	0	0.h:p	0	h	p	202	
+jinghpaw	dwi	0111	shi	3SG	pro:a	pro		a	235	
+jinghpaw	dwi	0111	hkan-nang	follow-follow	v:pred	v		pred		
+jinghpaw	dwi	0111	=ai	=DECL	=other	=other				
+jinghpaw	dwi	0111	rai	COP	other	other				
+jinghpaw	dwi	0111	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0111	#	#	##	##				
+jinghpaw	dwi	0111	0	0	0.h:s	0	h	s	202	
+jinghpaw	dwi	0111	gwi	dog	np:obl	np		obl	235	
+jinghpaw	dwi	0111	=hte	=COM	=rn	=rn				
+jinghpaw	dwi	0111	manang	friend	np.h:pred	np	h	pred		
+jinghpaw	dwi	0111	tai	become	cop	cop				
+jinghpaw	dwi	0111	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0111	#	#	##	##				
+jinghpaw	dwi	0111	0	0	0.h:s	0	h	s	202	
+jinghpaw	dwi	0111	nga	live	v:pred	v		pred		
+jinghpaw	dwi	0111	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0111	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0111	=da	=HS	=other	=other				
+jinghpaw	dwi	0112	#	#	##	##				
+jinghpaw	dwi	0112	la-ni	one-day	np:other	np		other		
+jinghpaw	dwi	0112	mi	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0112	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0112	ma	child	np.h:a	np	h	a	202	
+jinghpaw	dwi	0112	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0112	hpun	wood	np:p	np		p		
+jinghpaw	dwi	0112	bai	again	other	other				
+jinghpaw	dwi	0112	hta	pick	lv	lv				
+jinghpaw	dwi	0112	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0112	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0112	=da	=HS	=other	=other				
+jinghpaw	dwi	0113	#	#	##	##				
+jinghpaw	dwi	0113	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0113	gwi	dog	np:obl	np		obl	235	
+jinghpaw	dwi	0113	=hte	=COM	=rn	=rn				
+jinghpaw	dwi	0113	rau	together	other	other				
+jinghpaw	dwi	0113	hpun	wood	np:p	np		p		
+jinghpaw	dwi	0113	hta	pick	lv	lv				
+jinghpaw	dwi	0113	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0113	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0113	=she	=then	=other	=other				
+jinghpaw	dwi	0114	#	#	##	##				
+jinghpaw	dwi	0114	gwi	dog	np:s	np		s	235	
+jinghpaw	dwi	0114	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0114	=wa	=TOP	=other	=other				
+jinghpaw	dwi	0114	=she	=then	=other	=other				
+jinghpaw	dwi	0114	hpun	tree	ln_np	ln_np			237	new
+jinghpaw	dwi	0114	kaba	big	ln_adj	ln_adj				
+jinghpaw	dwi	0114	pawt	root	np:g	np		g	238	bridging
+jinghpaw	dwi	0114	langai	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0114	mi	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0114	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0114	agying	with.total.effort	other	other				
+jinghpaw	dwi	0114	dai	that	dem_pro:l	dem_pro		l		
+jinghpaw	dwi	0114	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0114	shani	day	other	other				
+jinghpaw	dwi	0114	tup	whole	rn_qfr	rn_qfr				
+jinghpaw	dwi	0114	wau	bark	v:pred	v		pred		
+jinghpaw	dwi	0114	=taw	=CONT	=aux	=aux				
+jinghpaw	dwi	0114	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0114	=da	=HS	=other	=other				
+jinghpaw	dwi	0115	#	#	##	##				
+jinghpaw	dwi	0115	0	0	0:s	0		s	235	
+jinghpaw	dwi	0115	dai	that	dem_pro:g	dem_pro		g	238	
+jinghpaw	dwi	0115	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0115	=sha	=only	=other	=other				
+jinghpaw	dwi	0115	yu	look	v:pred	v		pred		
+jinghpaw	dwi	0115	di	LV	other	other				
+jinghpaw	dwi	0115	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0115	=she	=then	=other	=other				
+jinghpaw	dwi	0116	#	#	##	##				
+jinghpaw	dwi	0116	0	0	0:s	0		s	235	
+jinghpaw	dwi	0116	wau	bark	v:pred	v		pred		
+jinghpaw	dwi	0116	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0116	#	#	##	##				
+jinghpaw	dwi	0116	0	0	0:s	0		s	235	
+jinghpaw	dwi	0116	wau	bark	nc	nc				
+jinghpaw	dwi	0116	=she	=then	nc	nc				
+jinghpaw	dwi	0116	wau	bark	nc	nc				
+jinghpaw	dwi	0116	wau	bark	lv	lv				
+jinghpaw	dwi	0116	=she	=then	=other	=other				
+jinghpaw	dwi	0116	wau	bark	v:pred	v		pred		
+jinghpaw	dwi	0116	re	LV	other	other				
+jinghpaw	dwi	0116	yang	when	other	other				
+jinghpaw	dwi	0116	=she	=then	=other	=other				
+jinghpaw	dwi	0117	#	#	##	##				
+jinghpaw	dwi	0117	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0117	ma	child	np.h:s	np	h	s	202	
+jinghpaw	dwi	0117	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0117	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0117	mau	be.surprised	v:pred	v		pred		
+jinghpaw	dwi	0117	=mat	=COMPL	=aux	=aux				
+jinghpaw	dwi	0117	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0118	#	#	##ds	##ds				
+jinghpaw	dwi	0118	0	0	0.2:s	0	2	s	235	
+jinghpaw	dwi	0118	hpabaw	what	nc	nc				
+jinghpaw	dwi	0118	=na	=ABL	nc	nc				
+jinghpaw	dwi	0118	hpabaw	what	np:other	np		other		
+jinghpaw	dwi	0118	=na	=ABL	=rn	=rn				
+jinghpaw	dwi	0118	wau	bark	v:pred	v		pred		
+jinghpaw	dwi	0118	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0118	=ma	=Q	=other	=other				
+jinghpaw	dwi	0118	#	#	##	##				
+jinghpaw	dwi	0118	0	0	0.h:s_ds	0	h	s_ds	202	
+jinghpaw	dwi	0118	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0118	yang	when	other	other				
+jinghpaw	dwi	0119	#	#	##ds.neg	##ds.neg				
+jinghpaw	dwi	0119	gwi	dog	np:a	np		a	235	
+jinghpaw	dwi	0119	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0119	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0119	ga	language	np:p	np		p		
+jinghpaw	dwi	0119	=me	=but	=other	=other				
+jinghpaw	dwi	0119	n-chye	NEG-know	v:pred	v		pred		
+jinghpaw	dwi	0119	=nga	=CONT	=aux	=aux				
+jinghpaw	dwi	0119	=gaw	=SFP	=other	=other				
+jinghpaw	dwi	0119	#	#	##	##				
+jinghpaw	dwi	0119	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0119	dai	that	dem_pro:p	dem_pro		p		
+jinghpaw	dwi	0119	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0119	=she	=then	=other	=other				
+jinghpaw	dwi	0120	#	#	##	##				
+jinghpaw	dwi	0120	0	0	0:s	0		s	235	
+jinghpaw	dwi	0120	dai	that	dem_pro:other	dem_pro		other	238	
+jinghpaw	dwi	0120	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0120	=sha	=only	=other	=other				
+jinghpaw	dwi	0120	yu	look	v:pred	v		pred		
+jinghpaw	dwi	0120	di	SEQ	other	other				
+jinghpaw	dwi	0120	#	#	##	##				
+jinghpaw	dwi	0120	0	0	0:s	0		s	235	
+jinghpaw	dwi	0120	wau	bark	v:pred	v		pred		
+jinghpaw	dwi	0120	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0120	=she	=then	=other	=other				
+jinghpaw	dwi	0121	#	#	##	##				
+jinghpaw	dwi	0121	shi	3SG	pro.h:s_ds	pro	h	s_ds	202	
+jinghpaw	dwi	0121	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0121	#	#	##ds	##ds				
+jinghpaw	dwi	0121	hpabaw	what	np:pred	np		pred		
+jinghpaw	dwi	0121	=wa	=TOP	=other	=other				
+jinghpaw	dwi	0121	re	COP	cop	cop				
+jinghpaw	dwi	0121	=kun	=Q	=other	=other				
+jinghpaw	dwi	0121	%	%	%	%				
+jinghpaw	dwi	0121	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0121	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0121	=she	=then	=other	=other				
+jinghpaw	dwi	0122	#	#	##	##				
+jinghpaw	dwi	0122	0	0	0:p	0		p	238	
+jinghpaw	dwi	0122	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0122	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0122	htu	dig	v:pred	v		pred		
+jinghpaw	dwi	0122	=yu	=CON	=aux	=aux				
+jinghpaw	dwi	0122	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0123	#	#	##	##				
+jinghpaw	dwi	0123	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0123	0	0	0:p	0		p	238	
+jinghpaw	dwi	0123	htu	dig	v:pred	v		pred		
+jinghpaw	dwi	0123	=yu	=CON	=aux	=aux				
+jinghpaw	dwi	0124	#	#	##	##				
+jinghpaw	dwi	0124	#	#	#nc	#nc				
+jinghpaw	dwi	0124	shi	3SG	nc	nc				
+jinghpaw	dwi	0124	hpai	carry	nc	nc				
+jinghpaw	dwi	0124	sa	go	nc	nc				
+jinghpaw	dwi	0124	=ai	=DECL	nc	nc				
+jinghpaw	dwi	0124	#	#	#rc	#rc				
+jinghpaw	dwi	0124	#	#	#ac	#ac				
+jinghpaw	dwi	0124	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0124	hpun	wood	np:p	np		p		
+jinghpaw	dwi	0124	hta	pick	v:pred	v		pred		
+jinghpaw	dwi	0124	=na	=IRR	=aux	=aux				
+jinghpaw	dwi	0124	matu	in.order	other	other				
+jinghpaw	dwi	0124	%	%	%	%				
+jinghpaw	dwi	0124	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0124	0	0	rel_f0:p	rel_f0		p	239	
+jinghpaw	dwi	0124	hpai	carry	lv	lv				
+jinghpaw	dwi	0124	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0124	=ai	=DECL.NMLZ	=rn	=rn				
+jinghpaw	dwi	0124	%	%	%	%				
+jinghpaw	dwi	0124	arung-arai	COUP-goods	np:obl	np		obl	239	
+jinghpaw	dwi	0124	=hte	=COM	=rn	=rn				
+jinghpaw	dwi	0124	amya	tear	lv	lv				
+jinghpaw	dwi	0124	=yu	=CON	=aux	=aux				
+jinghpaw	dwi	0124	htu	dig	nc	nc				
+jinghpaw	dwi	0124	=yu	=CON	nc	nc				
+jinghpaw	dwi	0124	htu	dig	v:pred	v		pred		
+jinghpaw	dwi	0124	=yu	=CON	=aux	=aux				
+jinghpaw	dwi	0124	re	LV	other	other				
+jinghpaw	dwi	0124	yang	when	other	other				
+jinghpaw	dwi	0125	#	#	##	##				
+jinghpaw	dwi	0125	hpang	after	np:other	np		other		
+jinghpaw	dwi	0125	=e	=LOC	=rn	=rn				
+jinghpaw	dwi	0125	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0125	dai	that	dem_pro:dt_l	dem_pro		dt_l	239	
+jinghpaw	dwi	0125	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0125	=she	=then	=other	=other				
+jinghpaw	dwi	0125	manu	price	ln_np	ln_np				
+jinghpaw	dwi	0125	dan	show	ln_adj	ln_adj				
+jinghpaw	dwi	0125	=ai	=DECL	=ln	=ln				
+jinghpaw	dwi	0125	rai	goods	ln_np	ln_np				
+jinghpaw	dwi	0125	langai	one	ln_qfr	ln_qfr				
+jinghpaw	dwi	0125	mi	one	ln_qfr	ln_qfr				
+jinghpaw	dwi	0125	=wa	=TOP	=other	=other				
+jinghpaw	dwi	0126	grai	very	other	other				
+jinghpaw	dwi	0126	gabrim	shine	ln_adj	ln_adj				
+jinghpaw	dwi	0126	=ai	=DECL	=ln	=ln				
+jinghpaw	dwi	0126	langai	one	np:s	np		s	240	new
+jinghpaw	dwi	0126	mi	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0126	=wa	=TOP	=other	=other				
+jinghpaw	dwi	0126	=she	=then	=other	=other				
+jinghpaw	dwi	0126	ga	land	np:l	np		l	238	
+jinghpaw	dwi	0126	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0126	#	#	#ac	#ac				
+jinghpaw	dwi	0126	0	0	0:p	0		p	238	
+jinghpaw	dwi	0126	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0126	htu	dig	v:pred	v		pred		
+jinghpaw	dwi	0126	=dat	=away	=aux	=aux				
+jinghpaw	dwi	0126	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0126	=hte	=COM	=other	=other				
+jinghpaw	dwi	0126	=wa	=TOP	=other	=other				
+jinghpaw	dwi	0126	=she	=then	=other	=other				
+jinghpaw	dwi	0126	%	%	%	%				
+jinghpaw	dwi	0127	ning	thus	other	other				
+jinghpaw	dwi	0127	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0127	gabrim	shine	lv	lv				
+jinghpaw	dwi	0127	pru	come.out	v:pred	v		pred		
+jinghpaw	dwi	0127	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0127	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0127	=da	=HS	=other	=other				
+jinghpaw	dwi	0128	#	#	##	##				
+jinghpaw	dwi	0128	0	0	0:s	0		s	240	
+jinghpaw	dwi	0128	gabrim	shine	lv	lv				
+jinghpaw	dwi	0128	pru	come.out	v:pred	v		pred		
+jinghpaw	dwi	0128	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0128	yang	when	other	other				
+jinghpaw	dwi	0128	=she	=then	=other	=other				
+jinghpaw	dwi	0129	#	#	##	##				
+jinghpaw	dwi	0129	0	0	0:p	0		p	238	
+jinghpaw	dwi	0129	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0129	bai	again	other	other				
+jinghpaw	dwi	0129	htu	dig	nc	nc				
+jinghpaw	dwi	0129	htu	dig	nc	nc				
+jinghpaw	dwi	0129	htu	dig	nc	nc				
+jinghpaw	dwi	0129	htu	dig	nc	nc				
+jinghpaw	dwi	0129	htu	dig	v:pred	v		pred		
+jinghpaw	dwi	0129	re	LV	other	other				
+jinghpaw	dwi	0129	yang	when	other	other				
+jinghpaw	dwi	0129	=she	=then	=other	=other				
+jinghpaw	dwi	0130	#	#	#nc	#nc				
+jinghpaw	dwi	0130	dai	that	nc	nc				
+jinghpaw	dwi	0130	=kaw	=LOC	nc	nc				
+jinghpaw	dwi	0130	moi	long.ago	nc	nc				
+jinghpaw	dwi	0130	mi	one	nc	nc				
+jinghpaw	dwi	0130	=sha	=only	nc	nc				
+jinghpaw	dwi	0130	re	COP	nc	nc				
+jinghpaw	dwi	0130	=ai	=DECL	nc	nc				
+jinghpaw	dwi	0130	=i	=SFP	nc	nc				
+jinghpaw	dwi	0131	#	#	##	##				
+jinghpaw	dwi	0131	grai	very	other	other				
+jinghpaw	dwi	0131	gabrim	shine	np:dt_s	np		dt_s	240	
+jinghpaw	dwi	0131	=ai	=DECL.NMLZ	=rn	=rn				
+jinghpaw	dwi	0131	dai	that	dem_pro:s	dem_pro		s	240	
+jinghpaw	dwi	0131	=wa	=TOP	=other	=other				
+jinghpaw	dwi	0131	=she	=then	=other	=other				
+jinghpaw	dwi	0131	grai	very	other	other				
+jinghpaw	dwi	0131	htoi	shine	v:pred	v		pred		
+jinghpaw	dwi	0131	di	LV	rv	rv				
+jinghpaw	dwi	0131	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0131	=le	=SFP	=other	=other				
+jinghpaw	dwi	0131	#	#	##	##				
+jinghpaw	dwi	0131	#	#	#cc:other	#cc		other		
+jinghpaw	dwi	0131	wan-hkru	fire-burn	np:s	np		s		
+jinghpaw	dwi	0131	hkru	burn	v:pred	v		pred		
+jinghpaw	dwi	0131	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0131	zawn-zawn	like	other	other				
+jinghpaw	dwi	0131	%	%	%	%				
+jinghpaw	dwi	0131	=pyi	=even	=other	=other				
+jinghpaw	dwi	0131	0	0	0:s	0		s	240	
+jinghpaw	dwi	0131	byin	become	v:pred	v		pred		
+jinghpaw	dwi	0131	=mat	=COMPL	=aux	=aux				
+jinghpaw	dwi	0131	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0131	=da	=HS	=other	=other				
+jinghpaw	dwi	0132	#	#	##	##				
+jinghpaw	dwi	0132	0	0	0:p	0		p	240	
+jinghpaw	dwi	0132	rai	COP	other	other				
+jinghpaw	dwi	0132	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0132	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0132	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0132	bai	again	other	other				
+jinghpaw	dwi	0132	magap	cover	v:pred	v		pred		
+jinghpaw	dwi	0132	=kau	=away	=aux	=aux				
+jinghpaw	dwi	0132	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0132	=she	=then	=other	=other				
+jinghpaw	dwi	0133	#	#	##	##				
+jinghpaw	dwi	0133	shi	3SG	nc_pro.h	nc_pro	h		202	
+jinghpaw	dwi	0133	=gaw	=TOP	nc	nc				
+jinghpaw	dwi	0133	dai	well	other	other				
+jinghpaw	dwi	0133	shani	day	nc	nc				
+jinghpaw	dwi	0133	shi	3SG	pro.h:s	pro	h	s	202	
+jinghpaw	dwi	0133	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0133	shat	food	nc	nc				
+jinghpaw	dwi	0133	ndai	well	nc	nc				
+jinghpaw	dwi	0133	shani-shat	day-food	ln_np	ln_np				
+jinghpaw	dwi	0133	=na	=GEN	=rn	=rn				
+jinghpaw	dwi	0133	matu	in.order	np:other	np		other		
+jinghpaw	dwi	0133	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0133	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0133	=she	=then	=other	=other				
+jinghpaw	dwi	0134	#	#	##	##				
+jinghpaw	dwi	0134	#	#	#ac	#ac				
+jinghpaw	dwi	0134	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0134	0	0	0:p	0		p	241	new
+jinghpaw	dwi	0134	shadu	cook	lv	lv				
+jinghpaw	dwi	0134	sha	eat	v:pred	v		pred		
+jinghpaw	dwi	0134	=na	=IRR	=rv	=rv				
+jinghpaw	dwi	0134	matu	in.order	other	other				
+jinghpaw	dwi	0134	%	%	%	%				
+jinghpaw	dwi	0134	ndai	this	nc	nc				
+jinghpaw	dwi	0134	kahkum-si	pumpkin-fruit	nc_np	nc_np			241	
+jinghpaw	dwi	0134	myin	be.ripe	ln_adj	ln_adj				
+jinghpaw	dwi	0134	=ai	=DECL	=ln	=ln				
+jinghpaw	dwi	0134	kahkum-si	pumpkin-fruit	np:s	np		s	241	
+jinghpaw	dwi	0134	langai	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0134	lawm	be.along	v:pred	v		pred		
+jinghpaw	dwi	0134	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0134	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0134	=i	=SFP	=other	=other				
+jinghpaw	dwi	0135	#	#	##	##				
+jinghpaw	dwi	0135	rai	COP	other	other				
+jinghpaw	dwi	0135	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0135	=she	=then	=other	=other				
+jinghpaw	dwi	0135	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0135	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0135	hkum-si	pumpkin-fruit	np:p	np		p	241	
+jinghpaw	dwi	0135	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0135	dai	that	dem_pro:l	dem_pro		l		
+jinghpaw	dwi	0135	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0135	ga	break	v:pred	v		pred		
+jinghpaw	dwi	0135	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0135	=she	=then	=other	=other				
+jinghpaw	dwi	0136	#	#	##	##				
+jinghpaw	dwi	0136	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0136	kata	inside	nc	nc				
+jinghpaw	dwi	0136	=na	=GEN	nc	nc				
+jinghpaw	dwi	0136	dai	that	nc	nc				
+jinghpaw	dwi	0136	myin	be.ripe	nc	nc				
+jinghpaw	dwi	0136	=ai	=DECL	nc	nc				
+jinghpaw	dwi	0136	re	COP	nc	nc				
+jinghpaw	dwi	0136	nga	nga	nc	nc				
+jinghpaw	dwi	0136	kata	inside	ln_np:l	ln_np		l	243	bridging
+jinghpaw	dwi	0136	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0136	tum	seed	np:dt_p	np		dt_p	242	bridging
+jinghpaw	dwi	0136	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0136	dai	that	dem_pro:p	dem_pro		p	242	
+jinghpaw	dwi	0136	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0136	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0136	shaw	take	v:pred	v		pred		
+jinghpaw	dwi	0136	=kau	=away	=aux	=aux				
+jinghpaw	dwi	0136	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0136	=she	=then	=other	=other				
+jinghpaw	dwi	0137	#	#	##	##				
+jinghpaw	dwi	0137	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0137	0	0	0:p	0		p	240	
+jinghpaw	dwi	0137	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0137	kahkum-seed	pumpkin-seed	ln_np:poss	ln_np		poss	241	
+jinghpaw	dwi	0137	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0137	kata	inside	np:g	np		g	243	
+jinghpaw	dwi	0137	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0137	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0137	bang	put	v:pred	v		pred		
+jinghpaw	dwi	0137	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0137	=she	=then	=other	=other				
+jinghpaw	dwi	0138	#	#	##	##				
+jinghpaw	dwi	0138	0	0	0:p	0		p	240	
+jinghpaw	dwi	0138	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0138	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0138	ning	thus	other	other				
+jinghpaw	dwi	0138	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0138	bai	again	other	other				
+jinghpaw	dwi	0138	magap	cover	v:pred	v		pred		
+jinghpaw	dwi	0138	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0138	#	#	##	##				
+jinghpaw	dwi	0138	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0138	0	0	0:p	0		p	240	
+jinghpaw	dwi	0138	la	take	v:pred	v		pred		
+jinghpaw	dwi	0138	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0138	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0139	#	#	##	##				
+jinghpaw	dwi	0139	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0139	0	0	0:p	0		p	240	
+jinghpaw	dwi	0139	dai	that	dem_pro:l	dem_pro		l		
+jinghpaw	dwi	0139	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0139	magap	cover	v:pred	v		pred		
+jinghpaw	dwi	0139	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0139	#	#	##	##				
+jinghpaw	dwi	0139	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0139	0	0	0:p	0		p	240	
+jinghpaw	dwi	0139	la	take	v:pred	v		pred		
+jinghpaw	dwi	0139	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0139	yang	when	other	other				
+jinghpaw	dwi	0139	=she	=then	=other	=other				
+jinghpaw	dwi	0140	#	#	##	##				
+jinghpaw	dwi	0140	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0140	shi	3SG.GEN	ln_pro.h:poss	ln_pro	h	poss	202	
+jinghpaw	dwi	0140	dwi	grandmother	np.h:p	np	h	p	203	
+jinghpaw	dwi	0140	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0140	wa	return	lv	lv				
+jinghpaw	dwi	0140	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0140	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0140	=da	=HS	=other	=other				
+jinghpaw	dwi	0141	#	#	##ds	##ds				
+jinghpaw	dwi	0141	a-dwi	KIN-grandmother	np.h:voc	np	h	voc	203	
+jinghpaw	dwi	0141	ngai	1SG	pro.1:a	pro	1	a	202	
+jinghpaw	dwi	0141	ndai	this	dem_pro:p	dem_pro		p	240	
+jinghpaw	dwi	0141	lu	get	v:pred	v		pred		
+jinghpaw	dwi	0141	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0141	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0142	#	#	##ds	##ds				
+jinghpaw	dwi	0142	0	0	0.1:a	0	1	a	202	
+jinghpaw	dwi	0142	ndai	this	dem_pro:p	dem_pro		p	240	
+jinghpaw	dwi	0142	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0142	gara	how	other	other				
+jinghpaw	dwi	0142	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0142	di	do	v:pred	v		pred		
+jinghpaw	dwi	0142	=ra	=need	=aux	=aux				
+jinghpaw	dwi	0142	=na	=IRR	=other	=other				
+jinghpaw	dwi	0142	=rai	=Q	=other	=other				
+jinghpaw	dwi	0142	#	#	##	##				
+jinghpaw	dwi	0142	0	0	0.h:s_ds	0	h	s_ds	202	
+jinghpaw	dwi	0142	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0143	#	#	##ds	##ds				
+jinghpaw	dwi	0143	e	INTJ	other	other				
+jinghpaw	dwi	0143	ma	child	np.h:voc	np	h	voc	202	
+jinghpaw	dwi	0143	e	=SFP	=other	=other				
+jinghpaw	dwi	0143	ndai	this	dem_pro:s	dem_pro		s	240	
+jinghpaw	dwi	0143	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0143	grai	very	other	other				
+jinghpaw	dwi	0143	manu	price	ln_np	ln_np				
+jinghpaw	dwi	0143	dan	show	ln_adj	ln_adj				
+jinghpaw	dwi	0143	=ai	=DECL	=ln	=ln				
+jinghpaw	dwi	0143	baw	kind	np:pred	np		pred		
+jinghpaw	dwi	0143	=she	=then	=other	=other				
+jinghpaw	dwi	0143	re	COP	cop	cop				
+jinghpaw	dwi	0143	=gaw	=SFP	=other	=other				
+jinghpaw	dwi	0144	#	#	##ds	##ds				
+jinghpaw	dwi	0144	an	1DU	ln_pro.1	ln_pro	1			
+jinghpaw	dwi	0144	dwi	grandmother	np.h:s	np	h	s	204	
+jinghpaw	dwi	0144	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0144	ya	now	other	other				
+jinghpaw	dwi	0144	grai	very	other	other				
+jinghpaw	dwi	0144	lusu	be.rich	v:pred	v		pred		
+jinghpaw	dwi	0144	=sa-na	=CSM-IRR	=rv	=rv				
+jinghpaw	dwi	0145	#	#	##	##				
+jinghpaw	dwi	0145	ngut	finish	other	other				
+jinghpaw	dwi	0145	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0145	=ma	=also	=other	=other				
+jinghpaw	dwi	0145	an	1DU	ln_pro.1	ln_pro	1			
+jinghpaw	dwi	0145	dwi	grandmother	np.h:s	np	h	s	204	
+jinghpaw	dwi	0145	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0145	grai	very	other	other				
+jinghpaw	dwi	0145	=ma	=also	=other	=other				
+jinghpaw	dwi	0145	sadi	be.careful	v:pred	v		pred		
+jinghpaw	dwi	0145	=ra	=need	=aux	=aux				
+jinghpaw	dwi	0145	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	dwi	0146	#	#	##ds	##ds				
+jinghpaw	dwi	0146	masha	person	np.h:a	np	h	a		
+jinghpaw	dwi	0146	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0146	an	1DU	ln_pro.1	ln_pro	1			
+jinghpaw	dwi	0146	dwi	grandmother	np.h:p	np	h	p	204	
+jinghpaw	dwi	0146	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0146	manawn	be.jealous	v:pred	v		pred		
+jinghpaw	dwi	0146	=taw	=CONT	=aux	=aux				
+jinghpaw	dwi	0146	=na	=IRR	=aux	=aux				
+jinghpaw	dwi	0146	=ra	=may	=aux	=aux				
+jinghpaw	dwi	0146	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0147	#	#	##	##				
+jinghpaw	dwi	0147	0	0	0.h:s	0	h	s	203	
+jinghpaw	dwi	0147	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0147	yang	when	other	other				
+jinghpaw	dwi	0147	=she	=then	=other	=other				
+jinghpaw	dwi	0147	shi	3SG	nc	nc			203	
+jinghpaw	dwi	0147	=gaw	=TOP	nc	nc				
+jinghpaw	dwi	0147	#	#	##ds	##ds				
+jinghpaw	dwi	0147	nang	2SG	pro.2:a	pro	2	a	202	
+jinghpaw	dwi	0147	ndai	this	dem_pro:p	dem_pro		p	240	
+jinghpaw	dwi	0147	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0147	hto	over.there	other	other				
+jinghpaw	dwi	0147	#	#	#ds_cc:g	#ds_cc		g		
+jinghpaw	dwi	0147	hkawhkam	king	np.h:s	np	h	s	244	new
+jinghpaw	dwi	0147	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0147	nga	live	v:pred	v		pred		
+jinghpaw	dwi	0147	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0147	%	%	%	%				
+jinghpaw	dwi	0147	=de	=ALL	=rn	=rn				
+jinghpaw	dwi	0147	sa	go	lv	lv				
+jinghpaw	dwi	0147	dut	sell	v:pred	v		pred		
+jinghpaw	dwi	0147	=u	=IMP	=rv	=rv				
+jinghpaw	dwi	0147	=yaw	=SFP	=other	=other				
+jinghpaw	dwi	0148	#	#	##neg	##neg				
+jinghpaw	dwi	0148	dan	thus	other	other				
+jinghpaw	dwi	0148	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0148	shi	3SG	nc_pro.h	nc_pro	h		202	
+jinghpaw	dwi	0148	=gaw	=TOP	nc	nc				
+jinghpaw	dwi	0148	ma	child	np.h:s	np	h	s	202	
+jinghpaw	dwi	0148	=mung	=also	=other	=other				
+jinghpaw	dwi	0148	gade	to.where	np:g	np		g		
+jinghpaw	dwi	0148	n-sa	NEG-go	v:pred	v		pred		
+jinghpaw	dwi	0148	=ga	=EXP	=aux	=aux				
+jinghpaw	dwi	0148	re	COP	other	other				
+jinghpaw	dwi	0148	nga	say	other	other				
+jinghpaw	dwi	0148	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0148	#	#	##neg	##neg				
+jinghpaw	dwi	0148	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0148	hpa	what	np:p	np		p		
+jinghpaw	dwi	0148	n-chye	NEG-know	v:pred	v		pred		
+jinghpaw	dwi	0148	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0148	=i	=SFP	=other	=other				
+jinghpaw	dwi	0149	#	#	##	##				
+jinghpaw	dwi	0149	kaji	grandfather	nc_np.h	nc_np	h			
+jinghpaw	dwi	0149	shi	3SG	ln_pro.h:poss	ln_pro	h	poss	202	
+jinghpaw	dwi	0149	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0149	gawoidwi	grandmother	np.h:dt	np	h	dt	203	
+jinghpaw	dwi	0149	=sha	=only	=other	=other				
+jinghpaw	dwi	0149	mahkrummadup	experience	np:s	np		s		
+jinghpaw	dwi	0149	nga	be	v:pred	v		pred		
+jinghpaw	dwi	0149	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0149	=le	=SFP	=other	=other				
+jinghpaw	dwi	0149	=i	=SFP	=other	=other				
+jinghpaw	dwi	0150	#	#	##	##				
+jinghpaw	dwi	0150	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0150	majaw	because	np:other	np		other		
+jinghpaw	dwi	0150	shi	3SG	pro.h:s_ds	pro	h	s_ds	203	
+jinghpaw	dwi	0150	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0150	#	#	##ds	##ds				
+jinghpaw	dwi	0150	nang	2SG	pro.2:s	pro	2	s	202	
+jinghpaw	dwi	0150	dai	that	nc	nc				
+jinghpaw	dwi	0150	dai	that	nc	nc				
+jinghpaw	dwi	0150	=hku	=like	nc	nc				
+jinghpaw	dwi	0150	dai	that	nc	nc				
+jinghpaw	dwi	0150	=hku	=like	nc	nc				
+jinghpaw	dwi	0150	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0150	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0150	re	COP	other	other				
+jinghpaw	dwi	0150	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0150	sa	go	nc	nc				
+jinghpaw	dwi	0150	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0150	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0151	#	#	##ds	##ds				
+jinghpaw	dwi	0151	0	0	0.2:s	0	2	s	202	
+jinghpaw	dwi	0151	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0151	hkawhkam-wang	king-circle	np:g	np		g	246	bridging
+jinghpaw	dwi	0151	=de	=ALL	=rn	=rn				
+jinghpaw	dwi	0151	du	arrive	other	other				
+jinghpaw	dwi	0151	=hkra	=until	=other	=other				
+jinghpaw	dwi	0151	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0151	=u	=IMP	=rv	=rv				
+jinghpaw	dwi	0151	=yaw	=SFP	=other	=other				
+jinghpaw	dwi	0152	#	#	##ds	##ds				
+jinghpaw	dwi	0152	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0152	shaloi	then	np:other	np		other		
+jinghpaw	dwi	0152	shanhte	3PL	pro.h:a	pro	h	a	244	
+jinghpaw	dwi	0152	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0152	nang	2SG	pro.2:p	pro	2	p	202	
+jinghpaw	dwi	0152	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0152	hkaptau	welcome	v:pred	v		pred		
+jinghpaw	dwi	0152	=la	=take	=aux	=aux				
+jinghpaw	dwi	0152	=na	=IRR	=aux	=aux				
+jinghpaw	dwi	0152	=ra	=may	=aux	=aux				
+jinghpaw	dwi	0152	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0153	#	#	##ds	##ds				
+jinghpaw	dwi	0153	0	0	0.h:s_ds	0	h	s_ds	203	
+jinghpaw	dwi	0153	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0153	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0153	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0153	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0153	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0153	shaloi	then	np:other	np		other		
+jinghpaw	dwi	0153	=she	=then	=other	=other				
+jinghpaw	dwi	0154	#	#	##	##				
+jinghpaw	dwi	0154	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0154	ma	child	np.h:dt_s	np	h	dt_s	202	
+jinghpaw	dwi	0154	dai	that	dem_pro:s	dem_pro		s	202	
+jinghpaw	dwi	0154	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0154	#	#	##ds	##ds				
+jinghpaw	dwi	0154	rai	COP	v:pred	v		pred		
+jinghpaw	dwi	0154	=s-ai	=CSM-DECL	=other	=other				
+jinghpaw	dwi	0154	%	%	%	%				
+jinghpaw	dwi	0154	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0154	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0154	=she	=then	=other	=other				
+jinghpaw	dwi	0154	#	#	##	##				
+jinghpaw	dwi	0154	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0154	kahkum	pumpkin	np:p	np		p	241	
+jinghpaw	dwi	0154	=mung	=also	=other	=other				
+jinghpaw	dwi	0154	dai	that	np:g	np		g		
+jinghpaw	dwi	0154	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0154	bang	put	v:pred	v		pred		
+jinghpaw	dwi	0154	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0155	#	#	##	##				
+jinghpaw	dwi	0155	0	0	0.h:p	0	h	p	202	
+jinghpaw	dwi	0155	shi	3SG.GEN	ln_pro.h:poss	ln_pro	h	poss	202	
+jinghpaw	dwi	0155	dwi	grandmother	np.h:a	np	h	a	203	
+jinghpaw	dwi	0155	=mung	=also	=other	=other				
+jinghpaw	dwi	0155	shaman	bless	v:pred	v		pred		
+jinghpaw	dwi	0155	=dat	=away	=other	=other				
+jinghpaw	dwi	0155	=ya	=BEN	=aux	=aux				
+jinghpaw	dwi	0155	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0155	=hte	=COM	=rn	=rn				
+jinghpaw	dwi	0156	#	#	##	##				
+jinghpaw	dwi	0156	rai	COP	other	other				
+jinghpaw	dwi	0156	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0156	shi	3SG	pro.h:s	pro	h	s	202	
+jinghpaw	dwi	0156	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0156	hkrun-lam	journey-way	np:other	np		other	247	bridging
+jinghpaw	dwi	0156	hkawm	walk	v:pred	v		pred		
+jinghpaw	dwi	0156	=mat	=COMPL	=aux	=aux				
+jinghpaw	dwi	0156	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0156	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0157	#	#	##	##				
+jinghpaw	dwi	0157	0	0	0.h:s	0	h	s	202	
+jinghpaw	dwi	0157	hkawm	walk	nc	nc				
+jinghpaw	dwi	0157	hkawm	walk	nc	nc				
+jinghpaw	dwi	0157	hkawm	walk	v:pred	v		pred		
+jinghpaw	dwi	0157	re	LV	other	other				
+jinghpaw	dwi	0157	=she	=then	=other	=other				
+jinghpaw	dwi	0158	#	#	##	##				
+jinghpaw	dwi	0158	aw	over.there	nc	nc				
+jinghpaw	dwi	0158	lam	road	nc	nc				
+jinghpaw	dwi	0158	=kaw	=LOC	nc	nc				
+jinghpaw	dwi	0158	lam	road	ln_np	ln_np				
+jinghpaw	dwi	0158	hkan	nearby	np:l	np		l		
+jinghpaw	dwi	0158	=de	=ALL	=rn	=rn				
+jinghpaw	dwi	0158	=mung	=also	=other	=other				
+jinghpaw	dwi	0158	hkrun-lam	journey-road	np:s	np		s	247	
+jinghpaw	dwi	0158	grai	very	other	other				
+jinghpaw	dwi	0158	tsan	be.far	v:pred	v		pred		
+jinghpaw	dwi	0158	=na	=IRR	=aux	=aux				
+jinghpaw	dwi	0158	rai	COP	other	other				
+jinghpaw	dwi	0158	=nga	=CONT	=aux	=aux				
+jinghpaw	dwi	0158	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0159	#	#	##	##				
+jinghpaw	dwi	0159	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0159	yang	when	np:other	np		other		
+jinghpaw	dwi	0159	=she	=then	=other	=other				
+jinghpaw	dwi	0159	dai	well	other	other				
+jinghpaw	dwi	0159	kaga	other	ln_adj	ln_adj				
+jinghpaw	dwi	0159	hpaga-la	trader-man	np.h:s	np	h	s	248	new
+jinghpaw	dwi	0159	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0159	=mung	=also	=other	=other				
+jinghpaw	dwi	0159	grai	very	other	other				
+jinghpaw	dwi	0159	nga	be	v:pred	v		pred		
+jinghpaw	dwi	0159	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0160	#	#	##	##				
+jinghpaw	dwi	0160	hpaga-la	trader-man	np.h:s	np	h	s	248	
+jinghpaw	dwi	0160	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0160	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0160	ndai	this	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0160	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0160	nga	be	v:pred	v		pred		
+jinghpaw	dwi	0160	#	#	##	##				
+jinghpaw	dwi	0160	hpaga-jum	trade-salt	np:s	np		s	249	new
+jinghpaw	dwi	0160	hpaga	trade	nc	nc				
+jinghpaw	dwi	0160	ba-ba-ba-nya-nya	this.and.that	nc	nc				
+jinghpaw	dwi	0160	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0160	grai	very	other	other				
+jinghpaw	dwi	0160	nga	be	v:pred	v		pred		
+jinghpaw	dwi	0160	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0160	=da	=HS	=other	=other				
+jinghpaw	dwi	0161	#	#	##	##				
+jinghpaw	dwi	0161	dai	that	dem_pro:dt	dem_pro		dt		
+jinghpaw	dwi	0161	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0161	=she	=then	=other	=other				
+jinghpaw	dwi	0161	shanhte	3PL	pro.h:s	pro	h	s	248	
+jinghpaw	dwi	0161	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0161	lam	road	np:l	np		l	250	bridging
+jinghpaw	dwi	0161	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0161	=ma	=also	=other	=other				
+jinghpaw	dwi	0161	yup	sleep	v:pred	v		pred		
+jinghpaw	dwi	0161	=ra	=need	=aux	=aux				
+jinghpaw	dwi	0161	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0161	rai	COP	other	other				
+jinghpaw	dwi	0162	#	#	##	##				
+jinghpaw	dwi	0162	shana	night	np:s	np		s		
+jinghpaw	dwi	0162	mi	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0162	du	arrive	v:pred	v		pred		
+jinghpaw	dwi	0162	yang	when	other	other				
+jinghpaw	dwi	0162	=she	=then	=other	=other				
+jinghpaw	dwi	0163	#	#	##neg	##neg				
+jinghpaw	dwi	0163	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0163	hpaga-la	trader-man	np.h:a	np	h	a	248	
+jinghpaw	dwi	0163	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0163	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0163	shatmai	food	np:p	np		p		
+jinghpaw	dwi	0163	n-lu	NEG-get	v:pred	v		pred		
+jinghpaw	dwi	0163	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0164	#	#	##neg	##neg				
+jinghpaw	dwi	0164	shanhte	3PL	pro.h:a	pro	h	a	248	
+jinghpaw	dwi	0164	shatmai	food	np:p	np		p		
+jinghpaw	dwi	0164	n-lu	NEG-get	v:pred	v		pred		
+jinghpaw	dwi	0164	yang	when	other	other				
+jinghpaw	dwi	0164	=she	=then	=other	=other				
+jinghpaw	dwi	0165	#	#	##ds	##ds				
+jinghpaw	dwi	0165	0	0	0.1:a	0	1	a	248	
+jinghpaw	dwi	0165	hpabaw	what	np:p	np		p		
+jinghpaw	dwi	0165	shadu	cook	lv	lv				
+jinghpaw	dwi	0165	sha	eat	v:pred	v		pred		
+jinghpaw	dwi	0165	=na	=IRR	=rv	=rv				
+jinghpaw	dwi	0165	=i	=Q	=other	=other				
+jinghpaw	dwi	0165	#	#	##	##				
+jinghpaw	dwi	0165	0	0	0.h:s_ds	0	h	s_ds	248	
+jinghpaw	dwi	0165	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0165	yang	when	other	other				
+jinghpaw	dwi	0165	=she	=then	=other	=other				
+jinghpaw	dwi	0166	#	#	##	##				
+jinghpaw	dwi	0166	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0166	ma	child	np.h:dt_a	np	h	dt_a	202	
+jinghpaw	dwi	0166	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0166	hkum-si	pumpkin-fruit	np:p	np		p	241	
+jinghpaw	dwi	0166	lawm	have	v:pred	v		pred		
+jinghpaw	dwi	0166	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0166	rai	COP	other	other				
+jinghpaw	dwi	0167	#	#	##	##				
+jinghpaw	dwi	0167	ora	over.there	ln_dem	ln_dem				
+jinghpaw	dwi	0167	hpaga-la	trader-man	np.h:s_ds	np	h	s_ds	248	
+jinghpaw	dwi	0167	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0167	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0167	#	#	##ds	##ds				
+jinghpaw	dwi	0167	0	0	0.1:a	0	1	a	248	
+jinghpaw	dwi	0167	hkum-si	pumpkin-fruit	np:p	np		p	241	
+jinghpaw	dwi	0167	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0167	shadu	cook	lv	lv				
+jinghpaw	dwi	0167	sha	eat	v:pred	v		pred		
+jinghpaw	dwi	0167	=ga	=HORT	=rv	=rv				
+jinghpaw	dwi	0167	%	%	%	%				
+jinghpaw	dwi	0167	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0167	=yu	=CON	=aux	=aux				
+jinghpaw	dwi	0167	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0167	=da	=HS	=other	=other				
+jinghpaw	dwi	0168	#	#	##	##				
+jinghpaw	dwi	0168	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0168	shaloi	then	np:other	np		other		
+jinghpaw	dwi	0168	ma	child	np.h:s_ds	np	h	s_ds	202	
+jinghpaw	dwi	0168	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0168	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0168	#	#	##ds.neg	##ds.neg				
+jinghpaw	dwi	0168	0	0	0.1:a	0	1	a	202	
+jinghpaw	dwi	0168	0	0	0:p	0		p	241	
+jinghpaw	dwi	0168	n-shadu	NEG-cook	lv	lv				
+jinghpaw	dwi	0168	sha	eat	v:pred	v		pred		
+jinghpaw	dwi	0168	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0169	#	#	##ds.neg	##ds.neg				
+jinghpaw	dwi	0169	ndai	this	dem_pro:s	dem_pro		s	241	
+jinghpaw	dwi	0169	n-mai	NEG-be.OK	lv	lv				
+jinghpaw	dwi	0169	shadu	cook	lv	lv				
+jinghpaw	dwi	0169	sha	eat	v:pred	v		pred		
+jinghpaw	dwi	0169	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0169	%	%	%	%				
+jinghpaw	dwi	0169	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0169	yang	when	other	other				
+jinghpaw	dwi	0170	#	#	##	##				
+jinghpaw	dwi	0170	ora	that	dem_pro.h:s	dem_pro	h	s	248	
+jinghpaw	dwi	0170	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0170	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0170	agying	with.total.effort	other	other				
+jinghpaw	dwi	0170	un	be.aroused.to.anger	v:pred	v		pred		
+jinghpaw	dwi	0170	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0170	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	dwi	0171	#	#	##ds.neg	##ds.neg				
+jinghpaw	dwi	0171	0	0	0.2:a	0	2	a	202	
+jinghpaw	dwi	0171	0	0	0:p	0		p	241	
+jinghpaw	dwi	0171	ganing	how	other	other				
+jinghpaw	dwi	0171	rai	COP	other	other				
+jinghpaw	dwi	0171	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0171	=me	=but	=other	=other				
+jinghpaw	dwi	0171	#	#	#ds_ac	#ds_ac				
+jinghpaw	dwi	0171	0	0	0.2:a	0	2	a	202	
+jinghpaw	dwi	0171	shahpa	food	np:p	np		p	241	
+jinghpaw	dwi	0171	hpai	carry	v:pred	v		pred		
+jinghpaw	dwi	0171	=taw	=CONT	=aux	=aux				
+jinghpaw	dwi	0171	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0171	=me	=but	=other	=other				
+jinghpaw	dwi	0171	%	%	%	%				
+jinghpaw	dwi	0171	n-mai	NEG-be.OK	v:pred	v		pred		
+jinghpaw	dwi	0171	shadu	cook	lv	lv				
+jinghpaw	dwi	0171	sha	eat	v:pred	v		pred		
+jinghpaw	dwi	0171	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0171	=gaw	=SFP	=other	=other				
+jinghpaw	dwi	0172	#	#	##ds	##ds				
+jinghpaw	dwi	0172	0	0	0.2:a	0	2	a	202	
+jinghpaw	dwi	0172	0	0	0:p	0		p	241	
+jinghpaw	dwi	0172	#	#	#ds_ac	#ds_ac				
+jinghpaw	dwi	0172	0	0	0.2:a	0	2	a	202	
+jinghpaw	dwi	0172	hpabaw	what	np:p	np		p		
+jinghpaw	dwi	0172	di	do	v:pred	v		pred		
+jinghpaw	dwi	0172	=na	=IRR	=rv	=rv				
+jinghpaw	dwi	0172	matu	in.order	other	other				
+jinghpaw	dwi	0172	%	%	%	%				
+jinghpaw	dwi	0172	hpai	carry	lv	lv				
+jinghpaw	dwi	0172	hkawm	walk	v:pred	v		pred		
+jinghpaw	dwi	0172	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0172	#	#	##	##				
+jinghpaw	dwi	0172	0	0	0.h:s_ds	0	h	s_ds	248	
+jinghpaw	dwi	0172	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0172	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0172	=she	=then	=other	=other				
+jinghpaw	dwi	0173	#	#	##	##				
+jinghpaw	dwi	0173	0	0	0.h:a	0	h	a	248	
+jinghpaw	dwi	0173	dai	well	other	other				
+jinghpaw	dwi	0173	shi	3SG.GEN	ln_pro.h:poss	ln_pro	h	poss	202	
+jinghpaw	dwi	0173	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0173	dai	that	dem_pro:p	dem_pro		p	241	
+jinghpaw	dwi	0173	=chyawm	=CONTR	=other	=other				
+jinghpaw	dwi	0173	kashun	rob	lv	lv				
+jinghpaw	dwi	0173	la	take	v:pred	v		pred		
+jinghpaw	dwi	0173	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0173	=she	=then	=other	=other				
+jinghpaw	dwi	0174	#	#	##ds	##ds				
+jinghpaw	dwi	0174	0	0	0.1:a	0	1	a	248	
+jinghpaw	dwi	0174	#	#	#ds_rc.neg	#ds_rc.neg				
+jinghpaw	dwi	0174	0	0	rel_f0:p	rel_f0		p	241	
+jinghpaw	dwi	0174	anhte	1PL	pro.1:a	pro	1	a	248	
+jinghpaw	dwi	0174	n-mai	NEG-be.OK	lv	lv				
+jinghpaw	dwi	0174	sha	eat	v:pred	v		pred		
+jinghpaw	dwi	0174	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	dwi	0174	%	%	%	%				
+jinghpaw	dwi	0174	rai	thing	np:p	np		p	241	
+jinghpaw	dwi	0174	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0174	gabai	throw.away	v:pred	v		pred		
+jinghpaw	dwi	0174	=kau	=away	=aux	=aux				
+jinghpaw	dwi	0174	=ga	=HORT	=rv	=rv				
+jinghpaw	dwi	0174	#	#	##	##				
+jinghpaw	dwi	0174	0	0	0.h:s_ds	0	h	s_ds	248	
+jinghpaw	dwi	0174	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0174	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0174	=she	=then	=other	=other				
+jinghpaw	dwi	0175	#	#	##	##				
+jinghpaw	dwi	0175	0	0	0.h:a	0	h	a	248	
+jinghpaw	dwi	0175	0	0	0:p	0		p	241	
+jinghpaw	dwi	0175	la	take	v:pred	v		pred		
+jinghpaw	dwi	0175	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0175	#	#	##	##				
+jinghpaw	dwi	0175	0	0	0.h:a	0	h	a	248	
+jinghpaw	dwi	0175	0	0	0:p	0		p	241	
+jinghpaw	dwi	0175	gabai	throw.away	v:pred	v		pred		
+jinghpaw	dwi	0175	=kau	=away	=aux	=aux				
+jinghpaw	dwi	0175	=ya	=BEN	=aux	=aux				
+jinghpaw	dwi	0175	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0176	#	#	##	##				
+jinghpaw	dwi	0176	0	0	0.h:a	0	h	a	248	
+jinghpaw	dwi	0176	0	0	0:p	0		p	241	
+jinghpaw	dwi	0176	gabai	throw.away	v:pred	v		pred		
+jinghpaw	dwi	0176	=kau	=away	=aux	=aux				
+jinghpaw	dwi	0176	=ya	=BEN	=aux	=aux				
+jinghpaw	dwi	0176	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0176	=she	=then	=other	=other				
+jinghpaw	dwi	0177	#	#	##	##				
+jinghpaw	dwi	0177	0	0	0.h:a	0	h	a	248	
+jinghpaw	dwi	0177	0	0	0:p	0		p	241	
+jinghpaw	dwi	0177	jawm	together	other	other				
+jinghpaw	dwi	0177	tek	hold	v:pred	v		pred		
+jinghpaw	dwi	0177	=da	=RES	=aux	=aux				
+jinghpaw	dwi	0177	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0177	=she	=then	=other	=other				
+jinghpaw	dwi	0177	#	#	##	##				
+jinghpaw	dwi	0177	0	0	0.h:a	0	h	a	248	
+jinghpaw	dwi	0177	0	0	0:p	0		p	241	
+jinghpaw	dwi	0177	gabai	throw.away	v:pred	v		pred		
+jinghpaw	dwi	0177	=kau	=away	=aux	=aux				
+jinghpaw	dwi	0177	=ya	=BEN	=aux	=aux				
+jinghpaw	dwi	0177	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0177	=she	=then	=other	=other				
+jinghpaw	dwi	0178	#	#	##	##				
+jinghpaw	dwi	0178	ma	child	np.h:s	np	h	s	202	
+jinghpaw	dwi	0178	dai	that	rn_dem	rn_dem				
+jinghpaw	dwi	0178	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0178	hkrap	cry	v:pred	v		pred		
+jinghpaw	dwi	0178	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0178	=she	=then	=other	=other				
+jinghpaw	dwi	0179	#	#	##	##				
+jinghpaw	dwi	0179	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0179	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0179	shi	3SG	pro.h:s	pro	h	s	202	
+jinghpaw	dwi	0179	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0179	hkrap	cry	v:pred	v		pred		
+jinghpaw	dwi	0179	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0179	=she	=then	=other	=other				
+jinghpaw	dwi	0180	#	#	##	##				
+jinghpaw	dwi	0180	0	0	0.h:s	0	h	s	202	
+jinghpaw	dwi	0180	hka	water	ln_np	ln_np				
+jinghpaw	dwi	0180	kau	beside	np:l	np		l		
+jinghpaw	dwi	0180	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0180	=sha	=only	=other	=other				
+jinghpaw	dwi	0180	dung	sit	v:pred	v		pred		
+jinghpaw	dwi	0180	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0180	=she	=then	=other	=other				
+jinghpaw	dwi	0181	#	#	##	##				
+jinghpaw	dwi	0181	shi	3SG	pro.h:s_ds	pro	h	s_ds	202	
+jinghpaw	dwi	0181	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0181	lamu	sky	nc_np	nc_np			251	unused
+jinghpaw	dwi	0181	=de	=ALL	nc	nc				
+jinghpaw	dwi	0181	lamu	sky	np:g	np		g	251	
+jinghpaw	dwi	0181	=de	=ALL	=rn	=rn				
+jinghpaw	dwi	0181	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0181	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0181	=i	=SFP	=other	=other				
+jinghpaw	dwi	0182	#	#	##ds	##ds				
+jinghpaw	dwi	0182	0	0	0.2:a	0	2	a	252	new
+jinghpaw	dwi	0182	garai-wa	God-man	np.h:voc	np	h	voc	252	
+jinghpaw	dwi	0182	=e	=SFP	=other	=other				
+jinghpaw	dwi	0182	ning	here	np:p	np		p		
+jinghpaw	dwi	0182	yu	look	v:pred	v		pred		
+jinghpaw	dwi	0182	=ya	=BEN	=aux	=aux				
+jinghpaw	dwi	0182	=u	=IMP	=rv	=rv				
+jinghpaw	dwi	0182	=i	=SFP	=other	=other				
+jinghpaw	dwi	0183	#	#	##ds	##ds				
+jinghpaw	dwi	0183	ngai	1SG	nc_pro.1	nc_pro	1		202	
+jinghpaw	dwi	0183	=hpe	=ACC	nc	nc				
+jinghpaw	dwi	0183	ndai	this	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0183	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0183	byin	happen	v:pred	v		pred		
+jinghpaw	dwi	0183	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0183	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0184	#	#	##ds	##ds				
+jinghpaw	dwi	0184	ngai	1SG	nc_pro.1	nc_pro	1		202	
+jinghpaw	dwi	0184	dai	that	nc	nc				
+jinghpaw	dwi	0184	=hpe	=ACC	nc	nc				
+jinghpaw	dwi	0184	a-dwi	KIN-grandmother	np.h:s	np	h	s	203	
+jinghpaw	dwi	0184	=mung	=also	=other	=other				
+jinghpaw	dwi	0184	grai	very	other	other				
+jinghpaw	dwi	0184	nga	say	nc	nc				
+jinghpaw	dwi	0184	shamat	shamat	nc	nc				
+jinghpaw	dwi	0184	grai	very	other	other				
+jinghpaw	dwi	0184	gabu	be.glad	v:pred	v		pred		
+jinghpaw	dwi	0184	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0184	=hte	=COM	=other	=other				
+jinghpaw	dwi	0184	rai	LV	other	other				
+jinghpaw	dwi	0184	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0184	#	#	##ds	##ds				
+jinghpaw	dwi	0184	0	0	0.h:a	0	h	a	203	
+jinghpaw	dwi	0184	ngai	1SG	pro.1:p	pro	1	p	202	
+jinghpaw	dwi	0184	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0184	ndai	this	dem_pro:g	dem_pro		g	247	
+jinghpaw	dwi	0184	=de	=ALL	=rn	=rn				
+jinghpaw	dwi	0184	sa	go	v:pred	v		pred		
+jinghpaw	dwi	0184	=dat	=away	=aux	=aux				
+jinghpaw	dwi	0184	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0185	#	#	##ds	##ds				
+jinghpaw	dwi	0185	0	0	0.h:a	0	h	a	248	
+jinghpaw	dwi	0185	0	0	0:p	0		p	241	
+jinghpaw	dwi	0185	ya	now	other	other				
+jinghpaw	dwi	0185	gabai	throw.away	v:pred	v		pred		
+jinghpaw	dwi	0185	=kau	=away	=aux	=aux				
+jinghpaw	dwi	0185	=ya	=BEN	=aux	=aux				
+jinghpaw	dwi	0185	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	dwi	0185	lamu	sky	np:voc	np		voc	251	
+jinghpaw	dwi	0185	=e	=SFP	=other	=other				
+jinghpaw	dwi	0185	#	#	##	##				
+jinghpaw	dwi	0185	0	0	0.h:s_ds	0	h	s_ds	202	
+jinghpaw	dwi	0185	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0185	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0186	#	#	##	##				
+jinghpaw	dwi	0186	#	#	#ac	#ac				
+jinghpaw	dwi	0186	0	0	0.h:s	0	h	s	202	
+jinghpaw	dwi	0186	dai	that	nc	nc				
+jinghpaw	dwi	0186	=hku	=like	nc	nc				
+jinghpaw	dwi	0186	=i	=SFP	nc	nc				
+jinghpaw	dwi	0186	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0186	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0186	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0186	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0186	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0186	shaloi	when	other	other				
+jinghpaw	dwi	0186	=she	=then	=other	=other				
+jinghpaw	dwi	0186	%	%	%	%				
+jinghpaw	dwi	0187	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0187	kahkum-si	pumpkin-fruit	np:dt_s	np		dt_s	241	
+jinghpaw	dwi	0187	dai	that	dem_pro:s	dem_pro		s	241	
+jinghpaw	dwi	0187	=wa	=TOP	=other	=other				
+jinghpaw	dwi	0187	=she	=then	=other	=other				
+jinghpaw	dwi	0187	bai	again	other	other				
+jinghpaw	dwi	0187	waw	float	v:pred	v		pred		
+jinghpaw	dwi	0187	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0187	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0187	=da	=HS	=other	=other				
+jinghpaw	dwi	0188	#	#	#nc	#nc				
+jinghpaw	dwi	0188	bai	again	nc	nc				
+jinghpaw	dwi	0188	waw	float	nc	nc				
+jinghpaw	dwi	0188	=wa	=VEN	nc	nc				
+jinghpaw	dwi	0188	=ai	=DECL	nc	nc				
+jinghpaw	dwi	0189	#	#	##	##				
+jinghpaw	dwi	0189	shi	3SG	pro.h:s	pro	h	s	202	
+jinghpaw	dwi	0189	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0189	hka	water	np:other	np		other		
+jinghpaw	dwi	0189	hpungyawt	swim	v:pred	v		pred		
+jinghpaw	dwi	0189	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0190	#	#	##	##				
+jinghpaw	dwi	0190	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0190	0	0	0:p	0		p	241	
+jinghpaw	dwi	0190	bai	again	other	other				
+jinghpaw	dwi	0190	sa	go	lv	lv				
+jinghpaw	dwi	0190	la	take	v:pred	v		pred		
+jinghpaw	dwi	0190	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0190	=she	=then	=other	=other				
+jinghpaw	dwi	0191	#	#	##	##				
+jinghpaw	dwi	0191	0	0	0.h:s	0	h	s	202	
+jinghpaw	dwi	0191	bai	again	other	other				
+jinghpaw	dwi	0191	hpungyawt	swim	v:pred	v		pred		
+jinghpaw	dwi	0191	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0191	#	#	##	##				
+jinghpaw	dwi	0191	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0191	0	0	0:p	0		p	241	
+jinghpaw	dwi	0191	sa	go	lv	lv				
+jinghpaw	dwi	0191	la	take	v:pred	v		pred		
+jinghpaw	dwi	0191	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0191	=she	=then	=other	=other				
+jinghpaw	dwi	0191	#	#	##	##				
+jinghpaw	dwi	0191	0	0	0.h:s	0	h	s	202	
+jinghpaw	dwi	0191	bai	again	other	other				
+jinghpaw	dwi	0191	hkawm	walk	nc	nc				
+jinghpaw	dwi	0191	matut	continue	lv	lv				
+jinghpaw	dwi	0191	hkawm	walk	v:pred	v		pred		
+jinghpaw	dwi	0191	=mat	=COMPL	=aux	=aux				
+jinghpaw	dwi	0191	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0191	re	LV	other	other				
+jinghpaw	dwi	0191	yang	when	other	other				
+jinghpaw	dwi	0191	=she	=then	=other	=other				
+jinghpaw	dwi	0192	#	#	##	##				
+jinghpaw	dwi	0192	hpang	after	np:other	np		other		
+jinghpaw	dwi	0192	=e	=LOC	=rn	=rn				
+jinghpaw	dwi	0192	shi	3SG	pro.h:s	pro	h	s	202	
+jinghpaw	dwi	0192	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0192	hkawhkam-wang	king-circle	np:g	np		g	246	
+jinghpaw	dwi	0192	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0192	du	arrive	v:pred	v		pred		
+jinghpaw	dwi	0192	re	LV	other	other				
+jinghpaw	dwi	0192	yang	when	other	other				
+jinghpaw	dwi	0192	=she	=then	=other	=other				
+jinghpaw	dwi	0193	#	#	##	##				
+jinghpaw	dwi	0193	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0193	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0193	hkawhkam	king	ln_np.h	ln_np	h		244	
+jinghpaw	dwi	0193	=kaw	=LOC	=ln	=ln				
+jinghpaw	dwi	0193	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0193	ndai	well	nc	nc				
+jinghpaw	dwi	0193	chyinghka	door	ln_np	ln_np				
+jinghpaw	dwi	0193	sin	defend	ln_adj	ln_adj				
+jinghpaw	dwi	0193	=ai	=DECL	np.h:p	np	h	p	253	new
+jinghpaw	dwi	0193	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0193	=i	=SFP	=other	=other				
+jinghpaw	dwi	0193	gyidu	leader	nc_np.h	nc_np	h		254	bridging
+jinghpaw	dwi	0193	ba-nya	like.that	nc	nc				
+jinghpaw	dwi	0193	=ni	=PL	nc	nc				
+jinghpaw	dwi	0193	mu	see	v:pred	v		pred		
+jinghpaw	dwi	0193	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0193	=she	=then	=other	=other				
+jinghpaw	dwi	0194	#	#	##ds	##ds				
+jinghpaw	dwi	0194	nang	2SG	pro.2:s	pro	2	s	202	
+jinghpaw	dwi	0194	hpabaw	what	nc	nc				
+jinghpaw	dwi	0194	gadai	who	np.h:obl	np	h	obl		
+jinghpaw	dwi	0194	=hte	=COM	=rn	=rn				
+jinghpaw	dwi	0194	hkrum	meet	v:pred	v		pred		
+jinghpaw	dwi	0194	=mayu	=DESID	=aux	=aux				
+jinghpaw	dwi	0194	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0194	=rai	=Q	=other	=other				
+jinghpaw	dwi	0194	#	#	##	##				
+jinghpaw	dwi	0194	0	0	0.h:s_ds	0	h	s_ds	254	
+jinghpaw	dwi	0194	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0195	#	#	##ds	##ds				
+jinghpaw	dwi	0195	ngai	1SG	pro.1:s	pro	1	s	202	
+jinghpaw	dwi	0195	hkawhkamwa	king	np.h:obl	np	h	obl	256	bridging
+jinghpaw	dwi	0195	=hte	=COM	=rn	=rn				
+jinghpaw	dwi	0195	hkrum	meet	v:pred	v		pred		
+jinghpaw	dwi	0195	=mayu	=DESID	=aux	=aux				
+jinghpaw	dwi	0195	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0195	#	#	##	##				
+jinghpaw	dwi	0195	0	0	0.h:s_ds	0	h	s_ds	202	
+jinghpaw	dwi	0195	nga	QUOT	other	other				
+jinghpaw	dwi	0195	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0195	yang	when	other	other				
+jinghpaw	dwi	0196	#	#	##	##				
+jinghpaw	dwi	0196	0	0	0.h:p	0	h	p	202	
+jinghpaw	dwi	0196	shanhte	3PL	pro.h:a	pro	h	a	254	
+jinghpaw	dwi	0196	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0196	hkawhkamwa	king	ln_np	ln_np				
+jinghpaw	dwi	0196	hpang	place	np:g	np		g	246	
+jinghpaw	dwi	0196	=de	=ALL	=rn	=rn				
+jinghpaw	dwi	0196	wa	return	lv	lv				
+jinghpaw	dwi	0196	sa	send	v:pred	v		pred		
+jinghpaw	dwi	0196	=ya	=BEN	=aux	=aux				
+jinghpaw	dwi	0196	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0196	=she	=then	=other	=other				
+jinghpaw	dwi	0197	#	#	##	##				
+jinghpaw	dwi	0197	shi	3SG	pro.h:s	pro	h	s	202	
+jinghpaw	dwi	0197	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0197	hkawhkam-wang	king-circle	np:g	np		g	246	
+jinghpaw	dwi	0197	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0197	du	arrive	v:pred	v		pred		
+jinghpaw	dwi	0197	di	LV	other	other				
+jinghpaw	dwi	0197	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0198	#	#	##	##				
+jinghpaw	dwi	0198	#	#	#ac	#ac				
+jinghpaw	dwi	0198	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0198	shi	3SG.GEN	ln_pro.h:poss	ln_pro	h	poss	202	
+jinghpaw	dwi	0198	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0198	kahkum-si	pumpkin-fruit	np:p	np		p	241	
+jinghpaw	dwi	0198	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0198	hpaw	open	v:pred	v		pred		
+jinghpaw	dwi	0198	=dat	=away	=aux	=aux				
+jinghpaw	dwi	0198	yang	when	other	other				
+jinghpaw	dwi	0198	=wa	=very	=other	=other				
+jinghpaw	dwi	0198	%	%	%	%				
+jinghpaw	dwi	0199	hkawhkam-wang	king-circle	np:s	np		s	246	
+jinghpaw	dwi	0199	ting	whole	rn_qfr	rn_qfr				
+jinghpaw	dwi	0199	gabrim	shine	lv	lv				
+jinghpaw	dwi	0199	tsawm	be.beautiful	v:pred	v		pred		
+jinghpaw	dwi	0199	=taw	=CONT	=aux	=aux				
+jinghpaw	dwi	0199	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0199	yang	when	np:other	np		other		
+jinghpaw	dwi	0199	=she	=then	=other	=other				
+jinghpaw	dwi	0200	#	#	##	##				
+jinghpaw	dwi	0200	0	0	0:s	0		s	246	
+jinghpaw	dwi	0200	grai	very	other	other				
+jinghpaw	dwi	0200	htoi	shine	lv	lv				
+jinghpaw	dwi	0200	tsawm	be.beautiful	v:pred	v		pred		
+jinghpaw	dwi	0200	jang	when	other	other				
+jinghpaw	dwi	0200	=she	=then	=other	=other				
+jinghpaw	dwi	0201	#	#	##	##				
+jinghpaw	dwi	0201	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0201	hkawhkam-wang	king-circle	np.h:s	np	h	s	244	
+jinghpaw	dwi	0201	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0201	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0201	ndai	well	other	other				
+jinghpaw	dwi	0201	grai	very	other	other				
+jinghpaw	dwi	0201	mau	be.surprised	v:pred	v		pred		
+jinghpaw	dwi	0201	=mat	=COMPL	=aux	=aux				
+jinghpaw	dwi	0201	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0201	=she	=then	=other	=other				
+jinghpaw	dwi	0202	#	#	##	##				
+jinghpaw	dwi	0202	0	0	0.h:a	0	h	a	244	
+jinghpaw	dwi	0202	0	0	0:p	0		p	241	
+jinghpaw	dwi	0202	grai	very	other	other				
+jinghpaw	dwi	0202	=ma	=also	=other	=other				
+jinghpaw	dwi	0202	ra	like	v:pred	v		pred		
+jinghpaw	dwi	0202	=mat	=COMPL	=aux	=aux				
+jinghpaw	dwi	0202	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0202	=i	=SFP	=other	=other				
+jinghpaw	dwi	0203	#	#	##ds	##ds				
+jinghpaw	dwi	0203	ma	child	np.h:voc	np	h	voc	202	
+jinghpaw	dwi	0203	nang	2SG	pro.2:a	pro	2	a	202	
+jinghpaw	dwi	0203	ndai	this	dem_pro:p	dem_pro		p	241	
+jinghpaw	dwi	0203	gara	where	np:l	np		l		
+jinghpaw	dwi	0203	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0203	=na	=ABL	=rn	=rn				
+jinghpaw	dwi	0203	la	take	v:pred	v		pred		
+jinghpaw	dwi	0203	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0203	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0203	=rai	=Q	=other	=other				
+jinghpaw	dwi	0203	#	#	##	##				
+jinghpaw	dwi	0203	0	0	0.h:s_ds	0	h	s_ds	244	
+jinghpaw	dwi	0203	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0203	yang	when	other	other				
+jinghpaw	dwi	0204	#	#	##ds	##ds				
+jinghpaw	dwi	0204	0	0	0.1:a	0	1	a	202	
+jinghpaw	dwi	0204	0	0	0:p	0		p	241	
+jinghpaw	dwi	0204	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0204	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0204	la	take	v:pred	v		pred		
+jinghpaw	dwi	0204	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0204	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0204	re	COP	other	other				
+jinghpaw	dwi	0204	#	#	##	##				
+jinghpaw	dwi	0204	0	0	0.h:s_ds	0	h	s_ds	202	
+jinghpaw	dwi	0204	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0204	#	#	##neg	##neg				
+jinghpaw	dwi	0204	0	0	0:p	0		p		
+jinghpaw	dwi	0204	kadai	who	np.h:a	np	h	a	244	
+jinghpaw	dwi	0204	=ma	=also	=other	=other				
+jinghpaw	dwi	0204	n-kam	NEG-believe	v:pred	v		pred		
+jinghpaw	dwi	0204	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0204	=i	=SFP	=other	=other				
+jinghpaw	dwi	0205	#	#	##neg	##neg				
+jinghpaw	dwi	0205	0	0	0:p	0		p		
+jinghpaw	dwi	0205	gadai	who	np.h:a	np	h	a	244	
+jinghpaw	dwi	0205	=ma	=also	=other	=other				
+jinghpaw	dwi	0205	n-kam	NEG-believe	v:pred	v		pred		
+jinghpaw	dwi	0205	yang	when	other	other				
+jinghpaw	dwi	0205	=she	=then	=other	=other				
+jinghpaw	dwi	0206	#	#	##ds	##ds				
+jinghpaw	dwi	0206	e	INTJ	other	other				
+jinghpaw	dwi	0206	rai	COP	v:pred	v		pred		
+jinghpaw	dwi	0206	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	dwi	0206	#	#	##ds	##ds				
+jinghpaw	dwi	0206	#	#	#ds_ac	#ds_ac				
+jinghpaw	dwi	0206	0	0	0:p	0		p	240	
+jinghpaw	dwi	0206	nang	2SG	pro.2:a	pro	2	a	202	
+jinghpaw	dwi	0206	gara	where	np:other	np		other		
+jinghpaw	dwi	0206	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0206	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0206	mi	one	other	other				
+jinghpaw	dwi	0206	la	take	v:pred	v		pred		
+jinghpaw	dwi	0206	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0206	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0206	raitim	but	other	other				
+jinghpaw	dwi	0206	%	%	%	%				
+jinghpaw	dwi	0207	ndai	this	dem_pro:s	dem_pro		s	240	
+jinghpaw	dwi	0207	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0207	anhte	1PL	pro.1:obl	pro	1	obl	244	
+jinghpaw	dwi	0207	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0207	=hte	=COM	=rn	=rn				
+jinghpaw	dwi	0207	=she	=then	=other	=other				
+jinghpaw	dwi	0207	gying	be.worth	v:pred	v		pred		
+jinghpaw	dwi	0207	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0207	=i	=SFP	=other	=other				
+jinghpaw	dwi	0208	#	#	##ds	##ds				
+jinghpaw	dwi	0208	ma	child	np.h:voc	np	h	voc	202	
+jinghpaw	dwi	0208	#	#	#ds_ac	#ds_ac				
+jinghpaw	dwi	0208	nang	2SG	nc_pro.2	nc_pro	2		202	
+jinghpaw	dwi	0208	=ma	=also	nc	nc				
+jinghpaw	dwi	0208	nang	2SG	pro.2:a	pro	2	a	202	
+jinghpaw	dwi	0208	gade	how.much	np:p	np		p		
+jinghpaw	dwi	0208	ram	about	rn_adj	rn_adj				
+jinghpaw	dwi	0208	ra	need	v:pred	v		pred		
+jinghpaw	dwi	0208	yang	when	other	other				
+jinghpaw	dwi	0208	%	%	%	%				
+jinghpaw	dwi	0208	anhte	1PL	pro.1:a	pro	1	a	244	
+jinghpaw	dwi	0208	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0208	nang	2SG	pro.2:p	pro	2	p	202	
+jinghpaw	dwi	0208	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0208	gade	how.much	np:p2	np		p2		
+jinghpaw	dwi	0208	jaw	give	v:pred	v		pred		
+jinghpaw	dwi	0208	=na	=IRR	=other	=other				
+jinghpaw	dwi	0209	#	#	##ds	##ds				
+jinghpaw	dwi	0209	nang	2SG	pro.2:a	pro	2	a	202	
+jinghpaw	dwi	0209	gade	how.much	np:p	np		p		
+jinghpaw	dwi	0209	ra	need	v:pred	v		pred		
+jinghpaw	dwi	0209	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0209	=rai	=Q	=other	=other				
+jinghpaw	dwi	0210	#	#	##ds	##ds				
+jinghpaw	dwi	0210	0	0	0.2:a	0	2	a	202	
+jinghpaw	dwi	0210	0	0	0.1:p	0	1	p	244	
+jinghpaw	dwi	0210	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0210	=u	=IMP	=rv	=rv				
+jinghpaw	dwi	0210	#	#	##	##				
+jinghpaw	dwi	0210	0	0	0.h:s_ds	0	h	s_ds	244	
+jinghpaw	dwi	0210	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0210	jang	when	other	other				
+jinghpaw	dwi	0210	=she	=then	=other	=other				
+jinghpaw	dwi	0211	#	#	##	##				
+jinghpaw	dwi	0211	0	0	0.h:s_ds	0	h	s_ds	244	
+jinghpaw	dwi	0211	ma	child	np.h:dt_a	np	h	dt_a	202	
+jinghpaw	dwi	0211	dai	that	nc	nc				
+jinghpaw	dwi	0211	=gaw	=TOP	nc	nc				
+jinghpaw	dwi	0211	#	#	##ds	##ds				
+jinghpaw	dwi	0211	0	0	0.2:a	0	2	a	202	
+jinghpaw	dwi	0211	gade	how.much	np:p	np		p		
+jinghpaw	dwi	0211	ra	need	v:pred	v		pred		
+jinghpaw	dwi	0211	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0211	re	COP	other	other				
+jinghpaw	dwi	0211	%	%	%	%				
+jinghpaw	dwi	0211	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0211	yang	when	other	other				
+jinghpaw	dwi	0211	=mung	=also	=other	=other				
+jinghpaw	dwi	0212	#	#	##neg	##neg				
+jinghpaw	dwi	0212	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0212	=mung	=also	=other	=other				
+jinghpaw	dwi	0212	hpa	what	np:p	np		p		
+jinghpaw	dwi	0212	=ma	=also	=other	=other				
+jinghpaw	dwi	0212	n-chye	NEG-know	v:pred	v		pred		
+jinghpaw	dwi	0212	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0212	=le	=SFP	=other	=other				
+jinghpaw	dwi	0213	#	#	##	##				
+jinghpaw	dwi	0213	shi	3SG	pro.h:s	pro	h	s	202	
+jinghpaw	dwi	0213	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0213	mare	village	np:l	np		l	201	
+jinghpaw	dwi	0213	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0213	=sha	=only	=other	=other				
+jinghpaw	dwi	0213	#	#	#ac.neg	#ac.neg				
+jinghpaw	dwi	0213	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0213	hpa	what	np:p	np		p		
+jinghpaw	dwi	0213	=ma	=also	=other	=other				
+jinghpaw	dwi	0213	n-chye	NEG-know	vother	vother				
+jinghpaw	dwi	0213	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0213	%	%	%	%				
+jinghpaw	dwi	0213	nga	live	v:pred	v		pred		
+jinghpaw	dwi	0213	=wa	=VEN	=aux	=aux				
+jinghpaw	dwi	0213	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0213	re	COP	other	other				
+jinghpaw	dwi	0213	majaw	because	other	other				
+jinghpaw	dwi	0213	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0214	#	#	##ds	##ds				
+jinghpaw	dwi	0214	0	0	0.2:a	0	2	a	202	
+jinghpaw	dwi	0214	hpa	what	np:p	np		p		
+jinghpaw	dwi	0214	ra	need	v:pred	v		pred		
+jinghpaw	dwi	0214	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0214	#	#	##	##				
+jinghpaw	dwi	0214	0	0	0.h:s_ds	0	h	s_ds	244	
+jinghpaw	dwi	0214	ngu	QUOT	other	other				
+jinghpaw	dwi	0214	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0214	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0214	=ma	=also	=other	=other				
+jinghpaw	dwi	0214	#	#	##neg	##neg				
+jinghpaw	dwi	0214	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0214	hpa	what	np:p	np		p		
+jinghpaw	dwi	0214	=ma	=also	=other	=other				
+jinghpaw	dwi	0214	n-chye	NEG-know	v:pred	v		pred		
+jinghpaw	dwi	0214	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0215	#	#	##	##				
+jinghpaw	dwi	0215	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0215	raitim	but	other	other				
+jinghpaw	dwi	0215	#	#	#rc:dt_p	#rc		dt_p		
+jinghpaw	dwi	0215	0	0	rel_f0:p	rel_f0		p		
+jinghpaw	dwi	0215	shi	3SG	dem_pro.h:a	dem_pro	h	a	202	
+jinghpaw	dwi	0215	ra	need	v:pred	v		pred		
+jinghpaw	dwi	0215	=ai	=DECL.NMLZ	=rn	=rn				
+jinghpaw	dwi	0215	%	%	%	%				
+jinghpaw	dwi	0215	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0215	#	#	#rc:p	#rc		p		
+jinghpaw	dwi	0215	0	0	rel_f0:p	rel_f0		p		
+jinghpaw	dwi	0215	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0215	grai	very	other	other				
+jinghpaw	dwi	0215	law	be.many	other	other				
+jinghpaw	dwi	0215	=hkra	=until	=other	=other				
+jinghpaw	dwi	0215	ra	need	v:pred	v		pred		
+jinghpaw	dwi	0215	=ai	=DECL.NMLZ	=rn	=rn				
+jinghpaw	dwi	0215	%	%	%	%				
+jinghpaw	dwi	0215	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0215	=sha	=only	=other	=other				
+jinghpaw	dwi	0215	chye	know	v:pred	v		pred		
+jinghpaw	dwi	0215	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0215	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0216	#	#	##	##				
+jinghpaw	dwi	0216	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0216	yang	when	np:other	np		other		
+jinghpaw	dwi	0216	=she	=then	=other	=other				
+jinghpaw	dwi	0216	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0216	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0216	baw	head	np:p	np		p	255	bridging
+jinghpaw	dwi	0216	=sha	=only	=other	=other				
+jinghpaw	dwi	0216	masit-mahkyit	comb-scratch	v:pred	v		pred		
+jinghpaw	dwi	0216	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0216	=she	=then	=other	=other				
+jinghpaw	dwi	0217	#	#	##	##				
+jinghpaw	dwi	0217	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0217	baw	head	np:p	np		p	255	
+jinghpaw	dwi	0217	=sha	=only	=other	=other				
+jinghpaw	dwi	0217	mahkyit	scratch	v:pred	v		pred		
+jinghpaw	dwi	0217	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0217	=sha	=only	=other	=other				
+jinghpaw	dwi	0217	#	#	##	##				
+jinghpaw	dwi	0217	0	0	0.h:s	0	h	s	202	
+jinghpaw	dwi	0217	nga	be	v:pred	v		pred		
+jinghpaw	dwi	0217	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0217	yang	when	other	other				
+jinghpaw	dwi	0217	=she	=then	=other	=other				
+jinghpaw	dwi	0218	#	#	##neg	##neg				
+jinghpaw	dwi	0218	#	#	#ac	#ac				
+jinghpaw	dwi	0218	0	0	0.h:a	0	h	a	244	
+jinghpaw	dwi	0218	0	0	0.h:p	0	h	p	202	
+jinghpaw	dwi	0218	hpang	after	np:other	np		other		
+jinghpaw	dwi	0218	=e	=LOC	=rn	=rn				
+jinghpaw	dwi	0218	dai	well	other	other				
+jinghpaw	dwi	0218	gade	how.much	other	other				
+jinghpaw	dwi	0218	san	ask	v:pred	v		pred		
+jinghpaw	dwi	0218	tim	but	other	other				
+jinghpaw	dwi	0218	%	%	%	%				
+jinghpaw	dwi	0218	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0218	hpa	what	np:p	np		p		
+jinghpaw	dwi	0218	=mung	=also	=other	=other				
+jinghpaw	dwi	0218	n-tsun	NEG-say	v:pred	v		pred		
+jinghpaw	dwi	0219	#	#	##	##				
+jinghpaw	dwi	0219	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0219	baw	head	np:p	np		p	255	
+jinghpaw	dwi	0219	=sha	=only	=other	=other				
+jinghpaw	dwi	0219	mahkyit	scratch	v:pred	v		pred		
+jinghpaw	dwi	0219	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0219	yang	when	other	other				
+jinghpaw	dwi	0219	=she	=then	=other	=other				
+jinghpaw	dwi	0220	#	#	##	##				
+jinghpaw	dwi	0220	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0220	hkawhkamwa	king	np.h:a	np	h	a	256	
+jinghpaw	dwi	0220	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0220	shi	3SG.GEN	ln_pro.h:poss	ln_pro	h	poss	256	
+jinghpaw	dwi	0220	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0220	ndai	well	nc	nc				
+jinghpaw	dwi	0220	myihtoi	prophet	ln_np.h	ln_np	h		257	new
+jinghpaw	dwi	0220	=ni	=PL	=ln	=ln				
+jinghpaw	dwi	0220	=le	=SFP	=ln	=ln				
+jinghpaw	dwi	0220	=i	=SFP	=ln	=ln				
+jinghpaw	dwi	0220	ndai	well	nc	nc				
+jinghpaw	dwi	0220	hpaji	knowledge	nc	nc				
+jinghpaw	dwi	0220	hpaji-salang	knowledge-elder	np.h:p	np	h	p	258	new
+jinghpaw	dwi	0220	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0220	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0220	san	ask	v:pred	v		pred		
+jinghpaw	dwi	0220	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0221	#	#	##ds	##ds				
+jinghpaw	dwi	0221	nanhte	2PL	pro.2:a	pro	2	a	258	
+jinghpaw	dwi	0221	ma	child	nc_np.h	nc_np	h		202	
+jinghpaw	dwi	0221	=hpe	=ACC	nc	nc				
+jinghpaw	dwi	0221	shi	3SG.GEN	ln_pro.h:poss	ln_pro	h	poss	202	
+jinghpaw	dwi	0221	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0221	nsam	appearance	np:p	np		p	259	bridging
+jinghpaw	dwi	0221	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0221	yu	look	v:pred	v		pred		
+jinghpaw	dwi	0221	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0222	#	#	##ds	##ds				
+jinghpaw	dwi	0222	0	0	0.2:a	0	2	a	258	
+jinghpaw	dwi	0222	ngai	1SG	pro.1:p	pro	1	p	256	
+jinghpaw	dwi	0222	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0222	manu	price	np:p2	np		p2	260	bridging
+jinghpaw	dwi	0222	dawdan	decide	v:pred	v		pred		
+jinghpaw	dwi	0222	=ya	=BEN	=aux	=aux				
+jinghpaw	dwi	0222	=rit	=IMP	=rv	=rv				
+jinghpaw	dwi	0223	#	#	##ds.neg	##ds.neg				
+jinghpaw	dwi	0223	#	#	#ds_cc:p	#ds_cc		p		
+jinghpaw	dwi	0223	ngai	1SG	pro.1:a	pro	1	a	256	
+jinghpaw	dwi	0223	shi	3SG	pro.h:p	pro	h	p	202	
+jinghpaw	dwi	0223	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0223	gade	how.much	np:p2	np		p2		
+jinghpaw	dwi	0223	jaw	give	v:pred	v		pred		
+jinghpaw	dwi	0223	=na	=IRR	=aux	=aux				
+jinghpaw	dwi	0223	%	%	%	%				
+jinghpaw	dwi	0223	=ma	=also	=other	=other				
+jinghpaw	dwi	0223	ngai	1SG	pro.1:a	pro	1	a	256	
+jinghpaw	dwi	0223	n-chye	NEG-know	v:pred	v		pred		
+jinghpaw	dwi	0223	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0223	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0224	#	#	##ds.neg	##ds.neg				
+jinghpaw	dwi	0224	0	0	0:p	0		p	260	
+jinghpaw	dwi	0224	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0224	=ma	=also	=other	=other				
+jinghpaw	dwi	0224	n-tsun	NEG-say	lv	lv				
+jinghpaw	dwi	0224	hkraw	agree	v:pred	v		pred		
+jinghpaw	dwi	0224	yang	when	other	other				
+jinghpaw	dwi	0224	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0225	#	#	##ds.neg	##ds.neg				
+jinghpaw	dwi	0225	0	0	0.h:p	0	h	p	202	
+jinghpaw	dwi	0225	0	0	0:p2	0		p2	260	
+jinghpaw	dwi	0225	ngai	1SG	pro.1:a	pro	1	a	256	
+jinghpaw	dwi	0225	=ma	=also	=other	=other				
+jinghpaw	dwi	0225	n-chye	NEG-be.able	lv	lv				
+jinghpaw	dwi	0225	jaw	give	v:pred	v		pred		
+jinghpaw	dwi	0225	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0225	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0226	#	#	##ds	##ds				
+jinghpaw	dwi	0226	nanhte	2PL	nc_pro.2	nc_pro	2		258	
+jinghpaw	dwi	0226	=ma	=also	nc	nc				
+jinghpaw	dwi	0226	ndai	well	nc	nc				
+jinghpaw	dwi	0226	#	#	#ds_cc:p2	#ds_cc		p2		
+jinghpaw	dwi	0226	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0226	gade	how.much	np:p	np		p		
+jinghpaw	dwi	0226	ra	need	v:pred	v		pred		
+jinghpaw	dwi	0226	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0226	ngu	say	other	other				
+jinghpaw	dwi	0226	%	%	%	%				
+jinghpaw	dwi	0226	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0226	nanhte	2PL	pro.2:a	pro	2	a	258	
+jinghpaw	dwi	0226	shi	3SG	pro.h:p	pro	h	p	202	
+jinghpaw	dwi	0226	=hpe	=ACC	=rn	=rn				
+jinghpaw	dwi	0226	yu	look	lv	lv				
+jinghpaw	dwi	0226	=na	=SEQ	=lv	=lv				
+jinghpaw	dwi	0226	jaw	give	v:pred	v		pred		
+jinghpaw	dwi	0226	=ya	=BEN	=aux	=aux				
+jinghpaw	dwi	0226	=rit	=IMP	=rv	=rv				
+jinghpaw	dwi	0226	#	#	##	##				
+jinghpaw	dwi	0226	0	0	0.h:s_ds	0	h	s_ds	256	
+jinghpaw	dwi	0226	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0226	yang	when	other	other				
+jinghpaw	dwi	0226	=she	=then	=other	=other				
+jinghpaw	dwi	0227	#	#	##	##				
+jinghpaw	dwi	0227	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0227	shi	3SG.GEN	ln_pro.h:poss	ln_pro	h	poss	256	
+jinghpaw	dwi	0227	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0227	hpaji-ninghkring	knowledge-general	np.h:s_ds	np	h	s_ds	261	bridging
+jinghpaw	dwi	0227	langai	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0227	mi	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0227	wa	man	nc_np.h	nc_np	h		261	
+jinghpaw	dwi	0227	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0227	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0227	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0228	#	#	##ds	##ds				
+jinghpaw	dwi	0228	hkawhkam-wa	king-man	np.h:voc	np	h	voc	256	
+jinghpaw	dwi	0228	shi	3SG	nc_pro.h	nc_pro	h		202	
+jinghpaw	dwi	0228	=gaw	=TOP	nc	nc				
+jinghpaw	dwi	0228	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0228	daini	today	np:other	np		other		
+jinghpaw	dwi	0228	tup	whole	rn_qfr	rn_qfr				
+jinghpaw	dwi	0228	baw	head	np:p	np		p	255	
+jinghpaw	dwi	0228	=sha	=only	=other	=other				
+jinghpaw	dwi	0228	mahkrit	scratch	v:pred	v		pred		
+jinghpaw	dwi	0228	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	dwi	0228	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0228	=gaw	=SFP	=other	=other				
+jinghpaw	dwi	0229	#	#	##ds	##ds				
+jinghpaw	dwi	0229	shi	3SG	pro.h:a	pro	h	a	202	
+jinghpaw	dwi	0229	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0229	shi	3SG	nc_pro.h	nc_pro	h		202	
+jinghpaw	dwi	0229	=na	=GEN	nc	nc				
+jinghpaw	dwi	0229	kara	hair	nc_np	nc_np			255	
+jinghpaw	dwi	0229	=kaw	=LOC	nc	nc				
+jinghpaw	dwi	0229	#	#	#ds_rc	#ds_rc				
+jinghpaw	dwi	0229	0	0	rel_f0:s	rel_f0		s	262	bridging
+jinghpaw	dwi	0229	shi	3SG.GEN	ln_pro.h:poss	ln_pro	h	poss	202	
+jinghpaw	dwi	0229	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0229	baw	head	np:l	np		l	255	
+jinghpaw	dwi	0229	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0229	tu	grow	v:pred	v		pred		
+jinghpaw	dwi	0229	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	dwi	0229	%	%	%	%				
+jinghpaw	dwi	0229	kara	hair	np:p	np		p	262	
+jinghpaw	dwi	0229	=daram	=about	=other	=other				
+jinghpaw	dwi	0229	ra	need	v:pred	v		pred		
+jinghpaw	dwi	0229	=nga	=CONT	=aux	=aux				
+jinghpaw	dwi	0229	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0229	#	#	##	##				
+jinghpaw	dwi	0229	0	0	0.h:s_ds	0	h	s_ds	261	
+jinghpaw	dwi	0229	nga	QUOT	other	other				
+jinghpaw	dwi	0229	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0229	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0229	shaloi	when	other	other				
+jinghpaw	dwi	0229	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0230	#	#	##neg	##neg				
+jinghpaw	dwi	0230	#	#	#ac	#ac				
+jinghpaw	dwi	0230	#	#	#rc	#rc				
+jinghpaw	dwi	0230	0	0	rel_f0:s	rel_f0		s	262	
+jinghpaw	dwi	0230	0	0	0.h:a	0	h	a	244	
+jinghpaw	dwi	0230	baw	head	np:l	np		l	255	
+jinghpaw	dwi	0230	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0230	tu	grow	v:pred	v		pred		
+jinghpaw	dwi	0230	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	dwi	0230	%	%	%	%				
+jinghpaw	dwi	0230	kara	hair	np:p	np		p	262	
+jinghpaw	dwi	0230	=daram	=about	=other	=other				
+jinghpaw	dwi	0230	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0230	yang	when	other	other				
+jinghpaw	dwi	0230	%	%	%	%				
+jinghpaw	dwi	0230	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0230	0	0	0.h:a	0	h	a	244	
+jinghpaw	dwi	0230	0	0	0:p	0		p	262	
+jinghpaw	dwi	0230	hti	count	lv	lv				
+jinghpaw	dwi	0230	n-dang	NEG-be.able	v:pred	v		pred		
+jinghpaw	dwi	0230	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	dwi	0230	=le	=SFP	=other	=other				
+jinghpaw	dwi	0230	=i	=SFP	=other	=other				
+jinghpaw	dwi	0231	#	#	##ds	##ds				
+jinghpaw	dwi	0231	0	0	0.h:a	0	h	a	202	
+jinghpaw	dwi	0231	grai	very	other	other				
+jinghpaw	dwi	0231	law	be.many	np:p	np		p	260	
+jinghpaw	dwi	0231	=hkra	=until	=rn	=rn				
+jinghpaw	dwi	0231	lu	get	v:pred	v		pred		
+jinghpaw	dwi	0231	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	dwi	0231	#	#	##	##				
+jinghpaw	dwi	0231	0	0	0.h:s_ds	0	h	s_ds	244	
+jinghpaw	dwi	0231	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0231	yang	when	other	other				
+jinghpaw	dwi	0231	=she	=then	=other	=other				
+jinghpaw	dwi	0232	#	#	##	##				
+jinghpaw	dwi	0232	0	0	0.h:p	0	h	p	202	
+jinghpaw	dwi	0232	rai	COP	other	other				
+jinghpaw	dwi	0232	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0232	=she	=then	=other	=other				
+jinghpaw	dwi	0232	shi	3SG	nc_pro.h	nc_pro	h		202	
+jinghpaw	dwi	0232	=gaw	=TOP	nc	nc				
+jinghpaw	dwi	0232	dai	that	nc	nc				
+jinghpaw	dwi	0232	=hpe	=ACC	nc	nc				
+jinghpaw	dwi	0232	=she	=then	nc	nc				
+jinghpaw	dwi	0232	shanhte	3PL	pro.h:dt_a	pro	h	dt_a	244	
+jinghpaw	dwi	0232	hkawhkam-wang	king-circle	np.h:a	np	h	a	244	
+jinghpaw	dwi	0232	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0232	=na	=GEN	=rn	=rn				
+jinghpaw	dwi	0232	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0232	nan	EMPH	other	other				
+jinghpaw	dwi	0232	ndai	this	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0232	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0232	wa	return	lv	lv				
+jinghpaw	dwi	0232	sa	send	v:pred	v		pred		
+jinghpaw	dwi	0232	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0232	=she	=then	=other	=other				
+jinghpaw	dwi	0233	#	#	##	##				
+jinghpaw	dwi	0233	0	0	0.h:s	0	h	s	263	bridging
+jinghpaw	dwi	0233	kei	INTJ	other	other				
+jinghpaw	dwi	0233	ndai	well	other	other				
+jinghpaw	dwi	0233	shupsheng	cymbal	np:obl	np		obl		
+jinghpaw	dwi	0233	=hte	=COM	=rn	=rn				
+jinghpaw	dwi	0233	bau	drum	np:obl	np		obl		
+jinghpaw	dwi	0233	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0233	=hte	=COM	=rn	=rn				
+jinghpaw	dwi	0233	shangoi	make.a.noise	v:pred	v		pred		
+jinghpaw	dwi	0233	=na	=SEQ	=rv	=rv				
+jinghpaw	dwi	0233	#	#	##	##				
+jinghpaw	dwi	0233	0	0	0.h:s	0	h	s	263	
+jinghpaw	dwi	0233	lam	road	np:other	np		other	250	
+jinghpaw	dwi	0233	dingdung	straight	other	other				
+jinghpaw	dwi	0233	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0233	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0233	tsi	stand.in.line	v:pred	v		pred		
+jinghpaw	dwi	0233	di	LV	other	other				
+jinghpaw	dwi	0233	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0233	=she	=then	=other	=other				
+jinghpaw	dwi	0233	#	#	##	##				
+jinghpaw	dwi	0233	0	0	0.h:s	0	h	s	263	
+jinghpaw	dwi	0233	wa	return	v:pred	v		pred		
+jinghpaw	dwi	0233	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0233	=da	=HS	=other	=other				
+jinghpaw	dwi	0234	#	#	##	##				
+jinghpaw	dwi	0234	0	0	0.h:s	0	h	s	263	
+jinghpaw	dwi	0234	rai	COP	other	other				
+jinghpaw	dwi	0234	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0234	=she	=then	=other	=other				
+jinghpaw	dwi	0234	aw	over.there	ln_dem	ln_dem				
+jinghpaw	dwi	0234	mare	village	np:g	np		g	201	
+jinghpaw	dwi	0234	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0234	du	arrive	v:pred	v		pred		
+jinghpaw	dwi	0234	=she	=then	=other	=other				
+jinghpaw	dwi	0234	#	#	##	##				
+jinghpaw	dwi	0234	dai	that	ln_dem	ln_dem				
+jinghpaw	dwi	0234	shani	day	np:other	np		other		
+jinghpaw	dwi	0234	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0234	shi	3SG	ln_pro.h:poss	ln_pro	h	poss	202	
+jinghpaw	dwi	0234	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0234	a-dwi	KIN-grandmother	np.h:s	np	h	s	203	
+jinghpaw	dwi	0234	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0234	shanhte	3PL	ln_pro.h:poss	ln_pro	h	poss		
+jinghpaw	dwi	0234	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0234	dinggai	old.woman	np.h:obl	np	h	obl	264	bridging
+jinghpaw	dwi	0234	nkau	some	rn_qfr	rn_qfr				
+jinghpaw	dwi	0234	mi	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0234	=hte	=COM	=rn	=rn				
+jinghpaw	dwi	0234	=ma	=also	=other	=other				
+jinghpaw	dwi	0234	arau	together	other	other				
+jinghpaw	dwi	0234	nga	be	v:pred	v		pred		
+jinghpaw	dwi	0234	=hkrup	=happen.to	=aux	=aux				
+jinghpaw	dwi	0234	=taw	=CONT	=aux	=aux				
+jinghpaw	dwi	0234	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0234	=da	=HS	=other	=other				
+jinghpaw	dwi	0235	#	#	##	##				
+jinghpaw	dwi	0235	shaloi	then	other	other				
+jinghpaw	dwi	0235	=she	=then	=other	=other				
+jinghpaw	dwi	0235	mare	village	ln_np	ln_np			201	
+jinghpaw	dwi	0235	shingnawm	outside	np:l	np		l		
+jinghpaw	dwi	0235	=de	=ALL	=rn	=rn				
+jinghpaw	dwi	0235	=she	=then	=other	=other				
+jinghpaw	dwi	0235	bung-bung	ONOM-RED	other	other				
+jinghpaw	dwi	0235	dai	that	dem_pro:s	dem_pro		s	263	
+jinghpaw	dwi	0235	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0235	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0235	ngoi	be.noisy	nc	nc				
+jinghpaw	dwi	0235	grai	very	other	other				
+jinghpaw	dwi	0235	ngoi	be.noisy	v:pred	v		pred		
+jinghpaw	dwi	0235	=i	=SFP	=other	=other				
+jinghpaw	dwi	0235	dan	thus	other	other				
+jinghpaw	dwi	0235	nga	be	other	other				
+jinghpaw	dwi	0235	=she	=then	=other	=other				
+jinghpaw	dwi	0236	#	#	##	##				
+jinghpaw	dwi	0236	htora	that	ln_dem	ln_dem				
+jinghpaw	dwi	0236	dinggai	old.woman	np.h:s_ds	np	h	s_ds	203	
+jinghpaw	dwi	0236	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0236	=i	=SFP	=other	=other				
+jinghpaw	dwi	0236	#	#	##ds	##ds				
+jinghpaw	dwi	0236	0	0	0.h:s	0	h	s	202	
+jinghpaw	dwi	0236	nye	1SG.GEN	ln_pro.1:poss	ln_pro	1	poss	203	
+jinghpaw	dwi	0236	kashu-wa	grandson-man	np.h:pred	np	h	pred	202	
+jinghpaw	dwi	0236	re	COP	cop	cop				
+jinghpaw	dwi	0236	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	dwi	0236	%	%	%	%				
+jinghpaw	dwi	0236	nga	QUOT	other	other				
+jinghpaw	dwi	0236	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0236	=dat	=away	=other	=other				
+jinghpaw	dwi	0236	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0237	#	#	##	##				
+jinghpaw	dwi	0237	0	0	0.h:p	0	h	p	203	
+jinghpaw	dwi	0237	ora	that	dem_pro.h:a	dem_pro	h	a	264	
+jinghpaw	dwi	0237	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0237	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0237	mani	laugh	v:pred	v		pred		
+jinghpaw	dwi	0237	=da	=RES	=aux	=aux				
+jinghpaw	dwi	0237	=ya	=BEN	=aux	=aux				
+jinghpaw	dwi	0237	=ai	=DECL	=rn	=rn				
+jinghpaw	dwi	0237	=da	=HS	=other	=other				
+jinghpaw	dwi	0238	#	#	##ds	##ds				
+jinghpaw	dwi	0238	na	2SG.GEN	nc_pro.2	nc_pro	2		203	
+jinghpaw	dwi	0238	=na	=GEN	nc	nc				
+jinghpaw	dwi	0238	na	2SG.GEN	ln_pro.2:poss	ln_pro	2	poss	203	
+jinghpaw	dwi	0238	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0238	kashu-man	grandson-man	np.h:s	np	h	s	202	
+jinghpaw	dwi	0238	ganing	how	other	other				
+jinghpaw	dwi	0238	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0238	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0238	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0238	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0238	di	do	v:pred	v		pred		
+jinghpaw	dwi	0238	=na	=IRR	=aux	=aux				
+jinghpaw	dwi	0238	=ma	=Q	=other	=other				
+jinghpaw	dwi	0238	#	#	##	##				
+jinghpaw	dwi	0238	0	0	0.h:s_ds	0	h	s_ds	264	
+jinghpaw	dwi	0238	nga	QUOT	other	other				
+jinghpaw	dwi	0238	tsun	say	v:pred	v		pred		
+jinghpaw	dwi	0238	yang	when	other	other				
+jinghpaw	dwi	0239	#	#	##ds	##ds				
+jinghpaw	dwi	0239	re	COP	other	other				
+jinghpaw	dwi	0239	=ai	=DECL	=other	=other				
+jinghpaw	dwi	0239	dai	that	dem_pro.h:s	dem_pro	h	s	202	
+jinghpaw	dwi	0239	nye	1SG.GEN	ln_pro.1:poss	ln_pro	1	poss	203	
+jinghpaw	dwi	0239	kashu	grandson	np.h:pred	np	h	pred	202	
+jinghpaw	dwi	0239	re	COP	cop	cop				
+jinghpaw	dwi	0239	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0239	#	#	##	##				
+jinghpaw	dwi	0239	0	0	0.h:s_ds	0	h	s_ds	203	
+jinghpaw	dwi	0239	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0239	=she	=then	=other	=other				
+jinghpaw	dwi	0240	#	#	#nc	#nc				
+jinghpaw	dwi	0240	shanhte	3PL	nc_pro.h	nc_pro	h		264	
+jinghpaw	dwi	0240	=ni	=PL	nc	nc				
+jinghpaw	dwi	0240	=gaw	=TOP	nc	nc				
+jinghpaw	dwi	0240	nang	2SG	nc_pro.2	nc_pro	2		203	
+jinghpaw	dwi	0240	=gaw	=TOP	nc	nc				
+jinghpaw	dwi	0241	grai	very	nc	nc				
+jinghpaw	dwi	0241	ora	that	nc	nc				
+jinghpaw	dwi	0241	hpan	kind	nc	nc				
+jinghpaw	dwi	0241	re	COP	nc	nc				
+jinghpaw	dwi	0241	=she	=then	nc	nc				
+jinghpaw	dwi	0241	rai	COP	nc	nc				
+jinghpaw	dwi	0241	=nga	=CONT	nc	nc				
+jinghpaw	dwi	0241	=she	=then	nc	nc				
+jinghpaw	dwi	0242	#	#	##ds	##ds				
+jinghpaw	dwi	0242	0	0	0.h:s	0	h	s	202	
+jinghpaw	dwi	0242	ngai	1SG	nc_pro.1	nc_pro	1		203	
+jinghpaw	dwi	0242	=na	=GEN	nc	nc				
+jinghpaw	dwi	0242	ngai	1SG	ln_pro.1:poss	ln_pro	1	poss	203	
+jinghpaw	dwi	0242	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0242	kashu	grandson	np.h:pred	np	h	pred	202	
+jinghpaw	dwi	0242	re	COP	cop	cop				
+jinghpaw	dwi	0242	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0243	#	#	##ds	##ds				
+jinghpaw	dwi	0243	kaja	really	np:pred	np		pred		
+jinghpaw	dwi	0243	nan	EMPH	other	other				
+jinghpaw	dwi	0243	re	COP	cop	cop				
+jinghpaw	dwi	0243	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0243	#	#	##	##				
+jinghpaw	dwi	0243	0	0	0.h:s_ds	0	h	s_ds	203	
+jinghpaw	dwi	0243	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0243	yang	when	other	other				
+jinghpaw	dwi	0244	#	#	##ds.neg	##ds.neg				
+jinghpaw	dwi	0244	n-mai	NEG-can	lv	lv				
+jinghpaw	dwi	0244	byin	happen	v:pred	v		pred		
+jinghpaw	dwi	0244	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0245	#	#	#nc	#nc				
+jinghpaw	dwi	0245	na	2SG.GEN	nc_pro.2	nc_pro	2		203	
+jinghpaw	dwi	0245	kashu	grandson	nc_np.h	nc_np	h		202	
+jinghpaw	dwi	0245	=she	=then	nc	nc				
+jinghpaw	dwi	0245	re	COP	nc	nc				
+jinghpaw	dwi	0245	sa	go	nc	nc				
+jinghpaw	dwi	0245	yang	when	nc	nc				
+jinghpaw	dwi	0245	=gaw	=TOP	nc	nc				
+jinghpaw	dwi	0246	#	#	##	##				
+jinghpaw	dwi	0246	langai	one	np.h:s_ds	np	h	s_ds	265	bridging
+jinghpaw	dwi	0246	mi	one	rn_qfr	rn_qfr				
+jinghpaw	dwi	0246	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0246	ga	word	np:other	np		other		
+jinghpaw	dwi	0246	tat	speak	v:pred	v		pred		
+jinghpaw	dwi	0246	=dat	=away	=aux	=aux				
+jinghpaw	dwi	0246	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0246	=i	=SFP	=other	=other				
+jinghpaw	dwi	0247	#	#	##ds	##ds				
+jinghpaw	dwi	0247	#	#	#ds_ac	#ds_ac				
+jinghpaw	dwi	0247	0	0	0.h:s	0	h	s	202	
+jinghpaw	dwi	0247	na	2SG.GEN	ln_pro.2:poss	ln_pro	2	poss	203	
+jinghpaw	dwi	0247	kashu	grandson	np.h:pred	np	h	pred	202	
+jinghpaw	dwi	0247	=she	=then	=other	=other				
+jinghpaw	dwi	0247	re	COP	cop	cop				
+jinghpaw	dwi	0247	sa-yang	CSM-when	other	other				
+jinghpaw	dwi	0247	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0247	%	%	%	%				
+jinghpaw	dwi	0248	anhte	1PL	pro.1:s	pro	1	s	209	
+jinghpaw	dwi	0248	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0248	mare	village	np.h:appos	np	h	appos	209	
+jinghpaw	dwi	0248	ting	whole	rn_qfr	rn_qfr				
+jinghpaw	dwi	0248	nan	2DU	ln_pro.2	ln_pro	2			
+jinghpaw	dwi	0248	dwi	grandmother	ln_np.h:poss	ln_np	h	poss	204	
+jinghpaw	dwi	0248	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0248	mayam	servant	nc	nc				
+jinghpaw	dwi	0248	mayam	servant	nc	nc				
+jinghpaw	dwi	0248	mayam	servant	np.h:other	np	h	other		
+jinghpaw	dwi	0248	sha	only	other	other				
+jinghpaw	dwi	0248	tai	become	v:pred	v		pred		
+jinghpaw	dwi	0248	=sa-na	=CSM-IRR	=aux	=aux				
+jinghpaw	dwi	0249	#	#	##ds	##ds				
+jinghpaw	dwi	0249	0	0	0.h:s	0	h	s	202	
+jinghpaw	dwi	0249	na	2SG.GEN	ln_pro.2:poss	ln_pro	2	poss	203	
+jinghpaw	dwi	0249	kashu	grandson	np.h:pred	np	h	pred	202	
+jinghpaw	dwi	0249	=she	=then	=other	=other				
+jinghpaw	dwi	0249	rai	COP	cop	cop				
+jinghpaw	dwi	0249	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	dwi	0249	=gaw	=SFP	=other	=other				
+jinghpaw	dwi	0249	#	#	##	##				
+jinghpaw	dwi	0249	0	0	0.h:s_ds	0	h	s_ds	265	
+jinghpaw	dwi	0249	nga	QUOT	other	other				
+jinghpaw	dwi	0249	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0249	ga	language	np:other	np		other		
+jinghpaw	dwi	0249	shalai	imitate	v:pred	v		pred		
+jinghpaw	dwi	0249	=dat	=away	=aux	=aux				
+jinghpaw	dwi	0249	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0250	#	#	##	##				
+jinghpaw	dwi	0250	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0250	=she	=then	=other	=other				
+jinghpaw	dwi	0250	dai	well	nc	nc				
+jinghpaw	dwi	0251	dai	well	other	other				
+jinghpaw	dwi	0251	kade	how.long	other	other				
+jinghpaw	dwi	0251	n-na	NEG-spend	other	other				
+jinghpaw	dwi	0251	yang	when	other	other				
+jinghpaw	dwi	0251	#	#	##	##				
+jinghpaw	dwi	0251	shi	3SG	ln_pro.h:poss	ln_pro	h	poss	203	
+jinghpaw	dwi	0251	=na	=GEN	=ln	=ln				
+jinghpaw	dwi	0251	kashu	grandson	np.h:s	np	h	s	202	
+jinghpaw	dwi	0251	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0251	=i	=SFP	=other	=other				
+jinghpaw	dwi	0252	ja	gold	np:other	np		other		
+jinghpaw	dwi	0252	=hte	=COM	=rn	=rn				
+jinghpaw	dwi	0252	hpa	what	other	other				
+jinghpaw	dwi	0252	=hte	=COM	=other	=other				
+jinghpaw	dwi	0252	rai	COP	other	other				
+jinghpaw	dwi	0252	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0252	bai	again	other	other				
+jinghpaw	dwi	0252	wa	return	v:pred	v		pred		
+jinghpaw	dwi	0252	=she	=then	=other	=other				
+jinghpaw	dwi	0253	#	#	##	##				
+jinghpaw	dwi	0253	shan	3DU	ln_pro	ln_pro				
+jinghpaw	dwi	0253	dwi	grandmother	np.h:s	np	h	s	204	
+jinghpaw	dwi	0253	=mung	=also	=other	=other				
+jinghpaw	dwi	0253	grai	very	other	other				
+jinghpaw	dwi	0253	pyaw	be.happy	other	other				
+jinghpaw	dwi	0253	=hkra	=until	=other	=other				
+jinghpaw	dwi	0253	bai	again	other	other				
+jinghpaw	dwi	0253	nga	live	v:pred	v		pred		
+jinghpaw	dwi	0253	=mat	=COMPL	=aux	=aux				
+jinghpaw	dwi	0253	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0254	#	#	##	##				
+jinghpaw	dwi	0254	rai	COP	other	other				
+jinghpaw	dwi	0254	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0254	mare	village	np.h:s_ds	np	h	s_ds	209	
+jinghpaw	dwi	0254	=ni	=PL	=rn	=rn				
+jinghpaw	dwi	0254	=mung	=also	=other	=other				
+jinghpaw	dwi	0254	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0254	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0254	=i	=SFP	=other	=other				
+jinghpaw	dwi	0254	#	#	##ds	##ds				
+jinghpaw	dwi	0254	shan	3DU	ln_pro.h	ln_pro	h			
+jinghpaw	dwi	0254	dwi	grandmother	np.h:s	np	h	s	204	
+jinghpaw	dwi	0254	=a	=GEN	=rn	=rn				
+jinghpaw	dwi	0254	grai	very	other	other				
+jinghpaw	dwi	0254	lu	get	v:pred	v		pred		
+jinghpaw	dwi	0254	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	dwi	0254	%	%	%	%				
+jinghpaw	dwi	0254	nga	say	v:pred	v		pred		
+jinghpaw	dwi	0254	yang	when	other	other				
+jinghpaw	dwi	0254	=gaw	=TOP	=other	=other				
+jinghpaw	dwi	0255	#	#	##	##				
+jinghpaw	dwi	0255	0	0	0.h:s	0	h	s	209	
+jinghpaw	dwi	0255	shan	3DU	ln_pro	ln_pro				
+jinghpaw	dwi	0255	dwi	grandmother	np.h:g	np	h	g	204	
+jinghpaw	dwi	0255	=kaw	=LOC	=rn	=rn				
+jinghpaw	dwi	0255	sa	go	lv	lv				
+jinghpaw	dwi	0255	machyu	cling.to	v:pred	v		pred		
+jinghpaw	dwi	0255	=na	=SEQ	=other	=other				
+jinghpaw	dwi	0256	#	#	##	##				
+jinghpaw	dwi	0256	0	0	0.h:s	0	h	s	209	
+jinghpaw	dwi	0256	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	dwi	0256	=hku	=like	=rn	=rn				
+jinghpaw	dwi	0256	=sha	=only	=other	=other				
+jinghpaw	dwi	0256	galaw	do	lv	lv				
+jinghpaw	dwi	0256	sha	eat	v:pred	v		pred		
+jinghpaw	dwi	0256	=mat	=COMPL	=aux	=aux				
+jinghpaw	dwi	0256	=ai	=DECL	=rv	=rv				
+jinghpaw	dwi	0256	=da	=HS	=other	=other				

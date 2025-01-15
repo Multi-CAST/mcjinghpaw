@@ -1,0 +1,439 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+jinghpaw	manau	0001	#	#	#nc	#nc				
+jinghpaw	manau	0001	u-hka	bird-crow	nc	nc				
+jinghpaw	manau	0001	chyang	be.black	nc	nc				
+jinghpaw	manau	0001	=ai	=DECL.NMLZ	nc	nc				
+jinghpaw	manau	0001	lam	reason	nc	nc				
+jinghpaw	manau	0002	u-hka	bird-crow	nc	nc				
+jinghpaw	manau	0002	=a	=GEN	nc	nc				
+jinghpaw	manau	0002	ntsam	color	nc	nc				
+jinghpaw	manau	0002	chyang	be.black	nc	nc				
+jinghpaw	manau	0002	=ai	=DECL.NMLZ	nc	nc				
+jinghpaw	manau	0002	lam	reason	nc	nc				
+jinghpaw	manau	0003	#	#	##	##				
+jinghpaw	manau	0003	e	well	other	other				
+jinghpaw	manau	0003	moi	long.ago	np:other	np		other		
+jinghpaw	manau	0003	=de	=LOC	=rn	=rn				
+jinghpaw	manau	0003	=da	=HS	=other	=other				
+jinghpaw	manau	0004	#	#	#ac	#ac				
+jinghpaw	manau	0004	u	bird	np.d:s	np	d	s	701	new
+jinghpaw	manau	0004	=ni	=PL	=rn	=rn				
+jinghpaw	manau	0004	manau	Manau.dance	np:other	np		other	702	new
+jinghpaw	manau	0004	nau	dance	v:pred	v		pred		
+jinghpaw	manau	0004	=na	=IRR.NMLZ	=rv	=rv				
+jinghpaw	manau	0004	rai	COP	other	other				
+jinghpaw	manau	0004	yang	when	other	other				
+jinghpaw	manau	0004	%	%	%	%				
+jinghpaw	manau	0005	#	#	#ac	#ac				
+jinghpaw	manau	0005	0	0	0.d:s	0	d	s	701	
+jinghpaw	manau	0005	wora	that	ln_dem	ln_dem				
+jinghpaw	manau	0005	manau-poi	Manau-festival	np:g	np		g	703	bridging
+jinghpaw	manau	0005	=de	=ALL	=rn	=rn				
+jinghpaw	manau	0005	sa	go	v:pred	v		pred		
+jinghpaw	manau	0005	=na	=IRR.NMLZ	=rv	=rv				
+jinghpaw	manau	0005	matu	in.order	other	other				
+jinghpaw	manau	0005	%	%	%	%				
+jinghpaw	manau	0006	u	bird	np.d:s	np	d	s	701	
+jinghpaw	manau	0006	=ni	=PL	=rn	=rn				
+jinghpaw	manau	0006	shada	each.other	other	other				
+jinghpaw	manau	0006	shakya	dress.up	v:pred	v		pred		
+jinghpaw	manau	0007	#	#	##	##				
+jinghpaw	manau	0007	0	0	0.d:s	0	d	s	701	
+jinghpaw	manau	0007	e	well	other	other				
+jinghpaw	manau	0007	shakya	dress.up	v:pred	v		pred		
+jinghpaw	manau	0007	yang	when	other	other				
+jinghpaw	manau	0008	#	#	##	##				
+jinghpaw	manau	0008	e	well	other	other				
+jinghpaw	manau	0008	#	#	#ac	#ac				
+jinghpaw	manau	0008	hkamhkam-u	Hkamhkam-bird	np.d:s_ds	np	d	s_ds	704	new
+jinghpaw	manau	0008	=gaw	=TOP	=other	=other				
+jinghpaw	manau	0009	#	#	##ds.neg	##ds.neg				
+jinghpaw	manau	0009	ngai	1SG	pro.1:a	pro	1	a	704	
+jinghpaw	manau	0009	=gaw	=TOP	=other	=other				
+jinghpaw	manau	0009	#	#	#ds_ac	#ds_ac				
+jinghpaw	manau	0009	0	0	0.1:s	0	1	s	704	
+jinghpaw	manau	0009	poi	festival	np:g	np		g	703	
+jinghpaw	manau	0009	sa	go	v:pred	v		pred		
+jinghpaw	manau	0009	=na	=IRR.NMLZ	=rv	=rv				
+jinghpaw	manau	0009	matu	in.order	other	other				
+jinghpaw	manau	0009	%	%	%	%				
+jinghpaw	manau	0009	bu-hpun-palawng	wear-wear-clothes	np:p	np		p		
+jinghpaw	manau	0009	n-lu	NEG-get	v:pred	v		pred		
+jinghpaw	manau	0009	=ai	=DECL	=rv	=rv				
+jinghpaw	manau	0010	#	#	##ds.neg	##ds.neg				
+jinghpaw	manau	0010	e	well	other	other				
+jinghpaw	manau	0010	nye	1SG.GEN	ln_pro.1:poss	ln_pro	1	poss	704	
+jinghpaw	manau	0010	=a	=GEN	=ln	=ln				
+jinghpaw	manau	0010	mun	hair	np:s	np		s	705	bridging
+jinghpaw	manau	0010	=gaw	=TOP`	=other	=other				
+jinghpaw	manau	0010	n-tsawm	NEG-be.beautiful	v:pred	v		pred		
+jinghpaw	manau	0010	=ai	=DECL	=rv	=rv				
+jinghpaw	manau	0011	#	#	##ds.neg	##ds.neg				
+jinghpaw	manau	0011	0	0	0.1:a	0	1	a	704	
+jinghpaw	manau	0011	shakya	dress.up	np:p	np		p		
+jinghpaw	manau	0011	=mung	=also	=other	=other				
+jinghpaw	manau	0011	n-ngut	NEG-finish	v:pred	v		pred		
+jinghpaw	manau	0011	=ai	=DECL	=rv	=rv				
+jinghpaw	manau	0012	#	#	##ds.neg	##ds.neg				
+jinghpaw	manau	0012	dai	that	ln_dem	ln_dem				
+jinghpaw	manau	0012	majaw	because	np:other	np		other		
+jinghpaw	manau	0012	ngai	1SG	pro.1:s	pro	1	s	704	
+jinghpaw	manau	0012	=gaw	=TOP	=other	=other				
+jinghpaw	manau	0012	n-sa	NEG-go	v:pred	v		pred		
+jinghpaw	manau	0012	=na	=IRR	=rv	=rv				
+jinghpaw	manau	0012	#	#	##	##				
+jinghpaw	manau	0012	#	#	#ac	#ac				
+jinghpaw	manau	0012	0	0	0.h:s	0	h	s	704	
+jinghpaw	manau	0012	nga	say	v:pred	v		pred		
+jinghpaw	manau	0012	=ai	=DECL	=rv	=rv				
+jinghpaw	manau	0012	majaw	because	other	other				
+jinghpaw	manau	0012	%	%	%	%				
+jinghpaw	manau	0013	0	0	0.d:a_ds	0	d	a_ds	706	
+jinghpaw	manau	0013	shi	3SG	pro.d:p	pro	d	p	704	
+jinghpaw	manau	0013	=hpe	=ACC	=rn	=rn				
+jinghpaw	manau	0013	=gaw	=TOP	=other	=other				
+jinghpaw	manau	0014	#	#	##ds	##ds				
+jinghpaw	manau	0014	0	0	0.1:s	0	1	s	701	
+jinghpaw	manau	0014	oi	INTJ	other	other				
+jinghpaw	manau	0014	sa	go	v:pred	v		pred		
+jinghpaw	manau	0014	=ga	=HORT	=rv	=rv				
+jinghpaw	manau	0014	%	%	%	%				
+jinghpaw	manau	0014	ngu	say	v:pred	v		pred		
+jinghpaw	manau	0014	=ai	=DECL	=rv	=rv				
+jinghpaw	manau	0015	#	#	##ds	##ds				
+jinghpaw	manau	0015	0	0	0.1:s	0	1	s	701	
+jinghpaw	manau	0015	sa	go	v:pred	v		pred		
+jinghpaw	manau	0015	=ga	=HORT	=rv	=rv				
+jinghpaw	manau	0015	#	#	##	##				
+jinghpaw	manau	0015	0	0	0.d:s_ds	0	d	s_ds	706	
+jinghpaw	manau	0015	ngu	say	v:pred	v		pred		
+jinghpaw	manau	0015	yang	when	other	other				
+jinghpaw	manau	0015	=she	=only	=other	=other				
+jinghpaw	manau	0016	#	#	##ds	##ds				
+jinghpaw	manau	0016	0	0	0.2:a	0	2	a	706	
+jinghpaw	manau	0016	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	manau	0016	rai	COP	other	other				
+jinghpaw	manau	0016	yang	when	other	other				
+jinghpaw	manau	0016	=gaw	=TOP	=other	=other				
+jinghpaw	manau	0016	ngai	1SG	pro.1:p	pro	1	p	704	
+jinghpaw	manau	0016	=hpe	=ACC	=rn	=rn				
+jinghpaw	manau	0016	bu-hpun-palawng	wear-wear-clothes	np:p2	np		p2		
+jinghpaw	manau	0016	shap	lend	v:pred	v		pred		
+jinghpaw	manau	0016	=ya	=BEN	=aux	=aux				
+jinghpaw	manau	0016	=mi	=IMP	=rv	=rv				
+jinghpaw	manau	0016	#	#	##	##				
+jinghpaw	manau	0016	0	0	0.d:s_ds	0	d	s_ds	704	
+jinghpaw	manau	0016	ngu	say	v:pred	v		pred		
+jinghpaw	manau	0016	yang	when	other	other				
+jinghpaw	manau	0017	#	#	##ds	##ds				
+jinghpaw	manau	0017	0	0	0.1:a	0	1	a	706	
+jinghpaw	manau	0017	0	0	0.2:p	0	2	p		
+jinghpaw	manau	0017	0	0	0:p2	0		p2		
+jinghpaw	manau	0017	ke	INTJ	other	other				
+jinghpaw	manau	0017	shap	lend	v:pred	v		pred		
+jinghpaw	manau	0017	=ya	=BEN	=aux	=aux				
+jinghpaw	manau	0017	=na	=IRR	=rv	=rv				
+jinghpaw	manau	0017	#	#	##	##				
+jinghpaw	manau	0017	0	0	0.d:s_ds	0	d	s_ds	706	
+jinghpaw	manau	0017	ngu	say	v:pred	v		pred		
+jinghpaw	manau	0017	=nna	=SEQ	=other	=other				
+jinghpaw	manau	0017	=she	=only	=other	=other				
+jinghpaw	manau	0018	#	#	##	##				
+jinghpaw	manau	0018	u	bird	np.d:a	np	d	a	706	bridging
+jinghpaw	manau	0018	0	0	0:p2	0		p2		
+jinghpaw	manau	0018	=ni	=PL	=rn	=rn				
+jinghpaw	manau	0018	=gaw	=TOP	=other	=other				
+jinghpaw	manau	0018	shi	3SG	pro.d:p	pro	d	p	704	
+jinghpaw	manau	0018	=hpe	=ACC	=rn	=rn				
+jinghpaw	manau	0018	e	well	other	other				
+jinghpaw	manau	0018	#	#	#rc	#rc				
+jinghpaw	manau	0018	0	0	rel_f0:p	rel_f0		p	707	
+jinghpaw	manau	0018	tinag	oneself	np.d:a	np	d	a	706	
+jinghpaw	manau	0018	lu	get	v:pred	v		pred		
+jinghpaw	manau	0018	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	manau	0018	%	%	%	%				
+jinghpaw	manau	0018	mun	hair	np:obl	np		obl	707	bridging
+jinghpaw	manau	0018	=kaw	=LOC	=rn	=rn				
+jinghpaw	manau	0018	=na	=ABL	=rn	=rn				
+jinghpaw	manau	0018	shi	3SG.GEN	ln_pro.d:poss	ln_pro	d	poss	704	
+jinghpaw	manau	0018	=a	=GEN	=ln	=ln				
+jinghpaw	manau	0018	mun	hair	np:appos	np		appos	705	
+jinghpaw	manau	0018	=kaw	=LOC	=rn	=rn				
+jinghpaw	manau	0018	shi	3SG.GEN	ln_pro.d:poss	ln_pro	d	poss	704	
+jinghpaw	manau	0018	=a	=GEN	=ln	=ln				
+jinghpaw	manau	0018	hkum	body	np:l	np		l	708	bridging
+jinghpaw	manau	0018	=kaw	=LOC	=rn	=rn				
+jinghpaw	manau	0018	jun	place	v:pred	v		pred		
+jinghpaw	manau	0018	=ya	=BEN	=aux	=aux				
+jinghpaw	manau	0018	=ai	=DECL	=rv	=rv				
+jinghpaw	manau	0018	=da	=HS	=other	=other				
+jinghpaw	manau	0019	#	#	##	##				
+jinghpaw	manau	0019	0	0	0.d:a	0	d	a	706	
+jinghpaw	manau	0019	0	0	0.d:p	0	d	p	704	
+jinghpaw	manau	0019	u-mun	bird-hair	np:p2	np		p2	707	
+jinghpaw	manau	0019	jun-jun	place-RED	v:pred	v		pred		
+jinghpaw	manau	0019	rai	COP	other	other				
+jinghpaw	manau	0019	=nna	=SEQ	=other	=other				
+jinghpaw	manau	0020	#	#	##	##				
+jinghpaw	manau	0020	grai	very	other	other				
+jinghpaw	manau	0020	tsawm	be.beautiful	v:pred	v		pred		
+jinghpaw	manau	0020	=wa	=VEN	=aux	=aux				
+jinghpaw	manau	0020	=ai	=DECL	=rv	=rv				
+jinghpaw	manau	0020	=da	=HS	=other	=other				
+jinghpaw	manau	0020	shi	3SG	pro.d:s	pro	d	s	704	
+jinghpaw	manau	0020	=wa	=TOP	=other	=other				
+jinghpaw	manau	0021	#	#	##	##				
+jinghpaw	manau	0021	0	0	0.d:s	0	d	s	704	
+jinghpaw	manau	0021	grai	very	other	other				
+jinghpaw	manau	0021	tsawm	be.beautiful	v:pred	v		pred		
+jinghpaw	manau	0021	=wa	=VEN	=aux	=aux				
+jinghpaw	manau	0021	=nna	=SEQ	=other	=other				
+jinghpaw	manau	0022	#	#	##	##				
+jinghpaw	manau	0022	0	0	0.d:s	0	d	s	704	
+jinghpaw	manau	0022	manau-poi	Manau-festival	np:g	np		g	703	
+jinghpaw	manau	0022	du	arrive	v:pred	v		pred		
+jinghpaw	manau	0022	rai	COP	other	other				
+jinghpaw	manau	0022	yang	when	other	other				
+jinghpaw	manau	0022	=gaw	=TOP	=other	=other				
+jinghpaw	manau	0023	#	#	##	##				
+jinghpaw	manau	0023	manau-poi	Manau-festival	np:l	np		l	703	
+jinghpaw	manau	0023	=kaw	=LOC	=rn	=rn				
+jinghpaw	manau	0023	#	#	##ds	##ds				
+jinghpaw	manau	0023	ngai	1SG	pro.1:s	pro	1	s	704	
+jinghpaw	manau	0023	=gaw	=TOP	=other	=other				
+jinghpaw	manau	0023	tsawm	be.beautiful	v:pred	v		pred		
+jinghpaw	manau	0023	=dik	=SUPER	=aux	=aux				
+jinghpaw	manau	0023	re	COP	other	other				
+jinghpaw	manau	0024	#	#	##ds	##ds				
+jinghpaw	manau	0024	ngai	1SG	pro.1:s	pro	1	s	704	
+jinghpaw	manau	0024	=gaw	=TOP	=other	=other				
+jinghpaw	manau	0024	u	bird	np.d:obl	np	d	obl	701	
+jinghpaw	manau	0024	=ni	=PL	=rn	=rn				
+jinghpaw	manau	0024	yawng	all	rn_qfr	rn_qfr				
+jinghpaw	manau	0024	=hta	=LOC	=rn	=rn				
+jinghpaw	manau	0024	tsawm	be.beautiful	v:pred	v		pred		
+jinghpaw	manau	0024	=dik	=SUPER	=aux	=aux				
+jinghpaw	manau	0024	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	manau	0024	re	COP	other	other				
+jinghpaw	manau	0024	%	%	%	%				
+jinghpaw	manau	0024	0	0	0.d:s_ds	0	d	s_ds	704	
+jinghpaw	manau	0024	nga	say	v:pred	v		pred		
+jinghpaw	manau	0024	=na	=SEQ	=other	=other				
+jinghpaw	manau	0025	#	#	##	##				
+jinghpaw	manau	0025	0	0	0.d:s	0	d	s	704	
+jinghpaw	manau	0025	shakawn	praise	lv	lv				
+jinghpaw	manau	0025	=chyu	=only	=other	=other				
+jinghpaw	manau	0025	shakawn	praise	v:pred	v		pred		
+jinghpaw	manau	0026	#	#	##neg	##neg				
+jinghpaw	manau	0026	#	#	#rc	#rc				
+jinghpaw	manau	0026	0	0	rel_f0.d:a	rel_f0	d	a	706	
+jinghpaw	manau	0026	myi	before	other	other				
+jinghpaw	manau	0026	shi	3SG	pro.d:p	pro	d	p	704	
+jinghpaw	manau	0026	=hpe	=ACC	=rn	=rn				
+jinghpaw	manau	0026	u-mun	bird-hair	np:p2	np		p2	707	
+jinghpaw	manau	0026	baw	uproot	lv	lv				
+jinghpaw	manau	0026	jaw	give	lv	lv				
+jinghpaw	manau	0026	=nna	=SEQ	=other	=other				
+jinghpaw	manau	0026	shatsawm	dress.up	v:pred	v		pred		
+jinghpaw	manau	0026	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	manau	0026	%	%	%	%				
+jinghpaw	manau	0026	manang	friend	np.d:p	np	d	p	706	
+jinghpaw	manau	0026	=hpe	=ACC	=rn	=rn				
+jinghpaw	manau	0026	=pyi	=even	=other	=other				
+jinghpaw	manau	0026	0	0	0.d:a	0	d	a	704	
+jinghpaw	manau	0026	ga	word	np:other	np		other		
+jinghpaw	manau	0026	n-kam	NEG-be.willing	aux	aux				
+jinghpaw	manau	0026	shaga	speak	v:pred	v		pred		
+jinghpaw	manau	0026	rai	COP	other	other				
+jinghpaw	manau	0026	=nna	=SEQ	=other	=other				
+jinghpaw	manau	0026	#	#	##	##				
+jinghpaw	manau	0026	0	0	0.d:s	0	d	s	704	
+jinghpaw	manau	0026	gumrawng	be.haughty	v:pred	v		pred		
+jinghpaw	manau	0026	=ai	=DECL	=rv	=rv				
+jinghpaw	manau	0026	=da	=HS	=other	=other				
+jinghpaw	manau	0027	#	#	##	##				
+jinghpaw	manau	0027	rai	COP	other	other				
+jinghpaw	manau	0027	yang	when	other	other				
+jinghpaw	manau	0027	=she	=only	=other	=other				
+jinghpaw	manau	0027	e	well	other	other				
+jinghpaw	manau	0028	#	#	#ac	#ac				
+jinghpaw	manau	0028	shi	3SG	nc	nc				
+jinghpaw	manau	0028	shi	3SG	pro.d:a	pro	d	a	704	
+jinghpaw	manau	0028	dai	that	ln_dem	ln_dem				
+jinghpaw	manau	0028	zawn	like	np:other	np		other		
+jinghpaw	manau	0028	gumrawng-gumtawng	be.haughty-be.haughty	np:p	np		p		
+jinghpaw	manau	0028	nau	very	other	other				
+jinghpaw	manau	0028	galaw	do	v:pred	v		pred		
+jinghpaw	manau	0028	=ai	=DECL	=rv	=rv				
+jinghpaw	manau	0028	majaw	because	other	other				
+jinghpaw	manau	0028	%	%	%	%				
+jinghpaw	manau	0029	u	bird	np.d:a_ds	np	d	a_ds	706	
+jinghpaw	manau	0029	=ni	=PL	=rn	=rn				
+jinghpaw	manau	0029	=wa	=TOP	=other	=other				
+jinghpaw	manau	0029	shi	3SG	pro.d:p	pro	d	p	704	
+jinghpaw	manau	0029	=hpe	=ACC	=rn	=rn				
+jinghpaw	manau	0030	#	#	##ds	##ds				
+jinghpaw	manau	0030	0	0	0.1:a	0	1	a	706	
+jinghpaw	manau	0030	anhte	1PL	ln_pro.1:poss	ln_pro	1	poss	706	
+jinghpaw	manau	0030	=a	=GEN	=ln	=ln				
+jinghpaw	manau	0030	mun	hair	np:p	np		p	707	
+jinghpaw	manau	0030	=ni	=PL	=rn	=rn				
+jinghpaw	manau	0030	shabai	return	lv	lv				
+jinghpaw	manau	0030	la	take	v:pred	v		pred		
+jinghpaw	manau	0030	=na	=IRR	=rv	=rv				
+jinghpaw	manau	0030	%	%	%	%				
+jinghpaw	manau	0030	ngu	say	v:pred	v		pred		
+jinghpaw	manau	0030	=nna	=SEQ	=other	=other				
+jinghpaw	manau	0031	#	#	##	##				
+jinghpaw	manau	0031	yawng	all	np:dt_p	np		dt_p	707	
+jinghpaw	manau	0031	u	bird	np.d:a	np	d	a	706	
+jinghpaw	manau	0031	=ni	=PL	=rn	=rn				
+jinghpaw	manau	0031	mun	hair	np:p	np		p	707	
+jinghpaw	manau	0031	baw	uproot	lv	lv				
+jinghpaw	manau	0031	la	take	v:pred	v		pred		
+jinghpaw	manau	0031	=ai	=DECL	=rv	=rv				
+jinghpaw	manau	0031	=da	=HS	=other	=other				
+jinghpaw	manau	0032	#	#	##	##				
+jinghpaw	manau	0032	0	0	0.d:a	0	d	a	706	
+jinghpaw	manau	0032	0	0	0:p	0		p	707	
+jinghpaw	manau	0032	baw	uproot	v:pred	v		pred		
+jinghpaw	manau	0032	la	take	aux	aux				
+jinghpaw	manau	0032	=nna	=SEQ	=other	=other				
+jinghpaw	manau	0033	#	#	##	##				
+jinghpaw	manau	0033	shi	3SG	pro.d:s	pro	d	s	704	
+jinghpaw	manau	0033	=gaw	=TOP	=other	=other				
+jinghpaw	manau	0033	myi	before	np:other	np		other		
+jinghpaw	manau	0033	=na	=GEN	=rn	=rn				
+jinghpaw	manau	0033	raw	like	np:other	np		other		
+jinghpaw	manau	0033	n-tsawm	NEG-be.beautiful	np:appos	np		appos		
+jinghpaw	manau	0033	=ai	=DECL.NMLZ	=rn	=rn				
+jinghpaw	manau	0033	mut-mut	be.gray-RED	np:pred	np		pred		
+jinghpaw	manau	0033	rai	COP	cop	cop				
+jinghpaw	manau	0033	yang	when	other	other				
+jinghpaw	manau	0033	=gaw	=TOP	=other	=other				
+jinghpaw	manau	0034	#	#	##	##				
+jinghpaw	manau	0034	0	0	0.d:s	0	d	s	704	
+jinghpaw	manau	0034	e	well	other	other				
+jinghpaw	manau	0034	gaya	be.ashamed	v:pred	v		pred		
+jinghpaw	manau	0034	=nna	=SEQ	=other	=other				
+jinghpaw	manau	0035	#	#	##	##				
+jinghpaw	manau	0035	0	0	0.d:s	0	d	s	704	
+jinghpaw	manau	0035	hprawng	run.away	lv	lv				
+jinghpaw	manau	0035	makoi	hide	v:pred	v		pred		
+jinghpaw	manau	0035	=ra	=need	=aux	=aux				
+jinghpaw	manau	0035	=mat	=COMPL	=aux	=aux				
+jinghpaw	manau	0035	=ai	=DECL	=rv	=rv				
+jinghpaw	manau	0036	#	#	##neg	##neg				
+jinghpaw	manau	0036	dai	that	ln_dem	ln_dem				
+jinghpaw	manau	0036	shani	day	np:obl	np		obl		
+jinghpaw	manau	0036	=kaw	=LOC	=rn	=rn				
+jinghpaw	manau	0036	=nna	=ABL	=rn	=rn				
+jinghpaw	manau	0036	hkamhkam-u	Hkamhkam-bird	np.d:s	np	d	s	704	
+jinghpaw	manau	0036	=gaw	=TOP	=other	=other				
+jinghpaw	manau	0036	shani	day	np:other	np		other		
+jinghpaw	manau	0036	=e	=LOC	=rn	=rn				
+jinghpaw	manau	0036	shani	day	nc	nc				
+jinghpaw	manau	0036	=e	=LOC	nc	nc				
+jinghpaw	manau	0036	n-shaga	NEG-speak	v:pred	v		pred		
+jinghpaw	manau	0036	=ai	=DECL	=rv	=rv				
+jinghpaw	manau	0037	#	#	##	##				
+jinghpaw	manau	0037	0	0	0.d:s	0	d	s	704	
+jinghpaw	manau	0037	shana	night	ln_np	ln_np				
+jinghpaw	manau	0037	yuptung	midnight	np:other	np		other		
+jinghpaw	manau	0037	=e	=LOC	=rn	=rn				
+jinghpaw	manau	0037	=sha	=only	=other	=other				
+jinghpaw	manau	0037	shaga	speak	v:pred	v		pred		
+jinghpaw	manau	0037	=ai	=DECL	=rv	=rv				
+jinghpaw	manau	0038	#	#	##	##				
+jinghpaw	manau	0038	shana	night	ln_np	ln_np				
+jinghpaw	manau	0038	yuptung	midnight	np:other	np		other		
+jinghpaw	manau	0038	=e	=LOC	=rn	=rn				
+jinghpaw	manau	0038	=sha	=only	=other	=other				
+jinghpaw	manau	0039	e	well	other	other				
+jinghpaw	manau	0039	#	#	#ac	#ac				
+jinghpaw	manau	0039	nsin	darkness	np:s	np		s		
+jinghpaw	manau	0039	sin	be.dark	v:pred	v		pred		
+jinghpaw	manau	0039	yang	when	other	other				
+jinghpaw	manau	0039	%	%	%	%				
+jinghpaw	manau	0039	=chyu-sha	=only-only	=other	=other				
+jinghpaw	manau	0039	shi	3SG	pro.d:s	pro	d	s	704	
+jinghpaw	manau	0039	tam-lu-tam-sha	seek-drink-seek-eat	lv	lv				
+jinghpaw	manau	0039	hkawm	walk	v:pred	v		pred		
+jinghpaw	manau	0039	=mat	=COMPL	=aux	=aux				
+jinghpaw	manau	0039	=ai	=DECL	=rv	=rv				
+jinghpaw	manau	0040	#	#	##	##				
+jinghpaw	manau	0040	dai	that	dem_pro:s	dem_pro		s		
+jinghpaw	manau	0040	=gaw	=TOP	=other	=other				
+jinghpaw	manau	0040	hkamhkam-u	Hkamhkam-bird	ln_np.d:poss	ln_np	d	poss	704	
+jinghpaw	manau	0040	=a	=GEN	=ln	=ln				
+jinghpaw	manau	0040	maumwi	story	np:pred	np		pred		
+jinghpaw	manau	0040	re	COP	cop	cop				
+jinghpaw	manau	0041	#	#	##	##				
+jinghpaw	manau	0041	#	#	#ac	#ac				
+jinghpaw	manau	0041	0	0	0.d:s	0	d	s	704	
+jinghpaw	manau	0041	gumrawng-gumtawng	be.haughty-be.haughty	v:pred	v		pred		
+jinghpaw	manau	0041	=ai	=DECL	=rv	=rv				
+jinghpaw	manau	0041	majaw	because	other	other				
+jinghpaw	manau	0041	%	%	%	%				
+jinghpaw	manau	0042	hkamhkam-u	Hkamhkam-bird	np.d:dt_s	np	d	dt_s	704	
+jinghpaw	manau	0042	=gaw	=TOP	=other	=other				
+jinghpaw	manau	0042	e	well	other	other				
+jinghpaw	manau	0042	shi	3SG	pro.d:s	pro	d	s	704	
+jinghpaw	manau	0042	#	#	#rc	#rc				
+jinghpaw	manau	0042	0	0	rel_f0:p2	rel_f0		p2	707	
+jinghpaw	manau	0042	0	0	0.d:p	0	d	p	704	
+jinghpaw	manau	0042	masha	person	np.d:a	np	d	a	706	
+jinghpaw	manau	0042	=ni	=PL	=rn	=rn				
+jinghpaw	manau	0042	jaw	give	v:pred	v		pred		
+jinghpaw	manau	0042	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	manau	0042	%	%	%	%				
+jinghpaw	manau	0042	#	#	#rc	#rc				
+jinghpaw	manau	0042	0	0	rel_f0:p2	rel_f0		p2	707	
+jinghpaw	manau	0042	0	0	0.d:p	0	d	p	704	
+jinghpaw	manau	0042	u-manang	bird-friend	np.d:a	np	d	a	706	
+jinghpaw	manau	0042	=ni	=PL	=rn	=rn				
+jinghpaw	manau	0042	jaw	give	v:pred	v		pred		
+jinghpaw	manau	0042	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	manau	0042	%	%	%	%				
+jinghpaw	manau	0042	yawng	all	np:p	np		p	707	
+jinghpaw	manau	0042	baw	uproot	lv	lv				
+jinghpaw	manau	0042	gatut	receive	v:pred	v		pred		
+jinghpaw	manau	0042	=nna	=SEQ	=other	=other				
+jinghpaw	manau	0043	#	#	##	##				
+jinghpaw	manau	0043	0	0	0.d:s	0	d	s	704	
+jinghpaw	manau	0043	hpang-jahtum	end-end	np:other	np		other		
+jinghpaw	manau	0043	=gaw	=TOP	=other	=other				
+jinghpaw	manau	0043	myi	before	np:other	np		other		
+jinghpaw	manau	0043	=na	=GEN	=rn	=rn				
+jinghpaw	manau	0043	raw	like	np:other	np		other		
+jinghpaw	manau	0043	#	#	#rc.neg	#rc.neg				
+jinghpaw	manau	0043	0	0	rel_f0:s	rel_f0		s		
+jinghpaw	manau	0043	n-tsawm	NEG-be.beautiful	v:pred	v		pred		
+jinghpaw	manau	0043	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	manau	0043	%	%	%	%				
+jinghpaw	manau	0043	u	bird	np:pred	np		pred		
+jinghpaw	manau	0043	bai	again	other	other				
+jinghpaw	manau	0043	tai	become	cop	cop				
+jinghpaw	manau	0043	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	manau	0043	=sha	=only	=other	=other				
+jinghpaw	manau	0043	n-ga	more.than	other	other				
+jinghpaw	manau	0044	#	#	##	##				
+jinghpaw	manau	0044	0	0	0.d:s	0	d	s	704	
+jinghpaw	manau	0044	#	#	#rc	#rc				
+jinghpaw	manau	0044	0	0	rel_f0:s	rel_f0		s		
+jinghpaw	manau	0044	shana	night	np:other	np		other		
+jinghpaw	manau	0044	#	#	#cc	#cc				
+jinghpaw	manau	0044	nsin	darkness	np:s	np		s		
+jinghpaw	manau	0044	sin	be.dark	v:pred	v		pred		
+jinghpaw	manau	0044	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	manau	0044	%	%	%	%				
+jinghpaw	manau	0044	=kaw	=LOC	=rn	=rn				
+jinghpaw	manau	0044	=she	=only	=other	=other				
+jinghpaw	manau	0044	ngoi	make.sound	lv	lv				
+jinghpaw	manau	0044	shaga	speak	v:pred	v		pred		
+jinghpaw	manau	0044	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	manau	0044	%	%	%	%				
+jinghpaw	manau	0044	u	bird	np:pred	np		pred		
+jinghpaw	manau	0044	tai	become	cop	cop				
+jinghpaw	manau	0044	=ai	=DECL	=rv	=rv				
+jinghpaw	manau	0044	=da	=HS	=other	=other				

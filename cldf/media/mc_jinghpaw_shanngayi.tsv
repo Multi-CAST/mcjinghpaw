@@ -1,0 +1,730 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+jinghpaw	shanngayi	0001	#	#	#nc	#nc				
+jinghpaw	shanngayi	0001	E	INTJ	nc	nc				
+jinghpaw	shanngayi	0001	maumwi-gabaw	story-title	nc	nc				
+jinghpaw	shanngayi	0001	=gaw	=TOP	nc	nc				
+jinghpaw	shanngayi	0001	ndai	well	nc	nc				
+jinghpaw	shanngayi	0001	shannga	deer	nc	nc				
+jinghpaw	shanngayi	0001	shannga-yi	deer-female	nc	nc				
+jinghpaw	shanngayi	0001	=ni	=PL	nc	nc				
+jinghpaw	shanngayi	0001	nrung	horn	nc	nc				
+jinghpaw	shanngayi	0001	n-tu	NEG-grow	nc	nc				
+jinghpaw	shanngayi	0001	=mat	=COMPL	nc	nc				
+jinghpaw	shanngayi	0001	=ai	=DECL.NMLZ	nc	nc				
+jinghpaw	shanngayi	0001	lam	story	nc	nc				
+jinghpaw	shanngayi	0002	#	#	##	##				
+jinghpaw	shanngayi	0002	Moi-shawng	long.ago-before	np:other	np		other		
+jinghpaw	shanngayi	0002	=de	=ALL	=rn	=rn				
+jinghpaw	shanngayi	0002	=da	=HS	=other	=other				
+jinghpaw	shanngayi	0002	ndai	well	other	other				
+jinghpaw	shanngayi	0002	shannga	deer	np.d:dt	np	d	dt	1101	new
+jinghpaw	shanngayi	0002	=ni	=PL	=rn	=rn				
+jinghpaw	shanngayi	0002	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0002	ayi	female	ln_np.d	ln_np	d		1102	new
+jinghpaw	shanngayi	0002	=mada	=also	=ln	=ln				
+jinghpaw	shanngayi	0002	ala	male	np.d:appos	np	d	appos	1103	bridging
+jinghpaw	shanngayi	0002	=mada	=also	=rn	=rn				
+jinghpaw	shanngayi	0002	nrung	horn	np:s	np		s	1104	bridging
+jinghpaw	shanngayi	0002	grai	very	other	other				
+jinghpaw	shanngayi	0002	tsawm	be.beautiful	v:pred	v		pred		
+jinghpaw	shanngayi	0002	=na	=SEQ	=other	=other				
+jinghpaw	shanngayi	0002	#	#	##	##				
+jinghpaw	shanngayi	0002	0	0	0:s	0		s	1104	
+jinghpaw	shanngayi	0002	marenmara	be.equal	other	other				
+jinghpaw	shanngayi	0002	re	=LV	=rv	=rv				
+jinghpaw	shanngayi	0002	tu	grow	v:pred	v		pred		
+jinghpaw	shanngayi	0002	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0002	=da	=HS	=other	=other				
+jinghpaw	shanngayi	0003	#	#	##	##				
+jinghpaw	shanngayi	0003	0	0	0:s	0		s	1104	
+jinghpaw	shanngayi	0003	a-marenmara	ADV-be.equal	v:pred	v		pred		
+jinghpaw	shanngayi	0003	re	COP	cop	cop				
+jinghpaw	shanngayi	0004	#	#	##	##				
+jinghpaw	shanngayi	0004	0	0	0:s	0		s	1104	
+jinghpaw	shanngayi	0004	grai	very	other	other				
+jinghpaw	shanngayi	0004	=ma	=also	=other	=other				
+jinghpaw	shanngayi	0004	kabrim	shine	lv	lv				
+jinghpaw	shanngayi	0004	tsawm	be.beautiful	v:pred	v		pred		
+jinghpaw	shanngayi	0004	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0004	=i	=SFP	=other	=other				
+jinghpaw	shanngayi	0005	#	#	##	##				
+jinghpaw	shanngayi	0005	0	0	0:s	0		s	1104	
+jinghpaw	shanngayi	0005	dan	thus	other	other				
+jinghpaw	shanngayi	0005	re	COP	other	other				
+jinghpaw	shanngayi	0005	tu	grow	v:pred	v		pred		
+jinghpaw	shanngayi	0005	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0005	=da	=HS	=other	=other				
+jinghpaw	shanngayi	0006	#	#	##	##				
+jinghpaw	shanngayi	0006	Shaloi	then	other	other				
+jinghpaw	shanngayi	0006	=she	=then	=other	=other				
+jinghpaw	shanngayi	0006	lani	one.day	np:other	np		other		
+jinghpaw	shanngayi	0006	mi	one	rn_qfr	rn_qfr				
+jinghpaw	shanngayi	0006	=hta	=LOC	=rn	=rn				
+jinghpaw	shanngayi	0006	=she	=then	=other	=other				
+jinghpaw	shanngayi	0006	ndai	this	nc	nc				
+jinghpaw	shanngayi	0006	ndai	this	ln_dem	ln_dem				
+jinghpaw	shanngayi	0006	shaloi	then	np:other	np		other		
+jinghpaw	shanngayi	0006	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0006	ndai	this	ln_dem	ln_dem				
+jinghpaw	shanngayi	0006	shannga-yi	deer-female	ln_np.d	ln_np	d		1107	new
+jinghpaw	shanngayi	0006	shannga-wa	deer-male	ln_np.d	ln_np	d		1113	new
+jinghpaw	shanngayi	0006	hkan	3DU	ln_pro.d	ln_pro	d		1112	bridging
+jinghpaw	shanngayi	0006	wa	father	np.d:s	np	d	s	1108	new
+jinghpaw	shanngayi	0006	=ni	=PL	=rn	=rn				
+jinghpaw	shanngayi	0006	masum	three	rn_qfr	rn_qfr				
+jinghpaw	shanngayi	0006	nga	live	v:pred	v		pred		
+jinghpaw	shanngayi	0006	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0006	=da	=HS	=other	=other				
+jinghpaw	shanngayi	0007	#	#	##	##				
+jinghpaw	shanngayi	0007	0	0	0.d:s	0	d	s	1105	bridging
+jinghpaw	shanngayi	0007	langai	one	nc	nc				
+jinghpaw	shanngayi	0007	mi	one	nc	nc				
+jinghpaw	shanngayi	0007	=gaw	=TOP	nc	nc				
+jinghpaw	shanngayi	0007	numsha	woman	ln_np	ln_np				
+jinghpaw	shanngayi	0007	lasha	man	ln_np	ln_np				
+jinghpaw	shanngayi	0007	=hte	=COM	=ln	=ln				
+jinghpaw	shanngayi	0007	gawa	father	np:pred	np		pred		
+jinghpaw	shanngayi	0007	=i	=SFP	=other	=other				
+jinghpaw	shanngayi	0008	#	#	##	##				
+jinghpaw	shanngayi	0008	shan	3DU	nc	nc				
+jinghpaw	shanngayi	0008	wa	father	nc_np.d	nc_np	d		1105	
+jinghpaw	shanngayi	0008	=ni	=PL	nc	nc				
+jinghpaw	shanngayi	0008	shingkra	widower	ln_np.d	ln_np	d			
+jinghpaw	shanngayi	0008	hkan	3DU	ln_np.d	ln_np	d			
+jinghpaw	shanngayi	0008	wa	father	np.d:s	np	d	s	1105	
+jinghpaw	shanngayi	0008	=ni	=PL	=rn	=rn				
+jinghpaw	shanngayi	0008	nga	live	v:pred	v		pred		
+jinghpaw	shanngayi	0008	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0008	=da	=HS	=other	=other				
+jinghpaw	shanngayi	0009	#	#	##	##				
+jinghpaw	shanngayi	0009	0	0	0.d:s	0	d	s	1105	
+jinghpaw	shanngayi	0009	dai	that	nc	nc				
+jinghpaw	shanngayi	0009	=kaw	=LOC	nc	nc				
+jinghpaw	shanngayi	0009	=she	=then	nc	nc				
+jinghpaw	shanngayi	0009	nga	live	nc	nc				
+jinghpaw	shanngayi	0009	maling	forest	np:l	np		l	1106	new
+jinghpaw	shanngayi	0009	langai	one	rn_qfr	rn_qfr				
+jinghpaw	shanngayi	0009	mi	one	rn_qfr	rn_qfr				
+jinghpaw	shanngayi	0009	=kaw	=LOC	=rn	=rn				
+jinghpaw	shanngayi	0009	nga	live	v:pred	v		pred		
+jinghpaw	shanngayi	0009	re	LV	rv	rv				
+jinghpaw	shanngayi	0009	=she	=then	=other	=other				
+jinghpaw	shanngayi	0010	#	#	##	##				
+jinghpaw	shanngayi	0010	shan	3DU	ln_np	ln_np				
+jinghpaw	shanngayi	0010	wa	father	np.d:s	np	d	s	1105	
+jinghpaw	shanngayi	0010	=ni	=PL	=rn	=rn				
+jinghpaw	shanngayi	0010	grai	very	other	other				
+jinghpaw	shanngayi	0010	pyaw	be.happy	lv	lv				
+jinghpaw	shanngayi	0010	=na	=SEQ	=lv	=lv				
+jinghpaw	shanngayi	0010	nga	live	v:pred	v		pred		
+jinghpaw	shanngayi	0011	#	#	##	##				
+jinghpaw	shanngayi	0011	0	0	0.d:s	0	d	s	1105	
+jinghpaw	shanngayi	0011	grai	very	other	other				
+jinghpaw	shanngayi	0011	pyaw	be.happy	vother	vother				
+jinghpaw	shanngayi	0011	=na	=SEQ	=other	=other				
+jinghpaw	shanngayi	0011	nga	live	v:pred	v		pred		
+jinghpaw	shanngayi	0011	re	LV	vother	vother				
+jinghpaw	shanngayi	0011	=she	=then	=other	=other				
+jinghpaw	shanngayi	0012	#	#	##	##				
+jinghpaw	shanngayi	0012	lani	one.day	np:other	np		other		
+jinghpaw	shanngayi	0012	mi	one	rn_qfr	rn_qfr				
+jinghpaw	shanngayi	0012	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0012	ndai	well	other	other				
+jinghpaw	shanngayi	0012	shi	3SG.GEN	ln_pro.d:poss	ln_pro	d	poss	1107	
+jinghpaw	shanngayi	0012	=na	=GEN	=ln	=ln				
+jinghpaw	shanngayi	0012	wa	father	np.d:s_ds	np	d	s_ds	1108	
+jinghpaw	shanngayi	0012	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0012	dai	well	other	other				
+jinghpaw	shanngayi	0012	#	#	##ds	##ds				
+jinghpaw	shanngayi	0012	0	0	0.1:s	0	1	s	1108	
+jinghpaw	shanngayi	0012	lusha	food	np:p	np		p	1109	new
+jinghpaw	shanngayi	0012	tam	look.for	lv	lv				
+jinghpaw	shanngayi	0012	sa	go	lv	lv				
+jinghpaw	shanngayi	0012	sa	go	v:pred	v		pred		
+jinghpaw	shanngayi	0012	=na	=IRR	=aux	=aux				
+jinghpaw	shanngayi	0012	%	%	%	%				
+jinghpaw	shanngayi	0012	nga	say	v:pred	v		pred		
+jinghpaw	shanngayi	0012	=na	=SEQ	=other	=other				
+jinghpaw	shanngayi	0012	=she	=then	=other	=other				
+jinghpaw	shanngayi	0013	#	#	##neg	##neg				
+jinghpaw	shanngayi	0013	shi	3SG	nc	nc				
+jinghpaw	shanngayi	0013	wa	father	nc_np.d	nc_np	d		1108	
+jinghpaw	shanngayi	0013	=gaw	=TOP	nc	nc				
+jinghpaw	shanngayi	0013	shiga	news	np:s	np		s	1110	new
+jinghpaw	shanngayi	0013	=ma	=also	=other	=other				
+jinghpaw	shanngayi	0013	n-pyaw	NEG-be.happy	v:pred	v		pred		
+jinghpaw	shanngayi	0013	=na	=SEQ	=other	=other				
+jinghpaw	shanngayi	0013	=i	=SFP	=other	=other				
+jinghpaw	shanngayi	0014	#	#	#nc	#nc				
+jinghpaw	shanngayi	0014	dai	that	nc	nc				
+jinghpaw	shanngayi	0014	shaloi	when	nc	nc				
+jinghpaw	shanngayi	0014	nga	be	nc	nc				
+jinghpaw	shanngayi	0014	yang	when	nc	nc				
+jinghpaw	shanngayi	0014	=gaw	=TOP	nc	nc				
+jinghpaw	shanngayi	0015	#	#	##	##				
+jinghpaw	shanngayi	0015	#	#	#ac	#ac				
+jinghpaw	shanngayi	0015	#	#	#cc:p	#cc		p		
+jinghpaw	shanngayi	0015	maling	forest	np:l	np		l	1106	
+jinghpaw	shanngayi	0015	=hta	=LOC	=rn	=rn				
+jinghpaw	shanngayi	0015	jaugawng	hunter	np.h:s	np	h	s	1111	new
+jinghpaw	shanngayi	0015	=ni	=PL	=rn	=rn				
+jinghpaw	shanngayi	0015	grai	very	other	other				
+jinghpaw	shanngayi	0015	prang	swarm.about	v:pred	v		pred		
+jinghpaw	shanngayi	0015	=ai	=DECL	=other	=other				
+jinghpaw	shanngayi	0015	nga	QUOT	other	other				
+jinghpaw	shanngayi	0015	%	%	%	%				
+jinghpaw	shanngayi	0015	=hpe	=ACC	=rn	=rn				
+jinghpaw	shanngayi	0015	0	0	0.d:a	0	d	a		
+jinghpaw	shanngayi	0015	na	hear	v:pred	v		pred		
+jinghpaw	shanngayi	0015	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0015	majaw	because	other	other				
+jinghpaw	shanngayi	0015	%	%	%	%				
+jinghpaw	shanngayi	0016	shi	3SG	pro.d:a_ds	pro	d	a_ds	1108	
+jinghpaw	shanngayi	0016	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0016	shi	3SG.GEN	ln_pro.d:poss	ln_pro	d	poss	1108	
+jinghpaw	shanngayi	0016	=na	=GEN	=ln	=ln				
+jinghpaw	shanngayi	0016	gasha	child	np.d:p	np	d	p	1112	
+jinghpaw	shanngayi	0016	=hpe	=ACC	=rn	=rn				
+jinghpaw	shanngayi	0016	tsun	say	v:pred	v		pred		
+jinghpaw	shanngayi	0016	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0017	#	#	##ds	##ds				
+jinghpaw	shanngayi	0017	makaw	first.daughter	ln_np	ln_np				
+jinghpaw	shanngayi	0017	yen	and	ln	ln				
+jinghpaw	shanngayi	0017	magam	first.son	np.d:voc	np	d	voc	1112	
+jinghpaw	shanngayi	0017	daini	today	other	other				
+jinghpaw	shanngayi	0017	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0017	nan	2DU	ln_pro.2	ln_pro	2			
+jinghpaw	shanngayi	0017	nau	brothers	np.d:s	np	d	s	1112	
+jinghpaw	shanngayi	0017	gara	where	np:g	np		g		
+jinghpaw	shanngayi	0017	=de	=ALL	=rn	=rn				
+jinghpaw	shanngayi	0017	=mung	=also	=other	=other				
+jinghpaw	shanngayi	0017	hkum	PROH	other	other				
+jinghpaw	shanngayi	0017	sa	go	v:pred	v		pred		
+jinghpaw	shanngayi	0017	re	LV	other	other				
+jinghpaw	shanngayi	0017	=lu	=SFP	=other	=other				
+jinghpaw	shanngayi	0018	#	#	##ds	##ds				
+jinghpaw	shanngayi	0018	nan	2DU	pro.2:appos	pro	2	appos		
+jinghpaw	shanngayi	0018	nau	brothers	ln_np.d:poss	ln_np	d	poss	1112	
+jinghpaw	shanngayi	0018	=na	=GEN	=ln	=ln				
+jinghpaw	shanngayi	0018	matu	for	np:other	np		other		
+jinghpaw	shanngayi	0018	awa	father	np.d:a	np	d	a	1108	
+jinghpaw	shanngayi	0018	lusha	food	np:p	np		p	1109	
+jinghpaw	shanngayi	0018	grai	very	other	other				
+jinghpaw	shanngayi	0018	law	be.many	vother	vother				
+jinghpaw	shanngayi	0018	=hkra	=until	=rv	=rv				
+jinghpaw	shanngayi	0018	la	take	v:pred	v		pred		
+jinghpaw	shanngayi	0018	=wa	=VEN	=aux	=aux				
+jinghpaw	shanngayi	0018	=na	=IRR	=aux	=aux				
+jinghpaw	shanngayi	0019	#	#	##ds	##ds				
+jinghpaw	shanngayi	0019	0	0	0.2:s	0	2	s	1112	
+jinghpaw	shanngayi	0019	gade	to.where	np:g	np		g		
+jinghpaw	shanngayi	0019	=ma	=also	=other	=other				
+jinghpaw	shanngayi	0019	hkum	PROH	other	other				
+jinghpaw	shanngayi	0019	sa	go	v:pred	v		pred		
+jinghpaw	shanngayi	0020	#	#	##ds.neg	##ds.neg				
+jinghpaw	shanngayi	0020	ya	now	other	other				
+jinghpaw	shanngayi	0020	=mung	=also	=other	=other				
+jinghpaw	shanngayi	0020	shiga	news	np:s	np		s	1110	
+jinghpaw	shanngayi	0020	=ni	=PL	=rn	=rn				
+jinghpaw	shanngayi	0020	grai	very	other	other				
+jinghpaw	shanngayi	0020	n-pyaw	NEG-be.happy	v:pred	v		pred		
+jinghpaw	shanngayi	0020	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	shanngayi	0020	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0021	#	#	##ds	##ds				
+jinghpaw	shanngayi	0021	0	0	0.2:s	0	2	s	1112	
+jinghpaw	shanngayi	0021	nta	house	np:l	np		l	1114	new
+jinghpaw	shanngayi	0021	=kaw	=LOC	=rn	=rn				
+jinghpaw	shanngayi	0021	=sha	=only	=other	=other				
+jinghpaw	shanngayi	0021	ndai	this	dem_pro:l	dem_pro		l	1114	
+jinghpaw	shanngayi	0021	=kaw	=LOC	nc	nc				
+jinghpaw	shanngayi	0021	=sha	=only	nc	nc				
+jinghpaw	shanngayi	0021	nga	live	v:pred	v		pred		
+jinghpaw	shanngayi	0021	=taw	=CONT	=aux	=aux				
+jinghpaw	shanngayi	0021	=yaw	=SFP	=other	=other				
+jinghpaw	shanngayi	0022	#	#	##	##				
+jinghpaw	shanngayi	0022	#	#	#ds	#ds				
+jinghpaw	shanngayi	0022	0	0	0.2:s	0	2	s	1112	
+jinghpaw	shanngayi	0022	gade	to.where	np:g	np		g		
+jinghpaw	shanngayi	0022	=de	=ALL	=rn	=rn				
+jinghpaw	shanngayi	0022	hkum	PROH	other	other				
+jinghpaw	shanngayi	0022	sa	go	v:pred	v		pred		
+jinghpaw	shanngayi	0022	=yaw	=SFP	=other	=other				
+jinghpaw	shanngayi	0022	#	#	##	##				
+jinghpaw	shanngayi	0022	0	0	0.d:s_ds	0	d	s_ds	1108	
+jinghpaw	shanngayi	0022	ngu	QUOT	other	other				
+jinghpaw	shanngayi	0022	=na	=SEQ	=other	=other				
+jinghpaw	shanngayi	0022	tsun	say	v:pred	v		pred		
+jinghpaw	shanngayi	0022	=kau	=away	=aux	=aux				
+jinghpaw	shanngayi	0022	=da	=RES	=aux	=aux				
+jinghpaw	shanngayi	0022	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0023	#	#	##	##				
+jinghpaw	shanngayi	0023	0	0	0.d:s	0	d	s	1108	
+jinghpaw	shanngayi	0023	dai	that	nc	nc				
+jinghpaw	shanngayi	0023	=she	=then	nc	nc				
+jinghpaw	shanngayi	0023	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	shanngayi	0023	rai	COP	other	other				
+jinghpaw	shanngayi	0023	=na	=SEQ	=other	=other				
+jinghpaw	shanngayi	0023	hkawm	walk	v:pred	v		pred		
+jinghpaw	shanngayi	0023	=mat	=COMPL	=aux	=aux				
+jinghpaw	shanngayi	0023	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	shanngayi	0024	#	#	##	##				
+jinghpaw	shanngayi	0024	dai	that	ln_dem	ln_dem				
+jinghpaw	shanngayi	0024	shaloi	then	np:other	np		other		
+jinghpaw	shanngayi	0024	shani	daytime	np:s	np		s	1115	bridging
+jinghpaw	shanngayi	0024	du	arrive	v:pred	v		pred		
+jinghpaw	shanngayi	0024	=yang	=when	=other	=other				
+jinghpaw	shanngayi	0024	=she	=then	=other	=other				
+jinghpaw	shanngayi	0025	#	#	##	##				
+jinghpaw	shanngayi	0025	dai	that	ln_dem	ln_dem				
+jinghpaw	shanngayi	0025	numshawa	woman	np.d:s	np	d	s	1107	
+jinghpaw	shanngayi	0025	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0025	grai	very	other	other				
+jinghpaw	shanngayi	0025	lam	wander	v:pred	v		pred		
+jinghpaw	shanngayi	0025	=mayu	=DESID	=aux	=aux				
+jinghpaw	shanngayi	0025	=na	=IRR	=aux	=aux				
+jinghpaw	shanngayi	0025	=hku	=like	=rn	=rn				
+jinghpaw	shanngayi	0025	nga	be	other	other				
+jinghpaw	shanngayi	0026	#	#	##	##				
+jinghpaw	shanngayi	0026	lagaw	foot	np:s	np		s	1116	bridging
+jinghpaw	shanngayi	0026	=ni	=PL	=rn	=rn				
+jinghpaw	shanngayi	0026	gaya	itch	v:pred	v		pred		
+jinghpaw	shanngayi	0026	=wa	=VEN	=aux	=aux				
+jinghpaw	shanngayi	0026	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	shanngayi	0026	=hte	=COM	=rn	=rn				
+jinghpaw	shanngayi	0026	#	#	##	##				
+jinghpaw	shanngayi	0026	shi	3SG	pro.d:s	pro	d	s	1107	
+jinghpaw	shanngayi	0026	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0026	grai	very	other	other				
+jinghpaw	shanngayi	0026	sa	go	v:pred	v		pred		
+jinghpaw	shanngayi	0026	=mayu	=DESID	=aux	=aux				
+jinghpaw	shanngayi	0027	#	#	##	##				
+jinghpaw	shanngayi	0027	0	0	0.d:s	0	d	s	1107	
+jinghpaw	shanngayi	0027	shawoi	formerly	np:other	np		other		
+jinghpaw	shanngayi	0027	=na	=ABL	=rn	=rn				
+jinghpaw	shanngayi	0027	oh	INTJ	other	other				
+jinghpaw	shanngayi	0027	loi	a.little	other	other				
+jinghpaw	shanngayi	0027	mi	one	other	other				
+jinghpaw	shanngayi	0027	grai	very	other	other				
+jinghpaw	shanngayi	0027	lam	wander	v:pred	v		pred		
+jinghpaw	shanngayi	0027	=ja	=INTNS	=aux	=aux				
+jinghpaw	shanngayi	0027	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0028	#	#	##neg	##neg				
+jinghpaw	shanngayi	0028	0	0	0.d:s	0	d	s	1107	
+jinghpaw	shanngayi	0028	myit	mind	np:other	np		other		
+jinghpaw	shanngayi	0028	n-su	NEG-be.mature	v:pred	v		pred		
+jinghpaw	shanngayi	0028	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0029	#	#	#nc	#nc				
+jinghpaw	shanngayi	0029	rai	COP	nc	nc				
+jinghpaw	shanngayi	0029	=na	=IRR	nc	nc				
+jinghpaw	shanngayi	0029	=hku	=like	nc	nc				
+jinghpaw	shanngayi	0029	rai	COP	nc	nc				
+jinghpaw	shanngayi	0029	nga	be	nc	nc				
+jinghpaw	shanngayi	0030	#	#	##	##				
+jinghpaw	shanngayi	0030	dan	thus	other	other				
+jinghpaw	shanngayi	0030	=jang	=when	=other	=other				
+jinghpaw	shanngayi	0030	=she	=then	=other	=other				
+jinghpaw	shanngayi	0030	shi	3SG	nc_pro.d	nc_pro	d		1107	
+jinghpaw	shanngayi	0030	=gaw	=TOP	nc	nc				
+jinghpaw	shanngayi	0030	lani	one.day	np:other	np		other		
+jinghpaw	shanngayi	0030	mi	one	rn_qfr	rn_qfr				
+jinghpaw	shanngayi	0030	shi	3SG	pro.d:a_ds	pro	d	a_ds	1107	
+jinghpaw	shanngayi	0030	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0030	gahpu	elder.brother	np.d:p	np	d	p	1113	
+jinghpaw	shanngayi	0030	=hpe	=ACC	=rn	=rn				
+jinghpaw	shanngayi	0030	tsun	say	v:pred	v		pred		
+jinghpaw	shanngayi	0030	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0031	#	#	##ds	##ds				
+jinghpaw	shanngayi	0031	aba	elder.brother	np.d:voc	np	d	voc	1113	
+jinghpaw	shanngayi	0031	ngai	1SG	pro.1:s	pro	1	s	1107	
+jinghpaw	shanngayi	0031	ora	over.there	ln_dem	ln_dem				
+jinghpaw	shanngayi	0031	maling	forest	np:g	np		g	1106	
+jinghpaw	shanngayi	0031	=de	=ALL	=rn	=rn				
+jinghpaw	shanngayi	0031	agu	uncle	ln_np	ln_np				
+jinghpaw	shanngayi	0031	wadu	boar	ln_np.d	ln_np	d		1117	new
+jinghpaw	shanngayi	0031	brang	brother	ln_np	ln_np				
+jinghpaw	shanngayi	0031	=ni	=PL	=ln	=ln				
+jinghpaw	shanngayi	0031	dumsi	porcupine	np.d:appos	np	d	appos	1118	new
+jinghpaw	shanngayi	0031	=ni	=PL	=rn	=rn				
+jinghpaw	shanngayi	0031	=kaw	=LOC	=rn	=rn				
+jinghpaw	shanngayi	0031	sa	go	lv	lv				
+jinghpaw	shanngayi	0031	lam	wander	v:pred	v		pred		
+jinghpaw	shanngayi	0031	=na	=IRR	=aux	=aux				
+jinghpaw	shanngayi	0032	#	#	##ds	##ds				
+jinghpaw	shanngayi	0032	0	0	0.2:s	0	2	s	1107	
+jinghpaw	shanngayi	0032	hkum	PROH	other	other				
+jinghpaw	shanngayi	0032	sa	go	v:pred	v		pred		
+jinghpaw	shanngayi	0032	=law	=SFP	=other	=other				
+jinghpaw	shanngayi	0033	#	#	##ds.neg	##ds.neg				
+jinghpaw	shanngayi	0033	#	#	#ds_rc:p	#ds_rc		p	1125	bridging
+jinghpaw	shanngayi	0033	0	0	rel_f0:p	rel_f0		p	1125	
+jinghpaw	shanngayi	0033	awa	father	np.d:a	np	d	a	1108	
+jinghpaw	shanngayi	0033	tsun	say	v:pred	v		pred		
+jinghpaw	shanngayi	0033	=da	=RES	=aux	=aux				
+jinghpaw	shanngayi	0033	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	shanngayi	0033	%	%	%	%				
+jinghpaw	shanngayi	0033	nang	2SG	pro.2:a	pro	2	a	1107	
+jinghpaw	shanngayi	0033	n-na	NEG-hear	v:pred	v		pred		
+jinghpaw	shanngayi	0033	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0033	=i	=SFP	=other	=other				
+jinghpaw	shanngayi	0033	#	#	##	##				
+jinghpaw	shanngayi	0033	0	0	0.d:s_ds	0	d	s_ds	1113	
+jinghpaw	shanngayi	0033	nga	say	v:pred	v		pred		
+jinghpaw	shanngayi	0033	=yang	=when	=other	=other				
+jinghpaw	shanngayi	0033	=mung	=also	=other	=other				
+jinghpaw	shanngayi	0034	#	#	##ds.neg	##ds.neg				
+jinghpaw	shanngayi	0034	raitim	but	other	other				
+jinghpaw	shanngayi	0034	=le	=SFP	=other	=other				
+jinghpaw	shanngayi	0034	aba	elder.brother	np.d:voc	np	d	voc	1113	
+jinghpaw	shanngayi	0034	=e	=SFP	=other	=other				
+jinghpaw	shanngayi	0034	0	0	0:s	0		s		
+jinghpaw	shanngayi	0034	dai	that	dem_pro:pred	dem_pro		pred	1119	bridging
+jinghpaw	shanngayi	0034	=ram	=appoximately	=other	=other				
+jinghpaw	shanngayi	0034	n-re	NEG-COP	cop	cop				
+jinghpaw	shanngayi	0034	=law	=SFP	=other	=other				
+jinghpaw	shanngayi	0035	#	#	##ds	##ds				
+jinghpaw	shanngayi	0035	ngai	1SG	pro.1:s	pro	1	s	1107	
+jinghpaw	shanngayi	0035	a-katsi	ADV-be.silent	other	other				
+jinghpaw	shanngayi	0035	=sha	=ADV	=other	=other				
+jinghpaw	shanngayi	0035	lagu	steal	lv	lv				
+jinghpaw	shanngayi	0035	sa	go	v:pred	v		pred		
+jinghpaw	shanngayi	0035	=na	=SEQ	=other	=other				
+jinghpaw	shanngayi	0035	#	#	##ds	##ds				
+jinghpaw	shanngayi	0035	0	0	0.1:s	0	1	s	1107	
+jinghpaw	shanngayi	0035	bai	bai	other	other				
+jinghpaw	shanngayi	0035	wa	return	v:pred	v		pred		
+jinghpaw	shanngayi	0035	=na	=IRR	=rv	=rv				
+jinghpaw	shanngayi	0035	yaw	=SFP	=other	=other				
+jinghpaw	shanngayi	0036	#	#	##	##				
+jinghpaw	shanngayi	0036	0	0	0.d:s_ds	0	d	s_ds	1107	
+jinghpaw	shanngayi	0036	nga	QUOT	other	other				
+jinghpaw	shanngayi	0036	=na	=SEQ	=other	=other				
+jinghpaw	shanngayi	0036	tsun	say	v:pred	v		pred		
+jinghpaw	shanngayi	0036	yang	when	other	other				
+jinghpaw	shanngayi	0036	#	#	##	##				
+jinghpaw	shanngayi	0036	#	#	#ac	#ac				
+jinghpaw	shanngayi	0036	shi	3SG	pro.d:s_ds	pro	d	s_ds	1113	
+jinghpaw	shanngayi	0036	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0036	#	#	##ds	##ds			1107	
+jinghpaw	shanngayi	0036	0	0	0.2:s	0	2	s		
+jinghpaw	shanngayi	0036	hkum	PROH	other	other				
+jinghpaw	shanngayi	0036	sa	go	v:pred	v		pred		
+jinghpaw	shanngayi	0036	%	%	%	%				
+jinghpaw	shanngayi	0036	nga	QUOT	other	other				
+jinghpaw	shanngayi	0036	tsun	say	v:pred	v		pred		
+jinghpaw	shanngayi	0036	tim	but	other	other				
+jinghpaw	shanngayi	0036	%	%	%	%				
+jinghpaw	shanngayi	0036	shi	3SG	pro.d:s	pro	d	s	1107	
+jinghpaw	shanngayi	0036	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0036	lagu	steal	lv	lv				
+jinghpaw	shanngayi	0036	sa	go	v:pred	v		pred		
+jinghpaw	shanngayi	0036	=mat	=COMPL	=aux	=aux				
+jinghpaw	shanngayi	0036	wa	=VEN	=aux	=aux				
+jinghpaw	shanngayi	0037	#	#	##	##				
+jinghpaw	shanngayi	0037	0	0	0.d:s	0	d	s	1107	
+jinghpaw	shanngayi	0037	lagu	steal	lv	lv				
+jinghpaw	shanngayi	0037	sa	go	v:pred	v		pred		
+jinghpaw	shanngayi	0037	=mat	=COMPL	=aux	=aux				
+jinghpaw	shanngayi	0037	=wa	=VEN	=aux	=aux				
+jinghpaw	shanngayi	0037	re	LV	other	other				
+jinghpaw	shanngayi	0037	=she	=then	=other	=other				
+jinghpaw	shanngayi	0038	#	#	##	##				
+jinghpaw	shanngayi	0038	0	0	0.d:s	0	d	s	1107	
+jinghpaw	shanngayi	0038	ora	over.there	ln_dem	ln_dem				
+jinghpaw	shanngayi	0038	nam	forest	np:g	np		g	1106	
+jinghpaw	shanngayi	0038	=kaw	=LOC	=rn	=rn				
+jinghpaw	shanngayi	0038	du	arrive	v:pred	v		pred		
+jinghpaw	shanngayi	0038	yang	when	other	other				
+jinghpaw	shanngayi	0039	#	#	##	##				
+jinghpaw	shanngayi	0039	0	0	0.d:s	0	d	s	1107	
+jinghpaw	shanngayi	0039	jaugawng	hunter	np.h:obl	np	h	obl	1120	bridging
+jinghpaw	shanngayi	0039	langai	one	rn_qfr	rn_qfr				
+jinghpaw	shanngayi	0039	mi	one	rn_qfr	rn_qfr				
+jinghpaw	shanngayi	0039	=hte	=COM	=rn	=rn				
+jinghpaw	shanngayi	0039	hkrum	meet	v:pred	v		pred		
+jinghpaw	shanngayi	0039	=na	=SEQ	=other	=other				
+jinghpaw	shanngayi	0039	=she	=then	=other	=other				
+jinghpaw	shanngayi	0040	#	#	##	##				
+jinghpaw	shanngayi	0040	jaugawng	hunter	nc	nc				
+jinghpaw	shanngayi	0040	jaugawng	hunter	nc	nc				
+jinghpaw	shanngayi	0040	jaugawng	hunter	np.h:dt	np	h	dt	1120	
+jinghpaw	shanngayi	0040	dai	that	ln_dem	ln_dem				
+jinghpaw	shanngayi	0040	wa	man	np.h:a	np	h	a	1120	
+jinghpaw	shanngayi	0040	=she	=then	=other	=other				
+jinghpaw	shanngayi	0040	shi	3SG	pro.d:p	pro	d	p	1107	
+jinghpaw	shanngayi	0040	=hpe	=ACC	=rn	=rn				
+jinghpaw	shanngayi	0040	gap	shoot	lv	lv				
+jinghpaw	shanngayi	0040	hkyen	prepare	v:pred	v		pred		
+jinghpaw	shanngayi	0040	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0040	re	LV	other	other				
+jinghpaw	shanngayi	0040	=she	=then	=other	=other				
+jinghpaw	shanngayi	0041	#	#	##	##				
+jinghpaw	shanngayi	0041	#	#	#ac	#ac				
+jinghpaw	shanngayi	0041	#	#	#ac	#ac				
+jinghpaw	shanngayi	0041	0	0	0.h:p	0	h	p	1120	
+jinghpaw	shanngayi	0041	shi	3SG	pro.d:s	pro	d	s	1107	
+jinghpaw	shanngayi	0041	=mung	=also	=other	=other				
+jinghpaw	shanngayi	0041	mu	see	v:pred	v		pred		
+jinghpaw	shanngayi	0041	=kau-dat	=away-away	=aux	=aux				
+jinghpaw	shanngayi	0041	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0041	=hte	=COM	=other	=other				
+jinghpaw	shanngayi	0041	%	%	%	%				
+jinghpaw	shanngayi	0041	0	0	0.d:a	0	d	a	1107	
+jinghpaw	shanngayi	0041	0	0	0.h:p	0	h	p	1120	
+jinghpaw	shanngayi	0041	kalangta	at.once	other	other				
+jinghpaw	shanngayi	0041	hkrup	meet	v:pred	v		pred		
+jinghpaw	shanngayi	0041	=mat	=COMPL	=aux	=aux				
+jinghpaw	shanngayi	0041	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0041	majaw	because	other	other				
+jinghpaw	shanngayi	0041	%	%	%	%				
+jinghpaw	shanngayi	0042	shi	3SG	pro.d:a	pro	d	a	1107	
+jinghpaw	shanngayi	0042	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0042	hprawng	run.away	ln	ln				
+jinghpaw	shanngayi	0042	=na	=IRR	=ln	=ln				
+jinghpaw	shanngayi	0042	aten	time	np:p	np		p	1121	bridging
+jinghpaw	shanngayi	0042	lu	get	v:pred	v		pred		
+jinghpaw	shanngayi	0042	=mat	=COMPL	=aux	=aux				
+jinghpaw	shanngayi	0042	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0043	#	#	##	##				
+jinghpaw	shanngayi	0043	0	0	0.d:a	0	d	a	1107	
+jinghpaw	shanngayi	0043	hprawng	run.away	ln	ln				
+jinghpaw	shanngayi	0043	=na	=IRR	=ln	=ln				
+jinghpaw	shanngayi	0043	aten	time	np:p	np		p	1121	
+jinghpaw	shanngayi	0043	lu	get	v:pred	v		pred		
+jinghpaw	shanngayi	0043	=mat	=COMPL	=aux	=aux				
+jinghpaw	shanngayi	0043	=na	=SEQ	=other	=other				
+jinghpaw	shanngayi	0043	=she	=then	=other	=other				
+jinghpaw	shanngayi	0044	#	#	##	##				
+jinghpaw	shanngayi	0044	0	0	0:s	0		s	1123	bridging
+jinghpaw	shanngayi	0044	shi	3SG	pro.d:p	pro	d	p	1107	
+jinghpaw	shanngayi	0044	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0044	nrung	horn	np:l	np		l	1122	bridging
+jinghpaw	shanngayi	0044	=kaw	=LOC	=rn	=rn				
+jinghpaw	shanngayi	0044	hkra	hit	v:pred	v		pred		
+jinghpaw	shanngayi	0044	=mat	=COMPL	=aux	=aux				
+jinghpaw	shanngayi	0044	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0045	#	#	##	##				
+jinghpaw	shanngayi	0045	0	0	0:s	0		s	1123	
+jinghpaw	shanngayi	0045	shi	3SG.GEN	ln_pro.d:poss	ln_pro	d	poss	1107	
+jinghpaw	shanngayi	0045	=na	=GEN	=ln	=ln				
+jinghpaw	shanngayi	0045	nrung	horn	np:l	np		l	1122	
+jinghpaw	shanngayi	0045	=kaw	=LOC	=rn	=rn				
+jinghpaw	shanngayi	0045	hkra	hit	v:pred	v		pred		
+jinghpaw	shanngayi	0045	=mat	=COMPL	=aux	=aux				
+jinghpaw	shanngayi	0045	=na	=SEQ	=other	=other				
+jinghpaw	shanngayi	0045	=she	=then	=other	=other				
+jinghpaw	shanngayi	0046	#	#	##	##				
+jinghpaw	shanngayi	0046	shi	3SG	pro.d:dt	pro	d	dt	1107	
+jinghpaw	shanngayi	0046	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0046	kalangta	at.once	other	other				
+jinghpaw	shanngayi	0046	nrung	horn	np:s	np		s	1122	
+jinghpaw	shanngayi	0046	=mung	=also	=other	=other				
+jinghpaw	shanngayi	0046	daw	be.broken	nc	nc				
+jinghpaw	shanngayi	0046	daw	be.broken	v:pred	v		pred		
+jinghpaw	shanngayi	0046	re	LV	other	other				
+jinghpaw	shanngayi	0046	=na	=SEQ	=other	=other				
+jinghpaw	shanngayi	0046	=i	=SFP	=other	=other				
+jinghpaw	shanngayi	0047	#	#	##	##				
+jinghpaw	shanngayi	0047	nrung	horn	np:s	np		s	1122	
+jinghpaw	shanngayi	0047	daw	be.broken	v:pred	v		pred		
+jinghpaw	shanngayi	0047	=mat	=COMPL	=aux	=aux				
+jinghpaw	shanngayi	0047	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0047	rai	LV	other	other				
+jinghpaw	shanngayi	0047	=na	=SEQ	=other	=other				
+jinghpaw	shanngayi	0048	#	#	##	##				
+jinghpaw	shanngayi	0048	shi	3SG	pro.d:s	pro	d	s	1107	
+jinghpaw	shanngayi	0048	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0048	nta	house	np:g	np		g	1114	
+jinghpaw	shanngayi	0048	=de	=ALL	=rn	=rn				
+jinghpaw	shanngayi	0048	kalangta	at.once	other	other				
+jinghpaw	shanngayi	0048	gat-gat	run-RED	lv	lv				
+jinghpaw	shanngayi	0048	wa	return	v:pred	v		pred		
+jinghpaw	shanngayi	0048	=na	=SEQ	=other	=other				
+jinghpaw	shanngayi	0049	#	#	##	##				
+jinghpaw	shanngayi	0049	0	0	0.d:s	0	d	s	1107	
+jinghpaw	shanngayi	0049	hkrap	cry	v:pred	v		pred		
+jinghpaw	shanngayi	0049	=na	=SEQ	=other	=other				
+jinghpaw	shanngayi	0049	#	#	##	##				
+jinghpaw	shanngayi	0049	0	0	0.d:s	0	d	s	1107	
+jinghpaw	shanngayi	0049	wa	return	v:pred	v		pred		
+jinghpaw	shanngayi	0049	re	LV	other	other				
+jinghpaw	shanngayi	0049	=she	=then	=other	=other				
+jinghpaw	shanngayi	0050	#	#	##	##				
+jinghpaw	shanngayi	0050	shi	3SG.GEN	ln_pro.d:poss	ln_pro	d	poss	1107	
+jinghpaw	shanngayi	0050	=na	=GEN	=ln	=ln				
+jinghpaw	shanngayi	0050	gahpu	elder.brother	np.d:s_ds	np	d	s_ds	1113	
+jinghpaw	shanngayi	0050	tsun	say	v:pred	v		pred		
+jinghpaw	shanngayi	0050	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0051	#	#	##ds	##ds				
+jinghpaw	shanngayi	0051	ya	now	other	other				
+jinghpaw	shanngayi	0051	hpabaw	what	np:s	np		s		
+jinghpaw	shanngayi	0051	byin	happen	v:pred	v		pred		
+jinghpaw	shanngayi	0051	=wa	=VEN	=aux	=aux				
+jinghpaw	shanngayi	0051	=sa-ta	=CSM-Q	=rv	=rv				
+jinghpaw	shanngayi	0051	#	#	##	##				
+jinghpaw	shanngayi	0051	0	0	0.d:s_ds	0	d	s_ds	1113	
+jinghpaw	shanngayi	0051	nga	say	v:pred	v		pred		
+jinghpaw	shanngayi	0051	yang	when	other	other				
+jinghpaw	shanngayi	0052	#	#	##ds.neg	##ds.neg				
+jinghpaw	shanngayi	0052	ahpu	elder.brother	np.d:voc	np	d	voc	1113	
+jinghpaw	shanngayi	0052	ngai	1SG	ln_pro.1:poss	ln_pro	1	poss	1107	
+jinghpaw	shanngayi	0052	=na	=GEN	=ln	=ln				
+jinghpaw	shanngayi	0052	nrung	horn	np:s	np		s	1122	
+jinghpaw	shanngayi	0052	n-nga	NEG-be	v:pred	v		pred		
+jinghpaw	shanngayi	0052	=mat	=COMPL	=aux	=aux				
+jinghpaw	shanngayi	0052	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	shanngayi	0052	#	#	##	##				
+jinghpaw	shanngayi	0052	0	0	0.d:s	0	d	s	1107	
+jinghpaw	shanngayi	0052	ngu	say	v:pred	v		pred		
+jinghpaw	shanngayi	0052	=dat	=away	=aux	=aux				
+jinghpaw	shanngayi	0052	yang	when	other	other				
+jinghpaw	shanngayi	0052	=she	=then	=other	=other				
+jinghpaw	shanngayi	0053	#	#	##	##				
+jinghpaw	shanngayi	0053	jahkring	for.a.while	other	other				
+jinghpaw	shanngayi	0053	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0053	shi	3SG.GEN	ln_pro.d:poss	ln_pro	d	poss	1107	
+jinghpaw	shanngayi	0053	kahpu	elder.brother	np.d:s_ds	np	d	s_ds	1113	
+jinghpaw	shanngayi	0053	tsun	say	v:pred	v		pred		
+jinghpaw	shanngayi	0053	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0053	=i	=SFP	=other	=other				
+jinghpaw	shanngayi	0054	#	#	##ds.neg	##ds.neg				
+jinghpaw	shanngayi	0054	nang	2SG	pro.2:a	pro	2	a	1107	
+jinghpaw	shanngayi	0054	shaga	speak	np:p	np		p	1124	bridging
+jinghpaw	shanngayi	0054	=mung	=also	=other	=other				
+jinghpaw	shanngayi	0054	n-madat	NEG-listen	v:pred	v		pred		
+jinghpaw	shanngayi	0054	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0054	=gaw	=SFP	=other	=other				
+jinghpaw	shanngayi	0055	#	#	##ds	##ds				
+jinghpaw	shanngayi	0055	0	0	0.2:s	0	2	s	1107	
+jinghpaw	shanngayi	0055	ganing	how	nc	nc				
+jinghpaw	shanngayi	0055	hku	like	nc	nc				
+jinghpaw	shanngayi	0055	=na	=SEQ	nc	nc				
+jinghpaw	shanngayi	0055	dan	thus	nc	nc				
+jinghpaw	shanngayi	0055	re	COP	nc	nc				
+jinghpaw	shanngayi	0055	yu	look	v:pred	v		pred		
+jinghpaw	shanngayi	0055	#	#	##ds.neg	##ds.neg				
+jinghpaw	shanngayi	0055	ya	now	other	other				
+jinghpaw	shanngayi	0055	nang	2SG	ln_pro.2:poss	ln_pro	2	poss	1107	
+jinghpaw	shanngayi	0055	=na	=GEN	=ln	=ln				
+jinghpaw	shanngayi	0055	nrung	horn	np:s	np		s	1122	
+jinghpaw	shanngayi	0055	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0055	n-tsawm	NEG-be.beautiful	v:pred	v		pred		
+jinghpaw	shanngayi	0055	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	shanngayi	0055	=gaw	=SFP	=other	=other				
+jinghpaw	shanngayi	0056	#	#	##neg	##neg				
+jinghpaw	shanngayi	0056	shi	3SG.GEN	ln_pro.d:poss	ln_pro	d	poss	1107	
+jinghpaw	shanngayi	0056	=na	=GEN	=ln	=ln				
+jinghpaw	shanngayi	0056	nrung	horn	np:s	np		s	1122	
+jinghpaw	shanngayi	0056	=mung	=also	=other	=other				
+jinghpaw	shanngayi	0056	n-shaw-n-shun	NEG-be.uneven-NEG-COUP	v:pred	v		pred		
+jinghpaw	shanngayi	0056	rai	COP	other	other				
+jinghpaw	shanngayi	0056	=mat	=COMPL	=aux	=aux				
+jinghpaw	shanngayi	0056	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0056	=i	=SFP	=other	=other				
+jinghpaw	shanngayi	0057	#	#	##	##				
+jinghpaw	shanngayi	0057	nga	side	np:s	np		s		
+jinghpaw	shanngayi	0057	mi	one	rn_qfr	rn_qfr				
+jinghpaw	shanngayi	0057	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0057	galu	be.long	v:pred	v		pred		
+jinghpaw	shanngayi	0057	#	#	##	##				
+jinghpaw	shanngayi	0057	nga	side	np:s	np		s		
+jinghpaw	shanngayi	0057	mi	one	rn_qfr	rn_qfr				
+jinghpaw	shanngayi	0057	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0057	gadun	be.short	v:pred	v		pred		
+jinghpaw	shanngayi	0057	#	#	##	##				
+jinghpaw	shanngayi	0057	0	0	0:s	0		s	1122	
+jinghpaw	shanngayi	0057	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	shanngayi	0057	=hku	=like	=rn	=rn				
+jinghpaw	shanngayi	0057	byin	become	v:pred	v		pred		
+jinghpaw	shanngayi	0057	=mat	=COMPL	=aux	=aux				
+jinghpaw	shanngayi	0057	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0058	#	#	##neg	##neg				
+jinghpaw	shanngayi	0058	rai	COP	other	other				
+jinghpaw	shanngayi	0058	=na	=SEQ	=other	=other				
+jinghpaw	shanngayi	0058	=she	=then	=other	=other				
+jinghpaw	shanngayi	0058	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	shanngayi	0058	=kaw	=LOC	=rn	=rn				
+jinghpaw	shanngayi	0058	=na	=ABL	=rn	=rn				
+jinghpaw	shanngayi	0058	shi	3SG.GEN	ln_pro.d:poss	ln_pro	d	poss	1107	
+jinghpaw	shanngayi	0058	=na	=GEN	=ln	=ln				
+jinghpaw	shanngayi	0058	dai	that	ln_dem	ln_dem				
+jinghpaw	shanngayi	0058	nrung	horn	np:dt	np		dt	1122	
+jinghpaw	shanngayi	0058	dai	that	dem_pro:s	dem_pro		s	1122	
+jinghpaw	shanngayi	0058	=ma	=also	=other	=other				
+jinghpaw	shanngayi	0058	n-tsawm	NEG-be.beautiful	v:pred	v		pred		
+jinghpaw	shanngayi	0058	=mat	=COMPL	=aux	=aux				
+jinghpaw	shanngayi	0058	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0058	=i	=SFP	=other	=other				
+jinghpaw	shanngayi	0059	#	#	##	##				
+jinghpaw	shanngayi	0059	shi	3SG.GEN	ln_pro.d:poss	ln_pro	d	poss	1107	
+jinghpaw	shanngayi	0059	=na	=GEN	=ln	=ln				
+jinghpaw	shanngayi	0059	ndai	ndai	dem_pro:s	dem_pro		s	1122	
+jinghpaw	shanngayi	0059	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0059	ora	over.there	ln_dem	ln_dem				
+jinghpaw	shanngayi	0059	hpan	kind	np:obl	np		obl	1123	
+jinghpaw	shanngayi	0059	=hte	=COM	=rn	=rn				
+jinghpaw	shanngayi	0059	hkra	hit	v:pred	v		pred		
+jinghpaw	shanngayi	0059	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0059	re	LV	other	other				
+jinghpaw	shanngayi	0059	nga	be	other	other				
+jinghpaw	shanngayi	0059	=she	=then	=other	=other				
+jinghpaw	shanngayi	0060	#	#	##neg	##neg				
+jinghpaw	shanngayi	0060	nrung	horn	np:s	np		s	1122	
+jinghpaw	shanngayi	0060	=mung	=also	=other	=other				
+jinghpaw	shanngayi	0060	n-galu	NEG-be.long	v:pred	v		pred		
+jinghpaw	shanngayi	0060	=mat	=COMPL	=aux	=aux				
+jinghpaw	shanngayi	0060	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0061	#	#	##neg	##neg				
+jinghpaw	shanngayi	0061	ora	well	other	other				
+jinghpaw	shanngayi	0061	shi	3SG	np:s	np		s	1107	
+jinghpaw	shanngayi	0061	=na	=GEN	=rn	=rn				
+jinghpaw	shanngayi	0061	ala	man	np.d:other	np	d	other	1103	
+jinghpaw	shanngayi	0061	=ni	=PL	=rn	=rn				
+jinghpaw	shanngayi	0061	ram	about	other	other				
+jinghpaw	shanngayi	0061	n-galu	NEG-be.long	v:pred	v		pred		
+jinghpaw	shanngayi	0061	=mat	=COMPL	=aux	=aux				
+jinghpaw	shanngayi	0061	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0061	=i	=SFP	=other	=other				
+jinghpaw	shanngayi	0062	#	#	##	##				
+jinghpaw	shanngayi	0062	0	0	0:p	0		p	1122	
+jinghpaw	shanngayi	0062	dai	that	ln_dem	ln_dem				
+jinghpaw	shanngayi	0062	jaugawng-lawa	hunter-man	np.h:a	np	h	a	1120	
+jinghpaw	shanngayi	0062	=e	=AGT	=rn	=rn				
+jinghpaw	shanngayi	0062	gap	shoot	v:pred	v		pred		
+jinghpaw	shanngayi	0062	=kau	=away	=aux	=aux				
+jinghpaw	shanngayi	0062	=ya	=BEN	=aux	=aux				
+jinghpaw	shanngayi	0062	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0062	majaw	because	other	other				
+jinghpaw	shanngayi	0063	#	#	##	##				
+jinghpaw	shanngayi	0063	ya	now	nc	nc				
+jinghpaw	shanngayi	0063	du	arrive	nc	nc				
+jinghpaw	shanngayi	0063	hkra	hkra	nc	nc				
+jinghpaw	shanngayi	0063	ya	now	np:other	np		other		
+jinghpaw	shanngayi	0063	nga	say	other	other				
+jinghpaw	shanngayi	0063	jang	when	other	other				
+jinghpaw	shanngayi	0063	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0063	shannga-la	deer-male	np.d:dt_poss	np	d	dt_poss	1103	
+jinghpaw	shanngayi	0063	=ni	=PL	=rn	=rn				
+jinghpaw	shanngayi	0063	=sha	=only	=other	=other				
+jinghpaw	shanngayi	0063	nrung	horn	np:s	np		s	1104	
+jinghpaw	shanngayi	0063	galu-lu	be.long-RED	other	other				
+jinghpaw	shanngayi	0063	tu	grow	v:pred	v		pred		
+jinghpaw	shanngayi	0063	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0064	#	#	##	##				
+jinghpaw	shanngayi	0064	shannga-yi	deer-female	np.d:dt	np	d	dt	1102	
+jinghpaw	shanngayi	0064	=ni	=PL	=rn	=rn				
+jinghpaw	shanngayi	0064	=gaw	=TOP	=other	=other				
+jinghpaw	shanngayi	0064	ndai	ndai	dem_pro:other	dem_pro		other		
+jinghpaw	shanngayi	0064	=hku	=like	=rn	=rn				
+jinghpaw	shanngayi	0064	nrung	horn	np.d:s	np	d	s	1104	
+jinghpaw	shanngayi	0064	=ni	=PL	=rn	=rn				
+jinghpaw	shanngayi	0064	=sha	=only	=other	=other				
+jinghpaw	shanngayi	0064	tu	grow	v:pred	v		pred		
+jinghpaw	shanngayi	0064	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0064	#	#	##	##				
+jinghpaw	shanngayi	0064	0	0	0:s	0		s		
+jinghpaw	shanngayi	0064	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	shanngayi	0064	=hku	=like	=rn	=rn				
+jinghpaw	shanngayi	0064	byin	become	v:pred	v		pred		
+jinghpaw	shanngayi	0064	=mat	=COMPL	=aux	=aux				
+jinghpaw	shanngayi	0064	=ai	=DECL	=rv	=rv				
+jinghpaw	shanngayi	0064	=da	=HS	=other	=other				

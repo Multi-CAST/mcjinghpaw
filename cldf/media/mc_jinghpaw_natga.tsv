@@ -1,0 +1,690 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+jinghpaw	natga	0001	#	#	#nc	#nc				
+jinghpaw	natga	0001	ya	now	nc	nc				
+jinghpaw	natga	0001	ndai	this	nc	nc				
+jinghpaw	natga	0001	gabaw	title	nc	nc				
+jinghpaw	natga	0001	=gaw	=TOP	nc	nc				
+jinghpaw	natga	0001	ndai	this	nc	nc				
+jinghpaw	natga	0001	maumwi	story	nc	nc				
+jinghpaw	natga	0001	=a	=GEN	nc	nc				
+jinghpaw	natga	0001	gabaw	title	nc	nc				
+jinghpaw	natga	0001	=gaw	=TOP	nc	nc				
+jinghpaw	natga	0002	ga	word	nc	nc				
+jinghpaw	natga	0002	shaga	speak	nc	nc				
+jinghpaw	natga	0002	jaw	correct	nc	nc				
+jinghpaw	natga	0002	ra	need	nc	nc				
+jinghpaw	natga	0002	=ai	=DECL	nc	nc				
+jinghpaw	natga	0002	nga	QUOT	nc	nc				
+jinghpaw	natga	0002	nan	INTNS	nc	nc				
+jinghpaw	natga	0002	tsun	say	nc	nc				
+jinghpaw	natga	0002	=ai	=DECL.NMLZ	nc	nc				
+jinghpaw	natga	0002	re	COP	nc	nc				
+jinghpaw	natga	0003	a	well	nc	nc				
+jinghpaw	natga	0004	#	#	##	##				
+jinghpaw	natga	0004	anhte	1PL	pro.1:s_ds	pro	1	s_ds	801	unused
+jinghpaw	natga	0004	shinggyim-masha	human.being	np.h:appos	np	h	appos	801	
+jinghpaw	natga	0004	=ni	=PL	=rn	=rn				
+jinghpaw	natga	0004	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0005	e	well	other	other				
+jinghpaw	natga	0006	#	#	#ac	#ac				
+jinghpaw	natga	0006	#	#	#rc.h:obl	#rc	h	obl		
+jinghpaw	natga	0006	tinang	oneself	np.h:s	np	h	s		
+jinghpaw	natga	0006	grai	very	other	other				
+jinghpaw	natga	0006	hkuhkau	intimate	v:pred	v		pred		
+jinghpaw	natga	0006	=ai	=DECL.NMLZ	=rn	=rn				
+jinghpaw	natga	0006	%	%	%	%				
+jinghpaw	natga	0006	=hte	=COM	=rn	=rn				
+jinghpaw	natga	0006	0	0	0.1:s	0	1	s	801	
+jinghpaw	natga	0006	shaga	speak	v:pred	v		pred		
+jinghpaw	natga	0006	jang	when	other	other				
+jinghpaw	natga	0006	%	%	%	%				
+jinghpaw	natga	0007	e	INTJ	other	other				
+jinghpaw	natga	0007	ning	sister	pn_np.h:voc	pn_np	h	voc		
+jinghpaw	natga	0008	e	INTJ	other	other				
+jinghpaw	natga	0008	hpu	brother	pn_np.h:voc	pn_np	h	voc		
+jinghpaw	natga	0009	e	INTJ	other	other				
+jinghpaw	natga	0009	wa	father	pn_np.h:voc	pn_np	h	voc		
+jinghpaw	natga	0010	e	INTJ	other	other				
+jinghpaw	natga	0010	hkau	friend	pn_np.h:voc	pn_np	h	voc		
+jinghpaw	natga	0011	e	INTJ	other	other				
+jinghpaw	natga	0011	nu	mother	pn_np.h:voc	pn_np	h	voc		
+jinghpaw	natga	0011	nga	QUOT	other	other				
+jinghpaw	natga	0011	=na	=SEQ	=other	=other				
+jinghpaw	natga	0011	shaga	call	v:pred	v		pred		
+jinghpaw	natga	0011	=ra	=need	=aux	=aux				
+jinghpaw	natga	0011	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0011	=da	=HS	=other	=other				
+jinghpaw	natga	0012	#	#	##	##				
+jinghpaw	natga	0012	#	#	#ac	#ac				
+jinghpaw	natga	0012	hkau	friend	np.h:voc	np	h	voc		
+jinghpaw	natga	0012	=sha	=only	=other	=other				
+jinghpaw	natga	0012	0	0	0.1:s	0	1	s	801	
+jinghpaw	natga	0012	nga	say	v:pred	v		pred		
+jinghpaw	natga	0012	jang	when	other	other				
+jinghpaw	natga	0012	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0012	%	%	%	%				
+jinghpaw	natga	0013	#	#	##ds	##ds				
+jinghpaw	natga	0013	0	0	0:s	0		s		
+jinghpaw	natga	0013	jasam-ga	foreign-language	np:pred	np		pred		
+jinghpaw	natga	0013	re	COP	cop	cop				
+jinghpaw	natga	0013	%	%	%	%				
+jinghpaw	natga	0013	0	0	0.h:s_ds	0	h	s_ds		
+jinghpaw	natga	0013	nga	say	v:pred	v		pred		
+jinghpaw	natga	0013	=ma	=PL	=aux	=aux				
+jinghpaw	natga	0013	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0014	e	well	other	other				
+jinghpaw	natga	0015	#	#	##	##				
+jinghpaw	natga	0015	#	#	#ac.neg	#ac.neg				
+jinghpaw	natga	0015	e	INTJ	other	other				
+jinghpaw	natga	0015	manang-wa	friend	pn_np.h:voc	pn_np	h	voc		
+jinghpaw	natga	0016	e	INTJ	other	other				
+jinghpaw	natga	0016	ning	sister	pn_np.h:voc	pn_np	h	voc		
+jinghpaw	natga	0016	nga	QUOT	other	other				
+jinghpaw	natga	0016	0	0	0.1:s_ds	0	1	s_ds	801	
+jinghpaw	natga	0016	n-shaga	NEG-call	v:pred	v		pred		
+jinghpaw	natga	0016	jang	when	other	other				
+jinghpaw	natga	0016	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0016	%	%	%	%				
+jinghpaw	natga	0017	#	#	##ds	##ds				
+jinghpaw	natga	0017	0	0	0:s	0		s		
+jinghpaw	natga	0017	nat-ga	spirit-language	np:pred	np		pred		
+jinghpaw	natga	0017	re	COP	cop	cop				
+jinghpaw	natga	0017	%	%	%	%				
+jinghpaw	natga	0017	0	0	0.h:s_ds	0	h	s_ds		
+jinghpaw	natga	0017	nga	QUOT	other	other				
+jinghpaw	natga	0017	=na	=SEQ	=other	=other				
+jinghpaw	natga	0017	tsun	say	v:pred	v		pred		
+jinghpaw	natga	0017	=ma	=PL	=aux	=aux				
+jinghpaw	natga	0017	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0018	#	#	##nc	##nc				
+jinghpaw	natga	0018	0	0	nc	nc				
+jinghpaw	natga	0018	ndai	this	nc	nc				
+jinghpaw	natga	0018	maumwi	story	nc	nc				
+jinghpaw	natga	0018	=hpe	=ACC	nc	nc				
+jinghpaw	natga	0018	ning	thus	nc	nc				
+jinghpaw	natga	0018	nga	QUOT	nc	nc				
+jinghpaw	natga	0018	=ma	=also	nc	nc				
+jinghpaw	natga	0018	hkai	tell	nc	nc				
+jinghpaw	natga	0018	=ma	=PL	nc	nc				
+jinghpaw	natga	0018	=ai	=DECL	nc	nc				
+jinghpaw	natga	0019	#	#	##	##				
+jinghpaw	natga	0019	Moi	long.ago	np:other	np		other		
+jinghpaw	natga	0019	mare	village	ln_np	ln_np				
+jinghpaw	natga	0019	langai	one	ln_qfr	ln_qfr				
+jinghpaw	natga	0019	=kaw	=LOC	=ln	=ln				
+jinghpaw	natga	0019	=na	=GEN	=ln	=ln				
+jinghpaw	natga	0019	nta-htingbu	house-neighbor	ln_np	ln_np				
+jinghpaw	natga	0019	numsha	woman	np.h:a	np	h	a	802	new
+jinghpaw	natga	0019	lahkawng	two	rn_qfr	rn_qfr				
+jinghpaw	natga	0019	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0020	e	well	other	other				
+jinghpaw	natga	0021	yi	field	np:p	np		p	803	new
+jinghpaw	natga	0021	hkran	cut	lv	lv				
+jinghpaw	natga	0021	sawm	prepare	v:pred	v		pred		
+jinghpaw	natga	0021	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	natga	0021	ten	time	other	other				
+jinghpaw	natga	0022	hkran	cut	nc	nc				
+jinghpaw	natga	0022	sawm	prepare	nc	nc				
+jinghpaw	natga	0022	=ai	=DECL	nc	nc				
+jinghpaw	natga	0022	=da	=HS	nc	nc				
+jinghpaw	natga	0023	#	#	##	##				
+jinghpaw	natga	0023	0	0	0.h:a	0	h	a	802	
+jinghpaw	natga	0023	0	0	0:p	0		p	803	
+jinghpaw	natga	0023	hkran	cut	lv	lv				
+jinghpaw	natga	0023	sawm	prepare	v:pred	v		pred		
+jinghpaw	natga	0023	=ma	=PL	=aux	=aux				
+jinghpaw	natga	0023	yang	when	other	other				
+jinghpaw	natga	0024	#	#	##	##				
+jinghpaw	natga	0024	dai-na	that-night	np:other	np		other		
+jinghpaw	natga	0024	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0025	#	#	##ds	##ds				
+jinghpaw	natga	0025	ning	sister	pn_np.h:voc	pn_np	h	voc	804	bridging
+jinghpaw	natga	0025	=e	=SFP	=other	=other				
+jinghpaw	natga	0025	0	0	0.1:s	0	1	s	805	bridging
+jinghpaw	natga	0026	na	2SG.GEN	ln_pro.2:poss	ln_pro	2	poss	804	
+jinghpaw	natga	0026	=a	=GEN	=ln	=ln				
+jinghpaw	natga	0026	yi-wa	field-hut	np:g	np		g	806	new
+jinghpaw	natga	0026	=de	=ALL	=rn	=rn				
+jinghpaw	natga	0026	wa	go	lv	lv				
+jinghpaw	natga	0026	yup	sleep	v:pred	v		pred		
+jinghpaw	natga	0026	=na	=IRR	=rv	=rv				
+jinghpaw	natga	0026	=yaw	=SFP	=other	=other				
+jinghpaw	natga	0026	%	%	%	%				
+jinghpaw	natga	0027	e	well	other	other				
+jinghpaw	natga	0028	nga	QUOT	other	other				
+jinghpaw	natga	0028	=na	=SEQ	=other	=other				
+jinghpaw	natga	0028	shan	3DU	pro.h:s_ds	pro	h	s_ds	802	
+jinghpaw	natga	0028	shada	each.other	other	other				
+jinghpaw	natga	0028	dai	that	dem_pro:obl	dem_pro		obl		
+jinghpaw	natga	0028	=hku	=like	=rn	=rn				
+jinghpaw	natga	0028	tsun	say	v:pred	v		pred		
+jinghpaw	natga	0028	=hkat	=RECIP	=aux	=aux				
+jinghpaw	natga	0028	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0028	=da	=HS	=other	=other				
+jinghpaw	natga	0029	#	#	##	##				
+jinghpaw	natga	0029	0	0	0.h:s_ds	0	h	s_ds	802	
+jinghpaw	natga	0029	tsun	say	v:pred	v		pred		
+jinghpaw	natga	0029	=na	=SEQ	=other	=other				
+jinghpaw	natga	0029	#	#	##	##				
+jinghpaw	natga	0029	0	0	0.h:a	0	h	a	802	
+jinghpaw	natga	0029	yi	field	np:p	np		p	803	
+jinghpaw	natga	0029	hkran	cut	lv	lv				
+jinghpaw	natga	0029	sawm	prepare	v:pred	v		pred		
+jinghpaw	natga	0029	=ai	=NMLZ	=rv	=rv				
+jinghpaw	natga	0029	ten	time	other	other				
+jinghpaw	natga	0030	#	#	#nc	#nc				
+jinghpaw	natga	0030	shana	night	nc	nc				
+jinghpaw	natga	0030	=de	=ALL	nc	nc				
+jinghpaw	natga	0030	du	arrive	nc	nc				
+jinghpaw	natga	0030	jang	when	nc	nc				
+jinghpaw	natga	0030	=gaw	=TOP	nc	nc				
+jinghpaw	natga	0031	lai	well	nc	nc				
+jinghpaw	natga	0032	#	#	##	##				
+jinghpaw	natga	0032	manang-jan	friend-female	np.h:dt_a	np	h	dt_a	804	
+jinghpaw	natga	0032	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0032	manang	friend	np.h:a	np	h	a	804	
+jinghpaw	natga	0032	langai	one	rn_qfr	rn_qfr				
+jinghpaw	natga	0032	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0032	langai	one	np.h:p	np	h	p	805	
+jinghpaw	natga	0032	=hpe	=ACC	=rn	=rn				
+jinghpaw	natga	0032	la	wait	v:pred	v		pred		
+jinghpaw	natga	0033	#	#	##ds	##ds				
+jinghpaw	natga	0033	0	0	0.h:s	0	h	s	805	
+jinghpaw	natga	0033	galoi	when	np:other	np		other		
+jinghpaw	natga	0033	wa	come	v:pred	v		pred		
+jinghpaw	natga	0033	=na	=IRR	=rv	=rv				
+jinghpaw	natga	0033	=kun	=Q	=other	=other				
+jinghpaw	natga	0034	#	#	##ds	##ds				
+jinghpaw	natga	0034	0	0	0.h:s	0	h	s	805	
+jinghpaw	natga	0034	galoi	when	np:other	np		other		
+jinghpaw	natga	0034	wa	come	v:pred	v		pred		
+jinghpaw	natga	0034	=na	=IRR	=rv	=rv				
+jinghpaw	natga	0034	=kun	=Q	=other	=other				
+jinghpaw	natga	0035	#	#	##ds	##ds				
+jinghpaw	natga	0035	shi	3SG	pro.h:s	pro	h	s	805	
+jinghpaw	natga	0035	yi-wa	field-hut	np:g	np		g	806	
+jinghpaw	natga	0035	=de	=ALL	=rn	=rn				
+jinghpaw	natga	0035	galoi	when	np:other	np		other		
+jinghpaw	natga	0035	wa	come	v:pred	v		pred		
+jinghpaw	natga	0035	=na	=IRR	=rv	=rv				
+jinghpaw	natga	0035	=kun	=Q	=other	=other				
+jinghpaw	natga	0035	#	#	##	##				
+jinghpaw	natga	0035	0	0	0.h:a	0	h	a	804	
+jinghpaw	natga	0035	0	0	0.h:p	0	h	p	805	
+jinghpaw	natga	0035	ngu	QUOT	other	other				
+jinghpaw	natga	0035	=na	=SEQ	=other	=other				
+jinghpaw	natga	0035	la	wait	v:pred	v		pred		
+jinghpaw	natga	0035	=nga	=CONT	=aux	=aux				
+jinghpaw	natga	0035	jang	when	other	other				
+jinghpaw	natga	0036	#	#	##	##				
+jinghpaw	natga	0036	dai	that	ln_dem	ln_dem				
+jinghpaw	natga	0036	shi	3SG.GEN	ln_pro.h:poss	ln_pro	h	poss	804	
+jinghpaw	natga	0036	manang-jan	friend-female	np.h:s	np	h	s	805	
+jinghpaw	natga	0036	=mung	=also	=other	=other				
+jinghpaw	natga	0036	#	#	#ac.neg	#ac.neg				
+jinghpaw	natga	0036	0	0	0.h:a	0	h	a	805	
+jinghpaw	natga	0036	hpa	what	np:p	np		p		
+jinghpaw	natga	0036	n-tsun	NEG-say	vother:pred	vother		pred		
+jinghpaw	natga	0036	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	natga	0036	=sha	=without	=other	=other				
+jinghpaw	natga	0036	%	%	%	%				
+jinghpaw	natga	0036	nta	house	np:g	np		g	807	bridging
+jinghpaw	natga	0036	=de	=ALL	=rn	=rn				
+jinghpaw	natga	0036	wa	return	v:pred	v		pred		
+jinghpaw	natga	0036	=mat	=COMPL	=aux	=aux				
+jinghpaw	natga	0036	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0036	=da	=HS	=other	=other				
+jinghpaw	natga	0037	#	#	##	##				
+jinghpaw	natga	0037	dai	that	ln_dem	ln_dem				
+jinghpaw	natga	0037	majaw	because	np:other	np		other		
+jinghpaw	natga	0037	shi	3SG	pro.h:s	pro	h	s	804	
+jinghpaw	natga	0037	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0037	marawn	shout	v:pred	v		pred		
+jinghpaw	natga	0037	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0037	=da	=HS	=other	=other				
+jinghpaw	natga	0038	#	#	##neg	##neg				
+jinghpaw	natga	0038	#	#	#ac	#ac				
+jinghpaw	natga	0038	shi	3SG	pro.h:a	pro	h	a	804	
+jinghpaw	natga	0038	manang-jan	friend-female	np.h:p	np	h	p	805	
+jinghpaw	natga	0038	=hpe	=ACC	=rn	=rn				
+jinghpaw	natga	0038	e	well	other	other				
+jinghpaw	natga	0038	#	#	#ac	#ac				
+jinghpaw	natga	0038	0	0	0.h:s	0	h	s	805	
+jinghpaw	natga	0038	shi	3SG.GEN	ln_pro.h:poss	ln_pro	h	poss	804	
+jinghpaw	natga	0038	yi-wa	field-hut	np:g	np		g	806	
+jinghpaw	natga	0038	=de	=ALL	=rn	=rn				
+jinghpaw	natga	0038	wa	come	lv	lv				
+jinghpaw	natga	0038	yup	sleep	v:pred	v		pred		
+jinghpaw	natga	0038	=na	=IRR	=rv	=rv				
+jinghpaw	natga	0038	matu	in.order.to	other	other				
+jinghpaw	natga	0038	%	%	%	%				
+jinghpaw	natga	0039	e	well	other	other				
+jinghpaw	natga	0040	e	INTJ	other	other				
+jinghpaw	natga	0040	ning	sister	pn_np.h:voc	pn_np	h	voc	805	
+jinghpaw	natga	0040	ngu	say	v:pred	v		pred		
+jinghpaw	natga	0040	tim	but	other	other				
+jinghpaw	natga	0040	%	%	%	%				
+jinghpaw	natga	0041	0	0	0.h:a	0	h	a	805	
+jinghpaw	natga	0041	0	0	0.h:p	0	h	p	804	
+jinghpaw	natga	0041	n-htan	NEG-answer	v:pred	v		pred		
+jinghpaw	natga	0041	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0041	=da	=HS	=other	=other				
+jinghpaw	natga	0042	#	#	##	##				
+jinghpaw	natga	0042	0	0	0.h:s_ds	0	h	s_ds	804	
+jinghpaw	natga	0042	e	INTJ	other	other				
+jinghpaw	natga	0042	ning	sister	pn_np.h:voc	pn_np	h	voc	805	
+jinghpaw	natga	0042	gade	how.many	ln_qfr	ln_qfr				
+jinghpaw	natga	0042	lang	time	np:other	np		other		
+jinghpaw	natga	0042	tsun	say	v:pred	v		pred		
+jinghpaw	natga	0042	tim	but	other	other				
+jinghpaw	natga	0043	#	#	##	##				
+jinghpaw	natga	0043	#	#	#ac	#ac				
+jinghpaw	natga	0043	shi	3SG	pro.h:s_ds	pro	h	s_ds	804	
+jinghpaw	natga	0043	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0043	ning	sister	np.h:voc	np	h	voc	805	
+jinghpaw	natga	0043	=e	=SFP	=other	=other				
+jinghpaw	natga	0043	ngu	say	v:pred	v		pred		
+jinghpaw	natga	0043	yang	when	other	other				
+jinghpaw	natga	0043	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0043	%	%	%	%				
+jinghpaw	natga	0044	#	#	#ac	#ac				
+jinghpaw	natga	0044	0	0	0.h:s_ds	0	h	s_ds	804	
+jinghpaw	natga	0044	ning	sister	np.h:voc	np	h	voc	805	
+jinghpaw	natga	0044	=sha	=only	=other	=other				
+jinghpaw	natga	0044	ngu	say	v:pred	v		pred		
+jinghpaw	natga	0044	yang	when	other	other				
+jinghpaw	natga	0044	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0044	%	%	%	%				
+jinghpaw	natga	0045	oi	INTJ	other	other				
+jinghpaw	natga	0045	0	0	0.d:s_ds	0	d	s_ds	808	new
+jinghpaw	natga	0045	nga	say	v:pred	v		pred		
+jinghpaw	natga	0045	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0045	=da	=HS	=other	=other				
+jinghpaw	natga	0046	#	#	##ds.neg	##ds.neg				
+jinghpaw	natga	0046	um	INTJ	other	other				
+jinghpaw	natga	0046	ndai	this	dem_pro.d:s	dem_pro	d	s	808	
+jinghpaw	natga	0046	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0046	nye	1SG.GEN	ln_pro.1:poss	ln_pro	1	poss	804	
+jinghpaw	natga	0046	manang-jan	friend-female	np.h:pred	np	h	pred	805	
+jinghpaw	natga	0046	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0046	n-rai	NEG-COP	cop	cop				
+jinghpaw	natga	0046	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	natga	0047	#	#	##ds	##ds				
+jinghpaw	natga	0047	#	#	#ds_ac	#ds_ac				
+jinghpaw	natga	0047	ngai	1SG	pro.1:s_ds	pro	1	s_ds	804	
+jinghpaw	natga	0047	=mung	=also	=other	=other				
+jinghpaw	natga	0047	galoi	when	np:other	np		other		
+jinghpaw	natga	0047	=mung	=also	=other	=other				
+jinghpaw	natga	0047	e	INTJ	other	other				
+jinghpaw	natga	0047	ning	sister	pn_np.h:voc	pn_np	h	voc	805	
+jinghpaw	natga	0047	ngu	say	v:pred	v		pred		
+jinghpaw	natga	0047	yang	when	other	other				
+jinghpaw	natga	0047	%	%	%	%				
+jinghpaw	natga	0048	shi	3SG	pro.h:s_ds	pro	h	s_ds	805	
+jinghpaw	natga	0048	=mung	=also	=other	=other				
+jinghpaw	natga	0048	0	0	0.1:p	0	1	p	804	
+jinghpaw	natga	0048	e	INTJ	other	other				
+jinghpaw	natga	0048	ning	sister	pn_np.h:voc	pn_np	h	voc	804	
+jinghpaw	natga	0048	nga	QUOT	other	other				
+jinghpaw	natga	0048	=na	=SEQ	=other	=other				
+jinghpaw	natga	0048	htan	answer	v:pred	v		pred		
+jinghpaw	natga	0048	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0049	#	#	##ds.neg	##ds.neg				
+jinghpaw	natga	0049	ya	now	np:other	np		other		
+jinghpaw	natga	0049	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0049	#	#	#ds_cc	#ds_cc				
+jinghpaw	natga	0049	0	0	0.d:a_ds	0	d	a_ds	808	
+jinghpaw	natga	0049	0	0	0.1:p	0	1	p	804	
+jinghpaw	natga	0049	ning	sister	np.h:voc	np	h	voc		
+jinghpaw	natga	0049	=sha	=only	=other	=other				
+jinghpaw	natga	0049	nga	QUOT	other	other				
+jinghpaw	natga	0049	=na	=SEQ	=other	=other				
+jinghpaw	natga	0049	htan	answer	v:pred	v		pred		
+jinghpaw	natga	0049	=ai	=NMLZ	=rv	=rv				
+jinghpaw	natga	0049	%	%	%	%				
+jinghpaw	natga	0049	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0050	ndai	this	np.d:s	np	d	s	808	
+jinghpaw	natga	0050	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0050	masha	person	np.h:pred	np	h	pred		
+jinghpaw	natga	0050	n-rai	NEG-COP	cop	cop				
+jinghpaw	natga	0050	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	natga	0050	#	#	##	##				
+jinghpaw	natga	0050	0	0	0.h:s_ds	0	h	s_ds	804	
+jinghpaw	natga	0050	nga	say	v:pred	v		pred		
+jinghpaw	natga	0050	=na	=SEQ	=other	=other				
+jinghpaw	natga	0051	#	#	##	##				
+jinghpaw	natga	0051	shi	3SG	pro.h:s	pro	h	s	804	
+jinghpaw	natga	0051	nta	house	np:g	np		g	807	
+jinghpaw	natga	0051	=de	=ALL	=rn	=rn				
+jinghpaw	natga	0051	wa	return	v:pred	v		pred		
+jinghpaw	natga	0051	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0051	=da	=HS	=other	=other				
+jinghpaw	natga	0052	#	#	##	##				
+jinghpaw	natga	0052	0	0	0.h:s	0	h	s	804	
+jinghpaw	natga	0052	nta	house	np:g	np		g	807	
+jinghpaw	natga	0052	=de	=ALL	=rn	=rn				
+jinghpaw	natga	0052	gat-gat	run-RED	lv	lv				
+jinghpaw	natga	0052	hkrawng	reach	v:pred	v		pred		
+jinghpaw	natga	0052	=na	=SEQ	=other	=other				
+jinghpaw	natga	0052	#	#	##ds	##ds				
+jinghpaw	natga	0052	ndai	this	dem_pro.d:s	dem_pro	d	s	808	
+jinghpaw	natga	0052	nat	spirit	np:pred	np		pred		
+jinghpaw	natga	0052	rai	COP	cop	cop				
+jinghpaw	natga	0052	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	natga	0052	#	#	##	##				
+jinghpaw	natga	0052	0	0	0.h:s_ds	0	h	s_ds	804	
+jinghpaw	natga	0052	ngu	say	v:pred	v		pred		
+jinghpaw	natga	0052	=na	=SEQ	=other	=other				
+jinghpaw	natga	0053	#	#	##	##				
+jinghpaw	natga	0053	0	0	0.h:s	0	h	s	804	
+jinghpaw	natga	0053	wa	return	v:pred	v		pred		
+jinghpaw	natga	0053	jang	when	other	other				
+jinghpaw	natga	0053	=she	=then	=other	=other				
+jinghpaw	natga	0054	#	#	##	##				
+jinghpaw	natga	0054	htaw	that	ln_dem	ln_dem				
+jinghpaw	natga	0054	shi	3SG.GEN	ln_pro.h:poss	ln_pro	h	poss	804	
+jinghpaw	natga	0054	=a	=GEN	=ln	=ln				
+jinghpaw	natga	0054	manang-jan	friend-female	np.h:s	np	h	s	805	
+jinghpaw	natga	0054	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0055	e	well	other	other				
+jinghpaw	natga	0056	galeng	lay	v:pred	v		pred		
+jinghpaw	natga	0056	=taw	=CONT	=aux	=aux				
+jinghpaw	natga	0056	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0056	=da	=HS	=other	=other				
+jinghpaw	natga	0057	#	#	##	##				
+jinghpaw	natga	0057	galeng	lay	nc	nc				
+jinghpaw	natga	0057	=taw	=CONT	nc	nc				
+jinghpaw	natga	0057	#	#	#cc:g	#cc		g		
+jinghpaw	natga	0057	0	0	0.h:s	0	h	s	805	
+jinghpaw	natga	0057	nba	blanket	np:other	np		other		
+jinghpaw	natga	0057	htum	complete	rn	rn				
+jinghpaw	natga	0057	gum	full	rn	rn				
+jinghpaw	natga	0057	hproi	sufficient	rn	rn				
+jinghpaw	natga	0057	rai	COP	other	other				
+jinghpaw	natga	0057	=na	=SEQ	=other	=other				
+jinghpaw	natga	0057	galeng	lay	v:pred	v		pred		
+jinghpaw	natga	0057	=taw	=CONT	=aux	=aux				
+jinghpaw	natga	0057	%	%	%	%				
+jinghpaw	natga	0057	=kaw	=LOC	=rn	=rn				
+jinghpaw	natga	0057	0	0	0.h:s	0	h	s	804	
+jinghpaw	natga	0057	bai	again	other	other				
+jinghpaw	natga	0057	wa	return	v:pred	v		pred		
+jinghpaw	natga	0057	jang	when	other	other				
+jinghpaw	natga	0057	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0058	#	#	##	##				
+jinghpaw	natga	0058	0	0	0.h:s	0	h	s	804	
+jinghpaw	natga	0058	bai	again	other	other				
+jinghpaw	natga	0058	du	arrive	v:pred	v		pred		
+jinghpaw	natga	0058	=wa	=VEN	=aux	=aux				
+jinghpaw	natga	0058	jang	when	other	other				
+jinghpaw	natga	0058	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0058	#	#	#nc	#nc				
+jinghpaw	natga	0058	shi	3SG	nc_pro.h	nc_pro	h		804	
+jinghpaw	natga	0058	=mung	=also	nc	nc				
+jinghpaw	natga	0058	#	#	##ds	##ds				
+jinghpaw	natga	0058	nang	2SG	pro.2:voc	pro	2	voc	805	
+jinghpaw	natga	0058	=le	=SFP	=other	=other				
+jinghpaw	natga	0058	#	#	#ds_ac	#ds_ac				
+jinghpaw	natga	0058	0	0	0.2:a	0	2	a	805	
+jinghpaw	natga	0058	ngai	1SG	pro.1:p	pro	1	p	804	
+jinghpaw	natga	0058	=hpe	=ACC	=rn	=rn				
+jinghpaw	natga	0058	shakram	salute	v:pred	v		pred		
+jinghpaw	natga	0058	=da	=RES	=aux	=aux				
+jinghpaw	natga	0058	=na	=SEQ	=other	=other				
+jinghpaw	natga	0058	%	%	%	%				
+jinghpaw	natga	0059	nang	2SG	pro.2:s	pro	2	s	805	
+jinghpaw	natga	0059	=hkrai	=only	=other	=other				
+jinghpaw	natga	0059	hpa	what	np:other	np		other		
+jinghpaw	natga	0059	rai	COP	other	other				
+jinghpaw	natga	0059	wa	return	v:pred	v		pred		
+jinghpaw	natga	0059	=nta	=Q	=rv	=rv				
+jinghpaw	natga	0060	#	#	##ds	##ds				
+jinghpaw	natga	0060	e	INTJ	other	other				
+jinghpaw	natga	0060	ngai	1SG	pro.1:s	pro	1	s	805	
+jinghpaw	natga	0060	=mung	=also	=other	=other				
+jinghpaw	natga	0060	machyi	sick	v:pred	v		pred		
+jinghpaw	natga	0060	=na	=SEQ	=other	=other				
+jinghpaw	natga	0060	#	#	##ds	##ds				
+jinghpaw	natga	0060	0	0	0.1:s	0	1	s	805	
+jinghpaw	natga	0060	wa	return	v:pred	v		pred		
+jinghpaw	natga	0060	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0060	=law	=SFP	=other	=other				
+jinghpaw	natga	0061	#	#	##ds.neg	##ds.neg				
+jinghpaw	natga	0061	ning	sister	np.h:voc	np	h	voc	804	
+jinghpaw	natga	0061	=e	=SFP	=other	=other				
+jinghpaw	natga	0061	nang	2SG	pro.2:voc	pro	2	voc	804	
+jinghpaw	natga	0061	=e	=SFP	=other	=other				
+jinghpaw	natga	0061	0	0	0.1:s_ds	0	1	s_ds	805	
+jinghpaw	natga	0061	n-tsun	NEG-say	v:pred	v		pred		
+jinghpaw	natga	0061	=na	=SEQ	=other	=other				
+jinghpaw	natga	0061	#	#	##ds	##ds				
+jinghpaw	natga	0061	0	0	0.1:s	0	1	s	805	
+jinghpaw	natga	0061	wa	return	v:pred	v		pred		
+jinghpaw	natga	0061	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0062	#	#	##ds	##ds				
+jinghpaw	natga	0062	0	0	0.1:s	0	1	s	805	
+jinghpaw	natga	0062	grai	very	other	other				
+jinghpaw	natga	0062	shut	mistake	v:pred	v		pred		
+jinghpaw	natga	0062	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	natga	0062	#	#	##	##				
+jinghpaw	natga	0062	0	0	0.h:s_ds	0	h	s_ds	805	
+jinghpaw	natga	0062	nga	say	v:pred	v		pred		
+jinghpaw	natga	0062	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0063	#	#	##	##				
+jinghpaw	natga	0063	shan	2DU	pro.2:s	pro	2	s	802	
+jinghpaw	natga	0063	lahkawng	two	rn_qfr	rn_qfr				
+jinghpaw	natga	0063	bai	again	other	other				
+jinghpaw	natga	0063	dai	that	dem_pro:l	dem_pro		l		
+jinghpaw	natga	0063	=kaw	=LOC	=rn	=rn				
+jinghpaw	natga	0063	rau	together	other	other				
+jinghpaw	natga	0063	yup	sleep	v:pred	v		pred		
+jinghpaw	natga	0063	=ma	=PL	=aux	=aux				
+jinghpaw	natga	0063	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0063	=da	=HS	=other	=other				
+jinghpaw	natga	0064	#	#	##	##				
+jinghpaw	natga	0064	0	0	0.h:s	0	h	s	802	
+jinghpaw	natga	0064	rau	together	other	other				
+jinghpaw	natga	0064	yup	sleep	v:pred	v		pred		
+jinghpaw	natga	0064	=nga	=CONT	=aux	=aux				
+jinghpaw	natga	0064	yang	when	other	other				
+jinghpaw	natga	0064	=she	=then	=other	=other				
+jinghpaw	natga	0065	#	#	##	##				
+jinghpaw	natga	0065	0	0	0.h:p	0	h	p	804	
+jinghpaw	natga	0065	nat	spirit	np.d:a	np	d	a	808	
+jinghpaw	natga	0065	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0065	#	#	#ac	#ac				
+jinghpaw	natga	0065	0	0	0.d:a	0	d	a	808	
+jinghpaw	natga	0065	dai	that	ln_dem	ln_dem				
+jinghpaw	natga	0065	yen	both	nc	nc				
+jinghpaw	natga	0065	lahkawng	two	ln_qfr	ln_qfr				
+jinghpaw	natga	0065	yen	both	np.h:obl	np	h	obl	802	
+jinghpaw	natga	0065	=kaw	=LOC	=rn	=rn				
+jinghpaw	natga	0065	=na	=ABL	=rn	=rn				
+jinghpaw	natga	0065	langai-ngai	one-RED	np.h:p	np	h	p		
+jinghpaw	natga	0065	=hpe	=ACC	=rn	=rn				
+jinghpaw	natga	0065	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0065	sha	eat	v:pred	v		pred		
+jinghpaw	natga	0065	=mayu	=DESID	=aux	=aux				
+jinghpaw	natga	0065	=ai	=NMLZ	=rv	=rv				
+jinghpaw	natga	0065	majaw	because	other	other				
+jinghpaw	natga	0065	%	%	%	%				
+jinghpaw	natga	0066	nta	house	np:g	np		g	807	
+jinghpaw	natga	0066	duhkra	TERM	rn	rn				
+jinghpaw	natga	0066	hkan	follow	lv	lv				
+jinghpaw	natga	0066	shachyt	run.after	v:pred	v		pred		
+jinghpaw	natga	0066	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0066	=da	=HS	=other	=other				
+jinghpaw	natga	0067	#	#	##	##				
+jinghpaw	natga	0067	0	0	0.d:a	0	d	a	808	
+jinghpaw	natga	0067	0	0	0.h:p	0	h	p	804	
+jinghpaw	natga	0067	nta	house	np:g	np		g	807	
+jinghpaw	natga	0067	duhkra	TERM	rn	rn				
+jinghpaw	natga	0067	hkan	follow	lv	lv				
+jinghpaw	natga	0067	shachyut	run.after	v:pred	v		pred		
+jinghpaw	natga	0067	jang	when	other	other				
+jinghpaw	natga	0068	#	#	##	##				
+jinghpaw	natga	0068	0	0	0.d:a	0	d	a	808	
+jinghpaw	natga	0068	e	well	other	other				
+jinghpaw	natga	0068	dai	that	ln_dem:dt_poss	ln_dem		dt_poss		
+jinghpaw	natga	0068	#	#	#rc	#rc				
+jinghpaw	natga	0068	0	0	rel_f0.h:s	rel_f0	h	s	802	
+jinghpaw	natga	0068	yup	sleep	v:pred	v		pred		
+jinghpaw	natga	0068	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	natga	0068	%	%	%	%				
+jinghpaw	natga	0068	#	#	#nc	#nc				
+jinghpaw	natga	0068	numsha	woman	nc_np.h	nc_np	h		802	
+jinghpaw	natga	0068	marai	CLF	nc	nc				
+jinghpaw	natga	0068	lahkawng	two	nc	nc				
+jinghpaw	natga	0068	=kaw	=LOC	nc	nc				
+jinghpaw	natga	0068	=na	=ABL	nc	nc				
+jinghpaw	natga	0068	%	%	%	%				
+jinghpaw	natga	0068	marai	CLF	nc	nc				
+jinghpaw	natga	0068	lahkawng	two	nc_np.h	nc_np	h		802	
+jinghpaw	natga	0068	=kaw	=LOC	nc	nc				
+jinghpaw	natga	0068	=na	=ABL	nc	nc				
+jinghpaw	natga	0069	e	well	other	other				
+jinghpaw	natga	0070	marai	CLF	ln_np.h:poss	ln_np	h	poss	802	
+jinghpaw	natga	0070	lahkawng	two	ln_qfr	ln_qfr				
+jinghpaw	natga	0070	yen	both	ln_qfr	ln_qfr				
+jinghpaw	natga	0070	=a	=GEN	=ln	=ln				
+jinghpaw	natga	0070	lagaw	leg	np:p	np		p	809	bridging
+jinghpaw	natga	0070	masawp	pat	v:pred	v		pred		
+jinghpaw	natga	0070	=yu	=CON	=aux	=aux				
+jinghpaw	natga	0070	jang	when	other	other				
+jinghpaw	natga	0070	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0071	#	#	#ac	#ac				
+jinghpaw	natga	0071	langai	one	ln_qfr	ln_qfr				
+jinghpaw	natga	0071	wa	person	ln_np.h:poss	ln_np	h	poss	805	
+jinghpaw	natga	0071	=a	=GEN	=ln	=ln				
+jinghpaw	natga	0071	lagaw	leg	np:s	np		s	810	bridging
+jinghpaw	natga	0071	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0071	lum-lum	warm-RED	v:pred	v		pred		
+jinghpaw	natga	0071	nga	be	other	other				
+jinghpaw	natga	0071	%	%	%	%				
+jinghpaw	natga	0072	#	#	#ac	#ac				
+jinghpaw	natga	0072	langai	one	ln_qfr	ln_qfr				
+jinghpaw	natga	0072	wa	person	ln_np.h:poss	ln_np	h	poss	804	
+jinghpaw	natga	0072	=a	=GEN	=ln	=ln				
+jinghpaw	natga	0072	lagaw	leg	np:s	np		s	811	bridging
+jinghpaw	natga	0072	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0072	katsi-tsi	cold-RED	v:pred	v		pred		
+jinghpaw	natga	0072	nga	be	other	other				
+jinghpaw	natga	0072	majaw	because	other	other				
+jinghpaw	natga	0073	#	#	##ds	##ds				
+jinghpaw	natga	0073	ndai	this	ln_dem	ln_dem				
+jinghpaw	natga	0073	#	#	#ds_rc	#ds_rc				
+jinghpaw	natga	0073	0	0	rel_f0:s	rel_f0		s	805	
+jinghpaw	natga	0073	lum-lum	warm-RED	v:pred	v		pred		
+jinghpaw	natga	0073	nga	be	other	other				
+jinghpaw	natga	0073	%	%	%	%				
+jinghpaw	natga	0073	dai	that	ln_dem	ln_dem				
+jinghpaw	natga	0073	wa	person	np.h:s	np	h	s	805	
+jinghpaw	natga	0073	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0073	#	#	#ds_rc	#ds_rc				
+jinghpaw	natga	0073	0	0	rel_f0.h:s	rel_f0	h	s	805	
+jinghpaw	natga	0073	myi	before	other	other				
+jinghpaw	natga	0073	jau-jau	early-RED	other	other				
+jinghpaw	natga	0073	wa	return	v:pred	v		pred		
+jinghpaw	natga	0073	=ai	=NMLZ	=rv	=rv				
+jinghpaw	natga	0073	%	%	%	%				
+jinghpaw	natga	0073	numsha	woman	np.h:pred	np	h	pred	805	
+jinghpaw	natga	0073	re	COP	cop	cop				
+jinghpaw	natga	0074	#	#	##ds	##ds				
+jinghpaw	natga	0074	ya	now	other	other				
+jinghpaw	natga	0074	#	#	#ds_rc	#ds_rc				
+jinghpaw	natga	0074	0	0	rel_f0.h:poss	rel_f0	h	poss	804	
+jinghpaw	natga	0074	lagaw	leg	np:s	np		s	811	
+jinghpaw	natga	0074	katsi	cold	v:pred	v		pred		
+jinghpaw	natga	0074	=ai	=NMLZ	=rv	=rv				
+jinghpaw	natga	0074	%	%	%	%				
+jinghpaw	natga	0074	wa	person	np.h:s	np	h	s	804	
+jinghpaw	natga	0074	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0074	hpang	after	np:obl	np		obl		
+jinghpaw	natga	0074	=na	=GEN	=rn	=rn				
+jinghpaw	natga	0074	#	#	#ds_rc	#ds_rc				
+jinghpaw	natga	0074	0	0	rel_f0.h:p	rel_f0	h	p	804	
+jinghpaw	natga	0074	ngai	1SG	pro.1:a	pro	1	a	808	
+jinghpaw	natga	0074	shachyut	run.after	v:pred	v		pred		
+jinghpaw	natga	0074	=ai	=NMLZ	=rv	=rv				
+jinghpaw	natga	0074	%	%	%	%				
+jinghpaw	natga	0074	wa	person	np.h:pred	np	h	pred	804	
+jinghpaw	natga	0074	re	COP	cop	cop				
+jinghpaw	natga	0075	#	#	##ds	##ds				
+jinghpaw	natga	0075	0	0	0.1:a	0	1	a	808	
+jinghpaw	natga	0075	ndai	this	dem_pro.h:p	dem_pro	h	p	805	
+jinghpaw	natga	0075	=hpe	=ACC	=rn	=rn				
+jinghpaw	natga	0075	sha	eat	lv	lv				
+jinghpaw	natga	0075	la	take	v:pred	v		pred		
+jinghpaw	natga	0075	=na	=IRR	=aux	=aux				
+jinghpaw	natga	0075	#	#	##	##				
+jinghpaw	natga	0075	0	0	0.d:s_ds	0	d	s_ds	808	
+jinghpaw	natga	0075	nga	say	v:pred	v		pred		
+jinghpaw	natga	0075	=na	=SEQ	=other	=other				
+jinghpaw	natga	0076	#	#	##	##				
+jinghpaw	natga	0076	0	0	0.d:a	0	d	a	808	
+jinghpaw	natga	0076	shi	3SG	pro.h:p	pro	h	p	805	
+jinghpaw	natga	0076	=hpe	=ACC	=rn	=rn				
+jinghpaw	natga	0076	minla	soul	other	other				
+jinghpaw	natga	0076	shaw	draw	lv	lv				
+jinghpaw	natga	0076	sha	eat	v:pred	v		pred		
+jinghpaw	natga	0076	=ya	=BEN	=aux	=aux				
+jinghpaw	natga	0076	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0076	=da	=HS	=other	=other				
+jinghpaw	natga	0077	#	#	##	##				
+jinghpaw	natga	0077	0	0	0.h:s	0	h	s	805	
+jinghpaw	natga	0077	rai	COP	other	other				
+jinghpaw	natga	0077	=na	=SEQ	=other	=other				
+jinghpaw	natga	0077	jahpawt	morning	np:other	np		other		
+jinghpaw	natga	0077	yup	sleep	lv	lv				
+jinghpaw	natga	0077	rawt	wake.up	v:pred	v		pred		
+jinghpaw	natga	0077	jang	when	other	other				
+jinghpaw	natga	0077	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0078	#	#	##	##				
+jinghpaw	natga	0078	#	#	#rc	#rc				
+jinghpaw	natga	0078	0	0	rel_f0.h:s	rel_f0	h	s	805	
+jinghpaw	natga	0078	hpang	after	np:other	np		other		
+jinghpaw	natga	0078	=e	=LOC	=rn	=rn				
+jinghpaw	natga	0078	wa	return	v:pred	v		pred		
+jinghpaw	natga	0078	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	natga	0078	%	%	%	%				
+jinghpaw	natga	0078	numsha	woman	np.h:dt_s	np	h	dt_s	805	
+jinghpaw	natga	0078	=gaw	=TOP	=other	=other				
+jinghpaw	natga	0078	0	0	0.h:s	0	h	s		
+jinghpaw	natga	0078	jahpawt	morning	other	other				
+jinghpaw	natga	0078	yup	sleep	lv	lv				
+jinghpaw	natga	0078	rawt	wake.up	v:pred	v		pred		
+jinghpaw	natga	0078	jang	when	other	other				
+jinghpaw	natga	0079	#	#	##	##				
+jinghpaw	natga	0079	#	#	#cc:p	#cc		p		
+jinghpaw	natga	0079	0	0	0.h:s	0	h	s	804	
+jinghpaw	natga	0079	si	die	v:pred	v		pred		
+jinghpaw	natga	0079	=taw	=CONT	=aux	=aux				
+jinghpaw	natga	0079	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	natga	0079	%	%	%	%				
+jinghpaw	natga	0079	=hpe	=ACC	=rn	=rn				
+jinghpaw	natga	0079	0	0	0.h:a	0	h	a	805	
+jinghpaw	natga	0079	mu	see	v:pred	v		pred		
+jinghpaw	natga	0079	=ai	=DECL	=rv	=rv				
+jinghpaw	natga	0079	=da	=HS	=other	=other				
+jinghpaw	natga	0080	#	#	#nc	#nc				
+jinghpaw	natga	0080	dai	that	nc	nc				
+jinghpaw	natga	0080	majaw	because	nc	nc				
+jinghpaw	natga	0080	ndai	well	nc	nc				
+jinghpaw	natga	0080	ga	word	nc	nc				
+jinghpaw	natga	0080	shaga	speak	nc	nc				
+jinghpaw	natga	0080	jang	when	nc	nc				
+jinghpaw	natga	0080	=i	=SFP	nc	nc				
+jinghpaw	natga	0081	#	#	#nc	#nc				
+jinghpaw	natga	0081	ga-shadi	word-speak	nc	nc				
+jinghpaw	natga	0081	tawn	put	nc	nc				
+jinghpaw	natga	0081	=da	=RES	nc	nc				
+jinghpaw	natga	0081	jang	when	nc	nc				
+jinghpaw	natga	0082	#	#	#nc	#nc				
+jinghpaw	natga	0082	grai	very	nc	nc				
+jinghpaw	natga	0082	sadi	promise	nc	nc				
+jinghpaw	natga	0082	dung	sit	nc	nc				
+jinghpaw	natga	0082	=ra	=need	nc	nc				
+jinghpaw	natga	0082	=ai	=DECL	nc	nc				
+jinghpaw	natga	0082	nga	say	nc	nc				
+jinghpaw	natga	0082	=ma	=PL	nc	nc				
+jinghpaw	natga	0082	=ai	=DECL	nc	nc				

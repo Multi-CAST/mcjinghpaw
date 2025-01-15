@@ -1,0 +1,1189 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+jinghpaw	chyeju	0001	#	#	#nc	#nc				
+jinghpaw	chyeju	0001	maumwi-gabaw	story-title	nc	nc				
+jinghpaw	chyeju	0001	=gaw	=TOP	nc	nc				
+jinghpaw	chyeju	0001	chyahkyawn	wolf	nc	nc				
+jinghpaw	chyeju	0001	=hte	=COM	nc	nc				
+jinghpaw	chyeju	0001	hka-u	water-bird	nc	nc				
+jinghpaw	chyeju	0001	=a	=GEN	nc	nc				
+jinghpaw	chyeju	0001	lam	story	nc	nc				
+jinghpaw	chyeju	0001	nga	call	nc	nc				
+jinghpaw	chyeju	0001	rai	COP	nc	nc				
+jinghpaw	chyeju	0001	nga	be	nc	nc				
+jinghpaw	chyeju	0002	#	#	##	##				
+jinghpaw	chyeju	0002	kalang	once	np:other	np		other		
+jinghpaw	chyeju	0002	mi	one	rn_qfr	rn_qfr				
+jinghpaw	chyeju	0002	=hta	=LOC	=rn	=rn				
+jinghpaw	chyeju	0002	=sha	=only	=other	=other				
+jinghpaw	chyeju	0002	ndai	well	other	other				
+jinghpaw	chyeju	0002	chyahkyawn	wolf	np.d:dt_a	np	d	dt_a	101	new
+jinghpaw	chyeju	0002	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0002	shi	3SG	pro.d:a	pro	d	a	101	
+jinghpaw	chyeju	0002	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0002	hka	water	np:p	np		p		
+jinghpaw	chyeju	0002	sa	go	lv	lv				
+jinghpaw	chyeju	0002	lu	drink	v:pred	v		pred		
+jinghpaw	chyeju	0002	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0002	nga	LV	other	other				
+jinghpaw	chyeju	0002	yang	when	other	other				
+jinghpaw	chyeju	0002	=she	=then	=other	=other				
+jinghpaw	chyeju	0003	#	#	##	##				
+jinghpaw	chyeju	0003	le	down.there	ln_dem	ln_dem				
+jinghpaw	chyeju	0003	hka	water	np:dt_l	np		dt_l	102	bridging
+jinghpaw	chyeju	0003	=kaw	=LOC	=rn	=rn				
+jinghpaw	chyeju	0003	=she	=then	=other	=other				
+jinghpaw	chyeju	0003	nga	fish	np:s	np		s	103	new
+jinghpaw	chyeju	0003	=ni	=PL	=rn	=rn				
+jinghpaw	chyeju	0003	=wa	=TOP	=other	=other				
+jinghpaw	chyeju	0003	=she	=then	=other	=other				
+jinghpaw	chyeju	0003	le	down.there	dem_pro:l	dem_pro		l	102	
+jinghpaw	chyeju	0003	pyau	flit	v:pred	v		pred		
+jinghpaw	chyeju	0003	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	chyeju	0004	#	#	##	##				
+jinghpaw	chyeju	0004	#	#	#cc:p	#cc		p		
+jinghpaw	chyeju	0004	#	#	#ac	#ac				
+jinghpaw	chyeju	0004	0	0	0:s	0		s	103	
+jinghpaw	chyeju	0004	grai	very	nc	nc				
+jinghpaw	chyeju	0004	pyaw	be.happy	nc	nc				
+jinghpaw	chyeju	0004	grai	very	other	other				
+jinghpaw	chyeju	0004	pyaw	be.happy	v:pred	v		pred		
+jinghpaw	chyeju	0004	=taw	=CONT	=aux	=aux				
+jinghpaw	chyeju	0004	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0004	%	%	%	%				
+jinghpaw	chyeju	0004	0	0	0:s	0		s	103	
+jinghpaw	chyeju	0004	nga	be	v:pred	v		pred		
+jinghpaw	chyeju	0004	=taw	=CONT	=aux	=aux				
+jinghpaw	chyeju	0004	%	%	%	%				
+jinghpaw	chyeju	0004	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0004	0	0	0.d:a	0	d	a	101	
+jinghpaw	chyeju	0004	mu	see	v:pred	v		pred		
+jinghpaw	chyeju	0004	yang	when	other	other				
+jinghpaw	chyeju	0004	=she	=then	=other	=other				
+jinghpaw	chyeju	0005	#	#	##	##				
+jinghpaw	chyeju	0005	0	0	0:p	0		p	103	
+jinghpaw	chyeju	0005	shi	3SG	pro.d:a	pro	d	a	101	
+jinghpaw	chyeju	0005	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0005	grai	very	other	other				
+jinghpaw	chyeju	0005	sha	eat	v:pred	v		pred		
+jinghpaw	chyeju	0005	=mayu	=DESID	=aux	=aux				
+jinghpaw	chyeju	0005	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	chyeju	0006	#	#	##	##				
+jinghpaw	chyeju	0006	0	0	0.d:a	0	d	a	101	
+jinghpaw	chyeju	0006	0	0	0:p	0		p	103	
+jinghpaw	chyeju	0006	myit	mind	np:other	np		other		
+jinghpaw	chyeju	0006	=kaw	=LOC	=rn	=rn				
+jinghpaw	chyeju	0006	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0006	grai	very	other	other				
+jinghpaw	chyeju	0006	sha	eat	v:pred	v		pred		
+jinghpaw	chyeju	0006	=mayu	=DESID	=aux	=aux				
+jinghpaw	chyeju	0006	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0006	raitim	but	other	other				
+jinghpaw	chyeju	0006	=mung	=also	=other	=other				
+jinghpaw	chyeju	0007	#	#	##neg	##neg				
+jinghpaw	chyeju	0007	shi	3SG	pro.d:s	pro	d	s	101	
+jinghpaw	chyeju	0007	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0007	hka	water	np:g	np		g	102	
+jinghpaw	chyeju	0007	=kaw	=LOC	=rn	=rn				
+jinghpaw	chyeju	0007	n-lu	NEG-POS	lv	lv				
+jinghpaw	chyeju	0007	shang	enter	v:pred	v		pred		
+jinghpaw	chyeju	0007	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0008	#	#	##neg	##neg				
+jinghpaw	chyeju	0008	shi	3SG	nc_pro.h	nc_pro	h		101	
+jinghpaw	chyeju	0008	=gaw	=TOP	nc	nc				
+jinghpaw	chyeju	0008	shanhte	3PL	pro.d:s	pro	d	s		
+jinghpaw	chyeju	0008	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0008	hka	water	np:g	np		g		
+jinghpaw	chyeju	0008	n-lu	NEG-POS	lv	lv				
+jinghpaw	chyeju	0008	shang	enter	v:pred	v		pred		
+jinghpaw	chyeju	0008	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0008	majaw	because	other	other				
+jinghpaw	chyeju	0009	#	#	##	##				
+jinghpaw	chyeju	0009	#	#	#cc:p	#cc		p		
+jinghpaw	chyeju	0009	0	0	0.d:a	0	d	a	101	
+jinghpaw	chyeju	0009	0	0	0:p	0		p	103	
+jinghpaw	chyeju	0009	grai	very	other	other				
+jinghpaw	chyeju	0009	sha	eat	v:pred	v		pred		
+jinghpaw	chyeju	0009	=mayu	=DESID	=aux	=aux				
+jinghpaw	chyeju	0009	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	chyeju	0009	%	%	%	%				
+jinghpaw	chyeju	0009	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0009	0	0	0.d:a	0	d	a	101	
+jinghpaw	chyeju	0009	sharang	endure	v:pred	v		pred		
+jinghpaw	chyeju	0009	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0009	=she	=then	=other	=other				
+jinghpaw	chyeju	0010	#	#	##	##				
+jinghpaw	chyeju	0010	0	0	0.d:s	0	d	s	101	
+jinghpaw	chyeju	0010	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	chyeju	0010	=hku	=like	=rn	=rn				
+jinghpaw	chyeju	0010	nyau-nyau	cat-RED	other	other				
+jinghpaw	chyeju	0010	re	LV	other	other				
+jinghpaw	chyeju	0010	nga	be	lv	lv				
+jinghpaw	chyeju	0010	hkawm	walk	v:pred	v		pred		
+jinghpaw	chyeju	0010	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	chyeju	0010	yang	when	other	other				
+jinghpaw	chyeju	0010	=she	=then	=other	=other				
+jinghpaw	chyeju	0011	#	#	##	##				
+jinghpaw	chyeju	0011	dai	well	other	other				
+jinghpaw	chyeju	0011	le	down.there	np:dt_l	np		dt_l	104	bridging
+jinghpaw	chyeju	0011	loi	a.little	other	other				
+jinghpaw	chyeju	0011	mi	one	rn_qfr	rn_qfr				
+jinghpaw	chyeju	0011	makau-yang	beside-plain	np:l	np		l	104	
+jinghpaw	chyeju	0011	=kaw	=LOC	=rn	=rn				
+jinghpaw	chyeju	0011	=she	=then	=other	=other				
+jinghpaw	chyeju	0011	ndai	well	other	other				
+jinghpaw	chyeju	0011	sharam	otter	np.d:s	np	d	s	105	new
+jinghpaw	chyeju	0011	langai	one	rn_qfr	rn_qfr				
+jinghpaw	chyeju	0011	mi	one	rn_qfr	rn_qfr				
+jinghpaw	chyeju	0011	nga	be	v:predex	v		predex		
+jinghpaw	chyeju	0011	=taw	=CONT	=aux	=aux				
+jinghpaw	chyeju	0011	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0011	=da	=HS	=other	=other				
+jinghpaw	chyeju	0012	#	#	##	##				
+jinghpaw	chyeju	0012	ndai	this	ln_dem	ln_dem				
+jinghpaw	chyeju	0012	sharam	otter	np.d:dt_s	np	d	dt_s	105	
+jinghpaw	chyeju	0012	ndai	this	dem_pro.d:s	dem_pro	d	s	105	
+jinghpaw	chyeju	0012	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0012	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	chyeju	0012	=hku	=like	=rn	=rn				
+jinghpaw	chyeju	0012	=i	=SFP	=other	=other				
+jinghpaw	chyeju	0012	chyai	play	v:pred	v		pred		
+jinghpaw	chyeju	0012	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	chyeju	0012	yang	when	other	other				
+jinghpaw	chyeju	0012	=she	=then	=other	=other				
+jinghpaw	chyeju	0013	#	#	##	##				
+jinghpaw	chyeju	0013	shi	3SG	pro.d:s_ds	pro	d	s_ds	101	
+jinghpaw	chyeju	0013	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0013	sa	go	lv	lv				
+jinghpaw	chyeju	0013	tsun	say	v:pred	v		pred		
+jinghpaw	chyeju	0013	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0014	#	#	##ds.neg	##ds.neg				
+jinghpaw	chyeju	0014	e	INTJ	other	other				
+jinghpaw	chyeju	0014	hkau	friend	np.d:voc	np	d	voc	105	
+jinghpaw	chyeju	0014	sharam	otter	nc_np.d	nc_np	d		105	
+jinghpaw	chyeju	0014	=e	=SFP	nc	nc				
+jinghpaw	chyeju	0014	jinghku	relative	nc	nc				
+jinghpaw	chyeju	0014	sharam	otter	nc_np.d	nc_np	d		105	
+jinghpaw	chyeju	0014	=e	=SFP	nc	nc				
+jinghpaw	chyeju	0014	ngai	1SG	nc_pro.1	nc_pro	1		101	
+jinghpaw	chyeju	0014	e	INTJ	nc	nc				
+jinghpaw	chyeju	0014	nang	2SG	pro.2:a	pro	2	a	105	
+jinghpaw	chyeju	0014	nga	fish	np:p	np		p		
+jinghpaw	chyeju	0014	n-sha	NEG-eat	v:pred	v		pred		
+jinghpaw	chyeju	0014	=mayu	=DESID	=aux	=aux				
+jinghpaw	chyeju	0014	=kun	=Q	=other	=other				
+jinghpaw	chyeju	0014	#	#	##	##				
+jinghpaw	chyeju	0014	0	0	0.d:s_ds	0	d	s_ds	101	
+jinghpaw	chyeju	0014	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0014	=she	=then	=other	=other				
+jinghpaw	chyeju	0015	#	#	##ds	##ds				
+jinghpaw	chyeju	0015	0	0	0.1:a	0	1	a	105	
+jinghpaw	chyeju	0015	0	0	0:p	0		p		
+jinghpaw	chyeju	0015	she	indeed	other	other				
+jinghpaw	chyeju	0015	sha	eat	v:pred	v		pred		
+jinghpaw	chyeju	0015	=mayu	=DESID	=aux	=aux				
+jinghpaw	chyeju	0015	=gaw	=SFP	=other	=other				
+jinghpaw	chyeju	0015	#	#	##	##				
+jinghpaw	chyeju	0015	0	0	0:p	0		p		
+jinghpaw	chyeju	0015	ngai	1SG	pro.1:a	pro	1	a	105	
+jinghpaw	chyeju	0015	=mung	=also	=other	=other				
+jinghpaw	chyeju	0015	she	indeed	other	other				
+jinghpaw	chyeju	0015	sha	eat	v:pred	v		pred		
+jinghpaw	chyeju	0015	=mayu	=DESID	=aux	=aux				
+jinghpaw	chyeju	0015	=le	=SFP	=other	=other				
+jinghpaw	chyeju	0016	#	#	##ds	##ds				
+jinghpaw	chyeju	0016	dan	thus	other	other				
+jinghpaw	chyeju	0016	jang	when	other	other				
+jinghpaw	chyeju	0016	ngai	1SG	pro.1:a	pro	1	a	101	
+jinghpaw	chyeju	0016	#	#	#ds_rc	#ds_rc				
+jinghpaw	chyeju	0016	0	0	rel_f0:l	rel_f0		l	106	
+jinghpaw	chyeju	0016	nga	fish	np:s	np		s	103	
+jinghpaw	chyeju	0016	grai	very	other	other				
+jinghpaw	chyeju	0016	rawng	be.in	v:pred	v		pred		
+jinghpaw	chyeju	0016	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	chyeju	0016	%	%	%	%				
+jinghpaw	chyeju	0016	shara	place	np:p	np		p	106	new
+jinghpaw	chyeju	0016	langai	one	rn_qfr	rn_qfr				
+jinghpaw	chyeju	0016	mi	one	rn_qfr	rn_qfr				
+jinghpaw	chyeju	0016	mu	see	v:pred	v		pred		
+jinghpaw	chyeju	0016	=tawn-da	=RES-RES	=aux	=aux				
+jinghpaw	chyeju	0016	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0017	#	#	##ds	##ds				
+jinghpaw	chyeju	0017	0	0	0:p	0		p	103	
+jinghpaw	chyeju	0017	nang	2SG	pro.2:a	pro	2	a	105	
+jinghpaw	chyeju	0017	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0017	sa	go	lv	lv				
+jinghpaw	chyeju	0017	rim	catch	v:pred	v		pred		
+jinghpaw	chyeju	0017	=u	=IMP	=rv	=rv				
+jinghpaw	chyeju	0017	rai	COP	other	other				
+jinghpaw	chyeju	0017	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0018	#	#	##	##				
+jinghpaw	chyeju	0018	0	0	0:p	0		p	103	
+jinghpaw	chyeju	0018	nang	2SG	pro.2:a	pro	2	a	105	
+jinghpaw	chyeju	0018	la	take	v:pred	v		pred		
+jinghpaw	chyeju	0018	=wa	=VEN	=aux	=aux				
+jinghpaw	chyeju	0018	jang	when	other	other				
+jinghpaw	chyeju	0019	#	#	#ds	#ds				
+jinghpaw	chyeju	0019	0	0	0.1:a	0	1	a	107	
+jinghpaw	chyeju	0019	0	0	0:p	0		p	103	
+jinghpaw	chyeju	0019	bai	again	other	other				
+jinghpaw	chyeju	0019	chyawm	together	other	other				
+jinghpaw	chyeju	0019	sha	eat	v:pred	v		pred		
+jinghpaw	chyeju	0019	=ga	=HORT	=rv	=rv				
+jinghpaw	chyeju	0019	#	#	##	##				
+jinghpaw	chyeju	0019	0	0	0.d:s_ds	0	d	s_ds	101	
+jinghpaw	chyeju	0019	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0019	yang	when	other	other				
+jinghpaw	chyeju	0020	#	#	##ds	##ds				
+jinghpaw	chyeju	0020	e	INTJ	other	other				
+jinghpaw	chyeju	0020	mai	be.OK	v:pred	v		pred		
+jinghpaw	chyeju	0020	=s-a	=CSM-DECL	=rv	=rv				
+jinghpaw	chyeju	0020	=le	=SFP	=other	=other				
+jinghpaw	chyeju	0020	she	indeed	other	other				
+jinghpaw	chyeju	0020	mai	be.OK	v:pred	v		pred		
+jinghpaw	chyeju	0020	#	#	##ds	##ds				
+jinghpaw	chyeju	0020	0	0	0:s	0		s		
+jinghpaw	chyeju	0020	gara	where	np:pred_l	np		pred_l		
+jinghpaw	chyeju	0020	=kaw	=LOC	=rn	=rn				
+jinghpaw	chyeju	0020	re	COP	cop	cop				
+jinghpaw	chyeju	0020	=rai	=Q	=other	=other				
+jinghpaw	chyeju	0020	#	#	##	##				
+jinghpaw	chyeju	0020	0	0	0.d:s_ds	0	d	s_ds	105	
+jinghpaw	chyeju	0020	nga	QUOT	other	other				
+jinghpaw	chyeju	0020	san	ask	v:pred	v		pred		
+jinghpaw	chyeju	0020	yang	when	other	other				
+jinghpaw	chyeju	0021	#	#	##	##				
+jinghpaw	chyeju	0021	ora	that	ln_dem	ln_dem				
+jinghpaw	chyeju	0021	langai	one	np.d:s_ds	np	d	s_ds	101	
+jinghpaw	chyeju	0021	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0021	#	#	##ds	##ds				
+jinghpaw	chyeju	0021	0	0	0:s	0		s	103	
+jinghpaw	chyeju	0021	ndai	this	dem_pro:pred_l	dem_pro		pred_l	106	
+jinghpaw	chyeju	0021	=kaw	=LOC	=rn	=rn				
+jinghpaw	chyeju	0021	ndai	this	nc	nc				
+jinghpaw	chyeju	0021	=de	=ALL	nc	nc				
+jinghpaw	chyeju	0021	re	COP	cop	cop				
+jinghpaw	chyeju	0021	%	%	%	%				
+jinghpaw	chyeju	0021	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0021	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0022	#	#	##ds	##ds				
+jinghpaw	chyeju	0022	0	0	0.2:a	0	2	a	105	
+jinghpaw	chyeju	0022	0	0	0.1:p	0	1	p	101	
+jinghpaw	chyeju	0022	hkan-nang	follow-follow	v:pred	v		pred		
+jinghpaw	chyeju	0022	=rit	=IMP	=rv	=rv				
+jinghpaw	chyeju	0022	#	#	##	##				
+jinghpaw	chyeju	0022	0	0	0.d:s_ds	0	d	s_ds	101	
+jinghpaw	chyeju	0022	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0022	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0022	=she	=then	=other	=other				
+jinghpaw	chyeju	0023	#	#	##	##				
+jinghpaw	chyeju	0023	0	0	0.d:a	0	d	a	101	
+jinghpaw	chyeju	0023	0	0	0.d:p	0	d	p	105	
+jinghpaw	chyeju	0023	0	0	0:p2	0		p2	106	
+jinghpaw	chyeju	0023	sa	go	lv	lv				
+jinghpaw	chyeju	0023	madun	show	v:pred	v		pred		
+jinghpaw	chyeju	0023	=dan	=CON	=aux	=aux				
+jinghpaw	chyeju	0023	=she	=then	=other	=other				
+jinghpaw	chyeju	0024	#	#	##	##				
+jinghpaw	chyeju	0024	kaja	really	other	other				
+jinghpaw	chyeju	0024	=wa	=ADV	=other	=other				
+jinghpaw	chyeju	0024	sharam	otter	np.d:s	np	d	s	105	
+jinghpaw	chyeju	0024	=mung	=also	=other	=other				
+jinghpaw	chyeju	0024	pruk	splash	lv	lv				
+jinghpaw	chyeju	0024	re	LV	other	other				
+jinghpaw	chyeju	0024	shang	enter	v:pred	v		pred		
+jinghpaw	chyeju	0024	di	LV	other	other				
+jinghpaw	chyeju	0024	=i	=SFP	=other	=other				
+jinghpaw	chyeju	0025	#	#	##	##				
+jinghpaw	chyeju	0025	0	0	0.d:a	0	d	a	105	
+jinghpaw	chyeju	0025	nga	fish	np:p	np		p	108	bridging
+jinghpaw	chyeju	0025	kaba	big	rn_adj	rn_adj				
+jinghpaw	chyeju	0025	=law	=INTNS	=other	=other				
+jinghpaw	chyeju	0025	urat	systomus	nc_np	nc_np				
+jinghpaw	chyeju	0025	kaba	big	nc	nc				
+jinghpaw	chyeju	0025	nga-urat	fish-systomus	nc_np	nc_np			108	
+jinghpaw	chyeju	0025	kaba	big	nc	nc				
+jinghpaw	chyeju	0025	dai	that	nc	nc				
+jinghpaw	chyeju	0025	rim	catch	lv	lv				
+jinghpaw	chyeju	0025	hpai	carry	v:pred	v		pred		
+jinghpaw	chyeju	0025	=wa	=VEN	=aux	=aux				
+jinghpaw	chyeju	0025	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0026	#	#	##	##				
+jinghpaw	chyeju	0026	0	0	0.d:a	0	d	a	105	
+jinghpaw	chyeju	0026	0	0	0:p	0		p	108	
+jinghpaw	chyeju	0026	rai	COP	other	other				
+jinghpaw	chyeju	0026	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0026	=she	=then	=other	=other				
+jinghpaw	chyeju	0026	la	take	v:pred	v		pred		
+jinghpaw	chyeju	0026	=wa	=VEN	=aux	=aux				
+jinghpaw	chyeju	0026	yang	when	other	other				
+jinghpaw	chyeju	0026	=she	=then	=other	=other				
+jinghpaw	chyeju	0027	#	#	##ds	##ds				
+jinghpaw	chyeju	0027	ning	thus	other	other				
+jinghpaw	chyeju	0027	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0027	rai	COP	vother:pred	vother		pred		
+jinghpaw	chyeju	0027	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	chyeju	0027	#	#	##	##				
+jinghpaw	chyeju	0027	0	0	0.d:s_ds	0	d	s_ds	105	
+jinghpaw	chyeju	0027	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0027	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0027	=she	=then	=other	=other				
+jinghpaw	chyeju	0028	#	#	##	##				
+jinghpaw	chyeju	0028	dai	that	nc	nc				
+jinghpaw	chyeju	0028	sharam	otter	nc	nc				
+jinghpaw	chyeju	0028	dai	that	dem_pro.d:s	dem_pro	d	s	101	
+jinghpaw	chyeju	0028	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0028	lawhpa	greedy-mind	np:other	np		other		
+jinghpaw	chyeju	0028	rawng	be.in	v:pred	v		pred		
+jinghpaw	chyeju	0028	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0029	#	#	##	##				
+jinghpaw	chyeju	0029	0	0	0:p	0		p	108	
+jinghpaw	chyeju	0029	shi	3SG	nc	nc				
+jinghpaw	chyeju	0029	=na	=GEN	nc	nc				
+jinghpaw	chyeju	0029	shi	3SG	pro.d:a	pro	d	a	101	
+jinghpaw	chyeju	0029	sha	eat	v:pred	v		pred		
+jinghpaw	chyeju	0029	=mayu	=DESID	=aux	=aux				
+jinghpaw	chyeju	0029	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0029	re	COP	other	other				
+jinghpaw	chyeju	0029	majaw	because	other	other				
+jinghpaw	chyeju	0030	#	#	##	##				
+jinghpaw	chyeju	0030	shi	3SG	pro.d:s_ds	pro	d	s_ds	101	
+jinghpaw	chyeju	0030	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0030	tsun	say	v:pred	v		pred		
+jinghpaw	chyeju	0030	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0030	=she	=then	=other	=other				
+jinghpaw	chyeju	0031	#	#	##ds	##ds				
+jinghpaw	chyeju	0031	e	INTJ	nc	nc				
+jinghpaw	chyeju	0031	hkau	friend	nc_np.d	nc_np	d		105	
+jinghpaw	chyeju	0031	=e	=SFP	nc	nc				
+jinghpaw	chyeju	0031	an	1DU	nc_pro.1	nc_pro	1		107	
+jinghpaw	chyeju	0031	lahkawng	two	nc	nc				
+jinghpaw	chyeju	0031	=gaw	=TOP	nc	nc				
+jinghpaw	chyeju	0031	ya	now	nc	nc				
+jinghpaw	chyeju	0031	ndai	this	nc_dem_pro	nc_dem_pro			108	
+jinghpaw	chyeju	0031	=hpe	=ACC	nc	nc				
+jinghpaw	chyeju	0031	jinghku	relative	ln_np	ln_np				
+jinghpaw	chyeju	0031	sharam	otter	np.d:voc	np	d	voc	105	
+jinghpaw	chyeju	0031	=e	=SFP	=other	=other				
+jinghpaw	chyeju	0031	an	1DU	pro.1:a	pro	1	a	107	bridging
+jinghpaw	chyeju	0031	lahkawng	two	rn_qfr	rn_qfr				
+jinghpaw	chyeju	0031	ya	now	other	other				
+jinghpaw	chyeju	0031	ndai	this	dem_pro:p	dem_pro		p	108	
+jinghpaw	chyeju	0031	gara	how	other	other				
+jinghpaw	chyeju	0031	=hku	=like	=rn	=rn				
+jinghpaw	chyeju	0031	garan	divide	lv	lv				
+jinghpaw	chyeju	0031	sha	eat	v:pred	v		pred		
+jinghpaw	chyeju	0031	=na	=IRR	=aux	=aux				
+jinghpaw	chyeju	0031	=ma	=Q	=other	=other				
+jinghpaw	chyeju	0032	#	#	##ds.neg	##ds.neg				
+jinghpaw	chyeju	0032	#	#	#ds_ac	#ds_ac				
+jinghpaw	chyeju	0032	0	0	0:p	0		p	108	
+jinghpaw	chyeju	0032	nang	2SG	pro.2:a	pro	2	a	105	
+jinghpaw	chyeju	0032	law	many	other	other				
+jinghpaw	chyeju	0032	sha	eat	v:pred	v		pred		
+jinghpaw	chyeju	0032	=kau	=away	=aux	=aux				
+jinghpaw	chyeju	0032	%	%	%	%				
+jinghpaw	chyeju	0032	#	#	#ds_ac	#ds_ac				
+jinghpaw	chyeju	0032	0	0	0:p	0		p	108	
+jinghpaw	chyeju	0032	ngai	1SG	pro.1:a	pro	1	a	101	
+jinghpaw	chyeju	0032	law	many	other	other				
+jinghpaw	chyeju	0032	sha	eat	v:pred	v		pred		
+jinghpaw	chyeju	0032	=kau	=away	=aux	=aux				
+jinghpaw	chyeju	0032	rai	COP	other	other				
+jinghpaw	chyeju	0032	yang	when	other	other				
+jinghpaw	chyeju	0032	=mung	=also	=other	=other				
+jinghpaw	chyeju	0032	%	%	%	%				
+jinghpaw	chyeju	0033	an	1DU	pro.1:s	pro	1	s	107	
+jinghpaw	chyeju	0033	lahkawng	two	rn_qfr	rn_qfr				
+jinghpaw	chyeju	0033	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0033	n-rap	NEG-be.even	v:pred	v		pred		
+jinghpaw	chyeju	0033	=ra	=need	=aux	=aux				
+jinghpaw	chyeju	0033	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0033	=i	=SFP	=other	=other				
+jinghpaw	chyeju	0034	#	#	##ds	##ds				
+jinghpaw	chyeju	0034	0	0	0.1:a	0	1	a	107	
+jinghpaw	chyeju	0034	0	0	0:p	0		p	108	
+jinghpaw	chyeju	0034	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	chyeju	0034	majaw	because	other	other				
+jinghpaw	chyeju	0034	#	#	#ds_ac	#ds_ac				
+jinghpaw	chyeju	0034	0	0	0.1:s	0	1	s	107	
+jinghpaw	chyeju	0034	rap	be.even	v:pred	v		pred		
+jinghpaw	chyeju	0034	=ra	=need	=aux	=aux				
+jinghpaw	chyeju	0034	=na	=IRR	=aux	=aux				
+jinghpaw	chyeju	0034	matu	for	other	other				
+jinghpaw	chyeju	0034	%	%	%	%				
+jinghpaw	chyeju	0035	shen	weigh	v:pred	v		pred		
+jinghpaw	chyeju	0035	=la	=take	=aux	=aux				
+jinghpaw	chyeju	0035	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0035	=she	=then	=other	=other				
+jinghpaw	chyeju	0035	#	#	##ds	##ds				
+jinghpaw	chyeju	0035	0	0	0.1:a	0	1	a	107	
+jinghpaw	chyeju	0035	0	0	0:p	0		p	108	
+jinghpaw	chyeju	0035	chyawm	together	other	other				
+jinghpaw	chyeju	0035	sha	eat	v:pred	v		pred		
+jinghpaw	chyeju	0035	=ga	=HORT	=rv	=rv				
+jinghpaw	chyeju	0036	#	#	##ds	##ds				
+jinghpaw	chyeju	0036	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	chyeju	0036	majaw	because	other	other				
+jinghpaw	chyeju	0036	nang	2SG	pro.2:s	pro	2	s	105	
+jinghpaw	chyeju	0036	sumwum	bush	np:g	np		g	109	new
+jinghpaw	chyeju	0036	=de	=ALL	=rn	=rn				
+jinghpaw	chyeju	0036	jahkring	for.a.while	other	other				
+jinghpaw	chyeju	0036	mi	one	rn_qfr	rn_qfr				
+jinghpaw	chyeju	0036	shang	enter	v:pred	v		pred		
+jinghpaw	chyeju	0036	di	LV	other	other				
+jinghpaw	chyeju	0037	#	#	##ds	##ds				
+jinghpaw	chyeju	0037	0	0	0.2:a	0	2	a	105	
+jinghpaw	chyeju	0037	sumwum	bush	ln_np	ln_np				
+jinghpaw	chyeju	0037	=kaw	=LOC	=ln	=ln				
+jinghpaw	chyeju	0037	=na	=GEN	=ln	=ln				
+jinghpaw	chyeju	0037	ndai	well	other	other				
+jinghpaw	chyeju	0037	sumru	vine	np:dt	np		dt	110	bridging
+jinghpaw	chyeju	0037	=le	=SFP	=other	=other				
+jinghpaw	chyeju	0037	=i	=SFP	=other	=other				
+jinghpaw	chyeju	0037	dai	that	dem_pro:p	dem_pro		p	110	
+jinghpaw	chyeju	0037	naw	still	other	other				
+jinghpaw	chyeju	0037	sa	go	lv	lv				
+jinghpaw	chyeju	0037	gawng	pull	v:pred	v		pred		
+jinghpaw	chyeju	0037	=wa	=VEN	=aux	=aux				
+jinghpaw	chyeju	0037	=rit	=IMP	=rv	=rv				
+jinghpaw	chyeju	0038	#	#	##ds	##ds				
+jinghpaw	chyeju	0038	0	0	0.1:a	0	1	a	107	
+jinghpaw	chyeju	0038	0	0	0:p	0		p	108	
+jinghpaw	chyeju	0038	rai	COP	other	other				
+jinghpaw	chyeju	0038	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0038	shen	weigh	v:pred	v		pred		
+jinghpaw	chyeju	0038	=la	=take	=aux	=aux				
+jinghpaw	chyeju	0038	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0038	=she	=then	=other	=other				
+jinghpaw	chyeju	0038	#	#	##ds	##ds				
+jinghpaw	chyeju	0038	0	0	0.1:a	0	1	a	107	
+jinghpaw	chyeju	0038	0	0	0:p	0		p	108	
+jinghpaw	chyeju	0038	sha	eat	v:pred	v		pred		
+jinghpaw	chyeju	0038	=ga	=HORT	=rv	=rv				
+jinghpaw	chyeju	0039	#	#	##ds	##ds				
+jinghpaw	chyeju	0039	um	INTJ	other	other				
+jinghpaw	chyeju	0039	nang	2SG	ln_pro.2	ln_pro	2		101	
+jinghpaw	chyeju	0039	tsun	say	np:s	np		s		
+jinghpaw	chyeju	0039	=ai	=DECL.NMLZ	=rn	=rn				
+jinghpaw	chyeju	0039	=mung	=also	=other	=other				
+jinghpaw	chyeju	0039	jaw	be.correct	v:pred	v		pred		
+jinghpaw	chyeju	0039	=nga	=CONT	=aux	=aux				
+jinghpaw	chyeju	0039	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0039	#	#	##	##				
+jinghpaw	chyeju	0039	0	0	0.d:s	0	d	s	105	
+jinghpaw	chyeju	0039	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0039	=na	=IRR	=aux	=aux				
+jinghpaw	chyeju	0039	=she	=then	=other	=other				
+jinghpaw	chyeju	0040	#	#	##	##				
+jinghpaw	chyeju	0040	dai	that	ln_dem	ln_dem				
+jinghpaw	chyeju	0040	sharam	otter	np.d:s	np	d	s	105	
+jinghpaw	chyeju	0040	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0040	sumwum	bush	np:g	np		g	109	
+jinghpaw	chyeju	0040	=de	=ALL	=rn	=rn				
+jinghpaw	chyeju	0040	shang	enter	v:pred	v		pred		
+jinghpaw	chyeju	0040	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0040	=she	=then	=other	=other				
+jinghpaw	chyeju	0041	#	#	##ds	##ds				
+jinghpaw	chyeju	0041	0	0	0.1:a	0	1	a	105	
+jinghpaw	chyeju	0041	dai	that	ln_dem	ln_dem				
+jinghpaw	chyeju	0041	sumru	vine	np:p	np		p	110	
+jinghpaw	chyeju	0041	sa	go	lv	lv				
+jinghpaw	chyeju	0041	tam	look.for	v:pred	v		pred		
+jinghpaw	chyeju	0041	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0041	#	#	##	##				
+jinghpaw	chyeju	0041	0	0	0.d:s_ds	0	d	s_ds	105	
+jinghpaw	chyeju	0041	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0041	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0041	=she	=then	=other	=other				
+jinghpaw	chyeju	0041	#	#	##	##				
+jinghpaw	chyeju	0041	0	0	0.d:s	0	d	s	105	
+jinghpaw	chyeju	0041	sa	go	v:pred	v		pred		
+jinghpaw	chyeju	0041	=mat	=COMPL	=aux	=aux				
+jinghpaw	chyeju	0041	=wa	=VEN	=aux	=aux				
+jinghpaw	chyeju	0041	yang	when	other	other				
+jinghpaw	chyeju	0042	#	#	##	##				
+jinghpaw	chyeju	0042	shi	3SG	pro.d:a	pro	d	a	101	
+jinghpaw	chyeju	0042	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0042	dai	that	ln_dem	ln_dem				
+jinghpaw	chyeju	0042	nga	fish	np:p	np		p	108	
+jinghpaw	chyeju	0042	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0042	ret	snatch	v:pred	v		pred		
+jinghpaw	chyeju	0042	di	LV	other	other				
+jinghpaw	chyeju	0042	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0042	#	#	##	##				
+jinghpaw	chyeju	0042	0	0	0.d:s	0	d	s	101	
+jinghpaw	chyeju	0042	gat-gat	run-RED	lv	lv				
+jinghpaw	chyeju	0042	ding-ding	be.straight-RED	v:pred	v		pred		
+jinghpaw	chyeju	0042	=mat	=COMPL	=aux	=aux				
+jinghpaw	chyeju	0042	=wa	=VEN	=aux	=aux				
+jinghpaw	chyeju	0042	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0042	=she	=then	=other	=other				
+jinghpaw	chyeju	0043	#	#	##	##				
+jinghpaw	chyeju	0043	0	0	0.d:a	0	d	a	101	
+jinghpaw	chyeju	0043	0	0	0:p	0		p	108	
+jinghpaw	chyeju	0043	hto	there	dem_pro:g	dem_pro		g		
+jinghpaw	chyeju	0043	hpai	carry	lv	lv				
+jinghpaw	chyeju	0043	hprawng	run.away	v:pred	v		pred		
+jinghpaw	chyeju	0043	=mat	=COMPL	=aux	=aux				
+jinghpaw	chyeju	0043	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0043	=i	=SFP	=other	=other				
+jinghpaw	chyeju	0044	#	#	##	##				
+jinghpaw	chyeju	0044	0	0	0.d:a	0	d	a	101	
+jinghpaw	chyeju	0044	nga	fish	np:p	np		p	108	
+jinghpaw	chyeju	0044	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0044	hpai	carry	lv	lv				
+jinghpaw	chyeju	0044	hprawng	run.away	v:pred	v		pred		
+jinghpaw	chyeju	0044	=mat	=COMPL	=aux	=aux				
+jinghpaw	chyeju	0044	yang	when	other	other				
+jinghpaw	chyeju	0045	#	#	##	##				
+jinghpaw	chyeju	0045	dai	that	ln_dem	ln_dem				
+jinghpaw	chyeju	0045	sharam	otter	np.d:dt_s	np	d	dt_s	105	
+jinghpaw	chyeju	0045	dai	that	pro.d:s	pro	d	s	105	
+jinghpaw	chyeju	0045	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0045	wa	return	v:pred	v		pred		
+jinghpaw	chyeju	0045	yang	when	other	other				
+jinghpaw	chyeju	0045	=she	=then	=other	=other				
+jinghpaw	chyeju	0046	#	#	##neg	##neg				
+jinghpaw	chyeju	0046	hpa	what	np:s	np		s		
+jinghpaw	chyeju	0046	n-nga	NEG-be	v:pred	v		pred		
+jinghpaw	chyeju	0046	=taw	=CONT	=aux	=aux				
+jinghpaw	chyeju	0046	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	chyeju	0047	#	#	##neg	##neg				
+jinghpaw	chyeju	0047	hpa	what	np:s	np		s		
+jinghpaw	chyeju	0047	n-nga	NEG-be	v:pred	v		pred		
+jinghpaw	chyeju	0047	=taw	=CONT	=aux	=aux				
+jinghpaw	chyeju	0047	yang	when	other	other				
+jinghpaw	chyeju	0047	=she	=then	=other	=other				
+jinghpaw	chyeju	0048	#	#	##	##				
+jinghpaw	chyeju	0048	shi	3SG	pro.d:s	pro	d	s	105	
+jinghpaw	chyeju	0048	=mung	=also	=other	=other				
+jinghpaw	chyeju	0048	shi	3SG	other	other				
+jinghpaw	chyeju	0048	=na	=GEN	=other	=other				
+jinghpaw	chyeju	0048	shi	3SG	other	other				
+jinghpaw	chyeju	0048	nga	be	v:pred	v		pred		
+jinghpaw	chyeju	0048	=taw	=CONT	=aux	=aux				
+jinghpaw	chyeju	0048	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	chyeju	0049	#	#	##	##				
+jinghpaw	chyeju	0049	dai	that	ln_dem	ln_dem				
+jinghpaw	chyeju	0049	shaloi	then	np:other	np		other		
+jinghpaw	chyeju	0049	ora	that	ln_dem	ln_dem				
+jinghpaw	chyeju	0049	chyahkyawn	wolf	np.d:dt_a	np	d	dt_a	101	
+jinghpaw	chyeju	0049	dai	that	pro.d:a	pro	d	a	101	
+jinghpaw	chyeju	0049	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0049	nga	fish	np:p	np		p	108	
+jinghpaw	chyeju	0049	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0049	hpai	carry	v:pred	v		pred		
+jinghpaw	chyeju	0049	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0049	=she	=then	=other	=other				
+jinghpaw	chyeju	0050	#	#	##	##				
+jinghpaw	chyeju	0050	0	0	0.d:s	0	d	s	101	
+jinghpaw	chyeju	0050	grai	very	other	other				
+jinghpaw	chyeju	0050	tsan	be.far	np:g	np		g		
+jinghpaw	chyeju	0050	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	chyeju	0050	=kaw	=LOC	=rn	=rn				
+jinghpaw	chyeju	0050	du	arrive	v:pred	v		pred		
+jinghpaw	chyeju	0050	yang	when	other	other				
+jinghpaw	chyeju	0050	=she	=then	=other	=other				
+jinghpaw	chyeju	0051	#	#	##ds.neg	##ds.neg				
+jinghpaw	chyeju	0051	#	#	#ds_ac	#ds_ac				
+jinghpaw	chyeju	0051	0	0	0.1:p	0	1	p	101	
+jinghpaw	chyeju	0051	jahkring	for.a.while	other	other				
+jinghpaw	chyeju	0051	sharam	otter	np.d:a	np	d	a	105	
+jinghpaw	chyeju	0051	bai	again	other	other				
+jinghpaw	chyeju	0051	hkan	follow	nc	nc				
+jinghpaw	chyeju	0051	dep	reach	nc	nc				
+jinghpaw	chyeju	0051	jang	when	nc	nc				
+jinghpaw	chyeju	0051	=gaw	=TOP	nc	nc				
+jinghpaw	chyeju	0051	hka	NC	nc	nc				
+jinghpaw	chyeju	0051	dep	reach	v:pred	v		pred		
+jinghpaw	chyeju	0051	yang	when	other	other				
+jinghpaw	chyeju	0051	%	%	%	%				
+jinghpaw	chyeju	0051	n-mai	NEG-be.OK	v:pred	v		pred		
+jinghpaw	chyeju	0051	=na	=IRR	=aux	=aux				
+jinghpaw	chyeju	0051	=ra	=need	=aux	=aux				
+jinghpaw	chyeju	0051	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0051	#	#	##	##				
+jinghpaw	chyeju	0051	0	0	0.d:s_ds	0	d	s_ds	101	
+jinghpaw	chyeju	0051	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0051	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0052	#	#	##	##				
+jinghpaw	chyeju	0052	0	0	0:p	0		p	108	
+jinghpaw	chyeju	0052	shi	3SG	pro.d:a	pro	d	a	101	
+jinghpaw	chyeju	0052	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0052	lawan-ladan	quick-quick	other	other				
+jinghpaw	chyeju	0052	=hte	=COM	=rn	=rn				
+jinghpaw	chyeju	0052	sha	eat	v:pred	v		pred		
+jinghpaw	chyeju	0052	=dat	=away	=aux	=aux				
+jinghpaw	chyeju	0052	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0053	#	#	##	##				
+jinghpaw	chyeju	0053	0	0	0.d:a	0	d	a	101	
+jinghpaw	chyeju	0053	lawan-ladan	quick-quick	other	other				
+jinghpaw	chyeju	0053	=hte	=COM	=rn	=rn				
+jinghpaw	chyeju	0053	nga	fish	np:p	np		p	108	
+jinghpaw	chyeju	0053	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0053	amya	maul	lv	lv				
+jinghpaw	chyeju	0053	sha	eat	v:pred	v		pred		
+jinghpaw	chyeju	0053	=dat	=away	=aux	=aux				
+jinghpaw	chyeju	0053	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0053	=she	=then	=other	=other				
+jinghpaw	chyeju	0054	#	#	##	##				
+jinghpaw	chyeju	0054	0	0	0:p	0		p	108	
+jinghpaw	chyeju	0054	shi	3SG	pro.d:a	pro	d	a	101	
+jinghpaw	chyeju	0054	nau	too.much	other	other				
+jinghpaw	chyeju	0054	lawan	be.quick	other	other				
+jinghpaw	chyeju	0054	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0054	sha	eat	v:pred	v		pred		
+jinghpaw	chyeju	0054	=dat	=away	=aux	=aux				
+jinghpaw	chyeju	0054	yang	when	other	other				
+jinghpaw	chyeju	0054	=she	=then	=other	=other				
+jinghpaw	chyeju	0055	#	#	##	##				
+jinghpaw	chyeju	0055	mayu	throat	np:l	np		l	111	bridging
+jinghpaw	chyeju	0055	=kaw	=LOC	=rn	=rn				
+jinghpaw	chyeju	0055	nga-nra	fish-bone	np:s	np		s	112	bridging
+jinghpaw	chyeju	0055	dang	choke	v:pred	v		pred		
+jinghpaw	chyeju	0055	=mat	=COMPL	=aux	=aux				
+jinghpaw	chyeju	0055	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0056	#	#	##	##				
+jinghpaw	chyeju	0056	rai	COP	other	other				
+jinghpaw	chyeju	0056	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0056	=she	=then	=other	=other				
+jinghpaw	chyeju	0056	shi	3SG	pro.d:dt	pro	d	dt	101	
+jinghpaw	chyeju	0056	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0056	nga-nra	fish-bone	np:s	np		s	112	
+jinghpaw	chyeju	0056	dang	choke	v:pred	v		pred		
+jinghpaw	chyeju	0056	=mat	=COMPL	=aux	=aux				
+jinghpaw	chyeju	0056	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0056	=she	=then	=other	=other				
+jinghpaw	chyeju	0057	#	#	##ds	##ds				
+jinghpaw	chyeju	0057	0	0	0.1:a	0	1	a	101	
+jinghpaw	chyeju	0057	kadai	who	np:p	np		p		
+jinghpaw	chyeju	0057	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0057	garum	help	lv	lv				
+jinghpaw	chyeju	0057	hpyi	ask	v:pred	v		pred		
+jinghpaw	chyeju	0057	=na	=IRR	=aux	=aux				
+jinghpaw	chyeju	0057	=i	=Q	=other	=other				
+jinghpaw	chyeju	0057	#	#	##	##				
+jinghpaw	chyeju	0057	0	0	0.d:s_ds	0	d	s_ds	101	
+jinghpaw	chyeju	0057	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0058	#	#	##ds	##ds				
+jinghpaw	chyeju	0058	0	0	0.1:a	0	1	a	101	
+jinghpaw	chyeju	0058	sharam	otter	np.d:p	np	d	p	105	
+jinghpaw	chyeju	0058	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0058	garum	help	lv	lv				
+jinghpaw	chyeju	0058	hpyi	ask	v:pred	v		pred		
+jinghpaw	chyeju	0058	=na	=IRR	=aux	=aux				
+jinghpaw	chyeju	0058	=i	=Q	=other	=other				
+jinghpaw	chyeju	0058	#	#	##	##				
+jinghpaw	chyeju	0058	0	0	0.h:s_ds	0	h	s_ds	101	
+jinghpaw	chyeju	0058	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0058	yang	when	other	other				
+jinghpaw	chyeju	0058	=mung	=also	=other	=other				
+jinghpaw	chyeju	0058	#	#	##	##				
+jinghpaw	chyeju	0058	0	0	0.d:s	0	d	s	101	
+jinghpaw	chyeju	0058	bai	again	other	other				
+jinghpaw	chyeju	0058	gaya	be.ashamed	v:pred	v		pred		
+jinghpaw	chyeju	0059	#	#	##	##				
+jinghpaw	chyeju	0059	#	#	#ac	#ac				
+jinghpaw	chyeju	0059	#	#	#cc:p	#cc		p		
+jinghpaw	chyeju	0059	shi	3SG	pro.d:s	pro	d	s	105	
+jinghpaw	chyeju	0059	=mung	=also	=other	=other				
+jinghpaw	chyeju	0059	bai	again	other	other				
+jinghpaw	chyeju	0059	pawt	get.angry	v:pred	v		pred		
+jinghpaw	chyeju	0059	=na	=IRR.NMLZ	=aux	=aux				
+jinghpaw	chyeju	0059	%	%	%	%				
+jinghpaw	chyeju	0059	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0059	0	0	0.d:a	0	d	a	101	
+jinghpaw	chyeju	0059	hkrit	be.afraid	v:pred	v		pred		
+jinghpaw	chyeju	0059	re	COP	other	other				
+jinghpaw	chyeju	0059	majaw	because	other	other				
+jinghpaw	chyeju	0059	%	%	%	%				
+jinghpaw	chyeju	0060	shi	3SG	pro.d:s	pro	d	s	101	
+jinghpaw	chyeju	0060	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0060	shi	3SG	other	other				
+jinghpaw	chyeju	0060	=na	=GEN	=other	=other				
+jinghpaw	chyeju	0060	shi	3SG	other	other				
+jinghpaw	chyeju	0060	sharang	endure	v:pred	v		pred		
+jinghpaw	chyeju	0060	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0060	#	#	##	##				
+jinghpaw	chyeju	0060	0	0	0.d:s	0	d	s	101	
+jinghpaw	chyeju	0060	nga	stay	lv	lv				
+jinghpaw	chyeju	0060	hkawm	walk	v:pred	v		pred		
+jinghpaw	chyeju	0060	=she	=then	=other	=other				
+jinghpaw	chyeju	0061	#	#	##ds	##ds				
+jinghpaw	chyeju	0061	0	0	0.1:a	0	1	a	101	
+jinghpaw	chyeju	0061	kadai	who	np:p	np		p		
+jinghpaw	chyeju	0061	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0061	garum	help	lv	lv				
+jinghpaw	chyeju	0061	hpyi	ask	v:pred	v		pred		
+jinghpaw	chyeju	0061	=na	=IRR	=aux	=aux				
+jinghpaw	chyeju	0061	=i	=Q	=other	=other				
+jinghpaw	chyeju	0061	#	#	##	##				
+jinghpaw	chyeju	0061	0	0	0.d:s_ds	0	d	s_ds	101	
+jinghpaw	chyeju	0061	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0061	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0061	=she	=then	=other	=other				
+jinghpaw	chyeju	0062	#	#	##	##				
+jinghpaw	chyeju	0062	0	0	0.d:s	0	d	s	101	
+jinghpaw	chyeju	0062	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	chyeju	0062	=hku	=like	=rn	=rn				
+jinghpaw	chyeju	0062	nga	say	lv	lv				
+jinghpaw	chyeju	0062	hkawm	walk	v:pred	v		pred		
+jinghpaw	chyeju	0062	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	chyeju	0062	yang	when	other	other				
+jinghpaw	chyeju	0062	=she	=then	=other	=other				
+jinghpaw	chyeju	0063	#	#	##	##				
+jinghpaw	chyeju	0063	0	0	0.d:s	0	d	s	101	
+jinghpaw	chyeju	0063	hka-kau	river-side	np:g	np		g	113	new
+jinghpaw	chyeju	0063	langai	one	rn_qfr	rn_qfr				
+jinghpaw	chyeju	0063	mi	one	rn_qfr	rn_qfr				
+jinghpaw	chyeju	0063	=kaw	=LOC	=rn	=rn				
+jinghpaw	chyeju	0063	bai	again	other	other				
+jinghpaw	chyeju	0063	du	arrive	v:pred	v		pred		
+jinghpaw	chyeju	0063	yang	when	other	other				
+jinghpaw	chyeju	0063	=she	=then	=other	=other				
+jinghpaw	chyeju	0064	#	#	##	##				
+jinghpaw	chyeju	0064	hka-u	water-bird	np.d:s	np	d	s	114	new
+jinghpaw	chyeju	0064	langai	one	rn_qfr	rn_qfr				
+jinghpaw	chyeju	0064	mi	one	rn_qfr	rn_qfr				
+jinghpaw	chyeju	0064	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0064	bai	again	other	other				
+jinghpaw	chyeju	0064	dung	sit.down	v:pred	v		pred		
+jinghpaw	chyeju	0064	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	chyeju	0064	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0064	=da	=HS	=other	=other				
+jinghpaw	chyeju	0065	#	#	##	##				
+jinghpaw	chyeju	0065	shi	3SG	pro.d:s_ds	pro	d	s_ds	101	
+jinghpaw	chyeju	0065	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0065	#	#	##ds	##ds				
+jinghpaw	chyeju	0065	0	0	0.1:a	0	1	a	101	
+jinghpaw	chyeju	0065	um	INTJ	other	other				
+jinghpaw	chyeju	0065	ndai	this	ln_dem	ln_dem				
+jinghpaw	chyeju	0065	wa	man	np.d:p	np	d	p	114	
+jinghpaw	chyeju	0065	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0065	garum	help	lv	lv				
+jinghpaw	chyeju	0065	hpyi	ask	v:pred	v		pred		
+jinghpaw	chyeju	0065	=na	=IRR	=aux	=aux				
+jinghpaw	chyeju	0065	re	COP	other	other				
+jinghpaw	chyeju	0065	%	%	%	%				
+jinghpaw	chyeju	0065	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0065	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0065	=she	=then	=other	=other				
+jinghpaw	chyeju	0066	#	#	##	##				
+jinghpaw	chyeju	0066	0	0	0.d:s_ds	0	d	s_ds	101	
+jinghpaw	chyeju	0066	bai	again	other	other				
+jinghpaw	chyeju	0066	tsun	say	v:pred	v		pred		
+jinghpaw	chyeju	0066	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0067	#	#	##ds	##ds				
+jinghpaw	chyeju	0067	jinghku	friend	ln_np	ln_np				
+jinghpaw	chyeju	0067	hka-u	water-bird	np.d:voc	np	d	voc	114	
+jinghpaw	chyeju	0067	=e	=SFP	=other	=other				
+jinghpaw	chyeju	0067	ngai	1SG	pro.1:a	pro	1	a	101	
+jinghpaw	chyeju	0067	nang	2SG	pro.2:p	pro	2	p	114	
+jinghpaw	chyeju	0067	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0067	garum	help	lv	lv				
+jinghpaw	chyeju	0067	hpyi	ask	v:pred	v		pred		
+jinghpaw	chyeju	0067	=mayu	=DESID	=aux	=aux				
+jinghpaw	chyeju	0067	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0068	#	#	##ds	##ds				
+jinghpaw	chyeju	0068	#	#	#ds_ac	#ds_ac				
+jinghpaw	chyeju	0068	0	0	0.2:a	0	2	a	114	
+jinghpaw	chyeju	0068	ngai	1SG	pro.1:p	pro	1	p	101	
+jinghpaw	chyeju	0068	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0068	garum	help	lv	lv				
+jinghpaw	chyeju	0068	=la	=take	=aux	=aux				
+jinghpaw	chyeju	0068	yang	when	other	other				
+jinghpaw	chyeju	0068	%	%	%	%				
+jinghpaw	chyeju	0068	mai	be.OK	v:pred	v		pred		
+jinghpaw	chyeju	0068	=na	=IRR	=aux	=aux				
+jinghpaw	chyeju	0068	=kun	=Q	=other	=other				
+jinghpaw	chyeju	0068	#	#	##	##				
+jinghpaw	chyeju	0068	0	0	0.d:s_ds	0	d	s_ds	101	
+jinghpaw	chyeju	0068	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0069	#	#	##ds	##ds				
+jinghpaw	chyeju	0069	#	#	#ds_rc	#ds_rc				
+jinghpaw	chyeju	0069	ngai	1SG	pro.1:s	pro	1	s	114	
+jinghpaw	chyeju	0069	dang	be.able	lv	lv				
+jinghpaw	chyeju	0069	di	do	v:pred	v		pred		
+jinghpaw	chyeju	0069	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	chyeju	0069	%	%	%	%				
+jinghpaw	chyeju	0069	0	0	0.1:a	0	1	a	114	
+jinghpaw	chyeju	0069	0	0	0.2:p	0	2	p	101	
+jinghpaw	chyeju	0069	ram	about	other	other				
+jinghpaw	chyeju	0069	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0069	garum	help	v:pred	v		pred		
+jinghpaw	chyeju	0069	=la	=take	=aux	=aux				
+jinghpaw	chyeju	0069	=na	=IRR	=aux	=aux				
+jinghpaw	chyeju	0069	=le	=SFP	=other	=other				
+jinghpaw	chyeju	0070	#	#	##ds	##ds				
+jinghpaw	chyeju	0070	0	0	0.1:a	0	1	a	114	
+jinghpaw	chyeju	0070	0	0	0.2:p	0	2	p	101	
+jinghpaw	chyeju	0070	hpabaw	what	other	other				
+jinghpaw	chyeju	0070	garum	help	v:pred	v		pred		
+jinghpaw	chyeju	0070	=ra	=need	=aux	=aux				
+jinghpaw	chyeju	0070	=na	=IRR	=aux	=aux				
+jinghpaw	chyeju	0070	=rai	=Q	=other	=other				
+jinghpaw	chyeju	0070	#	#	##	##				
+jinghpaw	chyeju	0070	0	0	0.d:s_ds	0	d	s_ds	114	
+jinghpaw	chyeju	0070	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0070	jang	when	other	other				
+jinghpaw	chyeju	0071	#	#	##ds	##ds				
+jinghpaw	chyeju	0071	ngai	1SG	ln_pro.1:poss	ln_pro	1	poss	101	
+jinghpaw	chyeju	0071	=na	=GEN	=ln	=ln				
+jinghpaw	chyeju	0071	mayu	throat	np:l	np		l	111	
+jinghpaw	chyeju	0071	=kaw	=LOC	=rn	=rn				
+jinghpaw	chyeju	0071	nga-nra	fish-bone	np:s	np		s	112	
+jinghpaw	chyeju	0071	langai	one	rn_qfr	rn_qfr				
+jinghpaw	chyeju	0071	mi	one	rn_qfr	rn_qfr				
+jinghpaw	chyeju	0071	dang	choke	v:pred	v		pred		
+jinghpaw	chyeju	0071	=taw-nga	=CONT-CONT	=aux	=aux				
+jinghpaw	chyeju	0071	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0072	#	#	##ds	##ds				
+jinghpaw	chyeju	0072	0	0	0.2:a	0	2	a	114	
+jinghpaw	chyeju	0072	dai	that	dem_pro:p	dem_pro		p	112	
+jinghpaw	chyeju	0072	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0072	mai	be.OK	lv	lv				
+jinghpaw	chyeju	0072	la	take	v:pred	v		pred		
+jinghpaw	chyeju	0072	=kau	=away	=aux	=aux				
+jinghpaw	chyeju	0072	=ya	=BEN	=aux	=aux				
+jinghpaw	chyeju	0072	=na	=IRR	=aux	=aux				
+jinghpaw	chyeju	0072	=i	=SFP	=other	=other				
+jinghpaw	chyeju	0072	#	#	##	##				
+jinghpaw	chyeju	0072	0	0	0.d:s_ds	0	d	s_ds	101	
+jinghpaw	chyeju	0072	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0072	=she	=then	=other	=other				
+jinghpaw	chyeju	0073	#	#	##ds	##ds				
+jinghpaw	chyeju	0073	mai	be.OK	v:pred	v		pred		
+jinghpaw	chyeju	0073	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0073	#	#	##	##				
+jinghpaw	chyeju	0073	0	0	0.d:s_ds	0	d	s_ds	114	
+jinghpaw	chyeju	0073	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0073	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0073	=she	=then	=other	=other				
+jinghpaw	chyeju	0074	#	#	##ds	##ds				
+jinghpaw	chyeju	0074	0	0	0.2:s	0	2	s	101	
+jinghpaw	chyeju	0074	ndai	this	dem_pro:l	dem_pro		l		
+jinghpaw	chyeju	0074	=kaw	=LOC	=rn	=rn				
+jinghpaw	chyeju	0074	ngakran	face.up	other	other				
+jinghpaw	chyeju	0074	di	LV	other	other				
+jinghpaw	chyeju	0074	galeng	lie	v:pred	v		pred		
+jinghpaw	chyeju	0074	=u	=IMP	=rv	=rv				
+jinghpaw	chyeju	0074	#	#	##	##				
+jinghpaw	chyeju	0074	0	0	0.d:s_ds	0	d	s_ds	114	
+jinghpaw	chyeju	0074	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0074	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0074	=she	=then	=other	=other				
+jinghpaw	chyeju	0075	#	#	##	##				
+jinghpaw	chyeju	0075	0	0	0.d:a	0	d	a	114	
+jinghpaw	chyeju	0075	shi	3SG	pro.d:p	pro	d	p	101	
+jinghpaw	chyeju	0075	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0075	ngakran	face.up	other	other				
+jinghpaw	chyeju	0075	rai	LV	other	other				
+jinghpaw	chyeju	0075	galeng	lie	v:pred	v		pred		
+jinghpaw	chyeju	0075	=shangun	=CAUS	=aux	=aux				
+jinghpaw	chyeju	0075	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0075	=she	=then	=other	=other				
+jinghpaw	chyeju	0076	#	#	##	##				
+jinghpaw	chyeju	0076	0	0	0.d:a	0	d	a	114	
+jinghpaw	chyeju	0076	0	0	0.d:p	0	d	p	101	
+jinghpaw	chyeju	0076	ngup	mouth	np:p2	np		p2	115	bridging
+jinghpaw	chyeju	0076	mahka	open	v:pred	v		pred		
+jinghpaw	chyeju	0076	=shangun	=CAUS	=aux	=aux				
+jinghpaw	chyeju	0076	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0077	#	#	##	##				
+jinghpaw	chyeju	0077	0	0	0.d:a	0	d	a	101	
+jinghpaw	chyeju	0077	ngup	mouth	np:p	np		p	115	
+jinghpaw	chyeju	0077	aja	forcibly	other	other				
+jinghpaw	chyeju	0077	=wa	=ADV	=other	=other				
+jinghpaw	chyeju	0077	mahka	open	v:pred	v		pred		
+jinghpaw	chyeju	0077	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0077	=she	=then	=other	=other				
+jinghpaw	chyeju	0078	#	#	##	##				
+jinghpaw	chyeju	0078	0	0	0.d:a	0	d	a	114	
+jinghpaw	chyeju	0078	kata	inside	np:p	np		p	112	
+jinghpaw	chyeju	0078	=na	=GEN	=rn	=rn				
+jinghpaw	chyeju	0078	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0078	shaw	pull	v:pred	v		pred		
+jinghpaw	chyeju	0078	=kau	=away	=aux	=aux				
+jinghpaw	chyeju	0078	=ya	=BEN	=aux	=aux				
+jinghpaw	chyeju	0078	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0079	#	#	##	##				
+jinghpaw	chyeju	0079	0	0	0.d:a	0	d	a	114	
+jinghpaw	chyeju	0079	0	0	0:p	0		p	112	
+jinghpaw	chyeju	0079	shaw	pull	v:pred	v		pred		
+jinghpaw	chyeju	0079	=kau	=away	=aux	=aux				
+jinghpaw	chyeju	0079	=ya	=BEN	=aux	=aux				
+jinghpaw	chyeju	0079	=she	=then	=other	=other				
+jinghpaw	chyeju	0079	shi	3SG	nc	nc				
+jinghpaw	chyeju	0079	=gaw	=TOP	nc	nc				
+jinghpaw	chyeju	0080	#	#	#nc	#nc				
+jinghpaw	chyeju	0080	aw	INTJ	nc	nc				
+jinghpaw	chyeju	0080	sorry	sorry	nc	nc				
+jinghpaw	chyeju	0080	ora	that	nc	nc				
+jinghpaw	chyeju	0080	shawng	before	nc	nc				
+jinghpaw	chyeju	0080	=kaw	=LOC	nc	nc				
+jinghpaw	chyeju	0080	ngam	remain	nc	nc				
+jinghpaw	chyeju	0080	=ai	=DECL	nc	nc				
+jinghpaw	chyeju	0081	#	#	##	##				
+jinghpaw	chyeju	0081	0	0	0.d:s_ds	0	d	s_ds	101	
+jinghpaw	chyeju	0081	dai	well	other	other				
+jinghpaw	chyeju	0081	shara	place	np:other	np		other		
+jinghpaw	chyeju	0081	mi	one	rn_qfr	rn_qfr				
+jinghpaw	chyeju	0081	=kaw	=LOC	=rn	=rn				
+jinghpaw	chyeju	0081	tsun	say	v:pred	v		pred		
+jinghpaw	chyeju	0081	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0082	#	#	##ds	##ds				
+jinghpaw	chyeju	0082	#	#	#ds_ac	#ds_ac				
+jinghpaw	chyeju	0082	nang	2SG	pro.2:a	pro	2	a	114	
+jinghpaw	chyeju	0082	ngai	1SG	pro.1:p	pro	1	p	101	
+jinghpaw	chyeju	0082	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0082	ndai	this	dem_pro:p2	dem_pro		p2	112	
+jinghpaw	chyeju	0082	shaw	pull	v:pred	v		pred		
+jinghpaw	chyeju	0082	=kau	=away	=aux	=aux				
+jinghpaw	chyeju	0082	=ya	=BEN	=aux	=aux				
+jinghpaw	chyeju	0082	jang	when	other	other				
+jinghpaw	chyeju	0082	%	%	%	%				
+jinghpaw	chyeju	0083	nang	2SG	nc	nc				
+jinghpaw	chyeju	0083	=hpe	=ACC	nc	nc				
+jinghpaw	chyeju	0083	bai	again	nc	nc				
+jinghpaw	chyeju	0083	chyeju	thanks	nc	nc				
+jinghpaw	chyeju	0083	htang	give.back	nc	nc				
+jinghpaw	chyeju	0083	=na	=IRR	nc	nc				
+jinghpaw	chyeju	0083	=i	=SFP	nc	nc				
+jinghpaw	chyeju	0084	ngai	1SG	pro.1:a	pro	1	a	101	
+jinghpaw	chyeju	0084	nang	2SG	pro.2:p	pro	2	p	114	
+jinghpaw	chyeju	0084	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0084	bai	again	other	other				
+jinghpaw	chyeju	0084	chyeju	thanks	np:p2	np		p2		
+jinghpaw	chyeju	0084	htang	give.back	v:pred	v		pred		
+jinghpaw	chyeju	0084	=na	=IRR	=aux	=aux				
+jinghpaw	chyeju	0084	#	#	##	##				
+jinghpaw	chyeju	0084	0	0	0.d:s_ds	0	d	s_ds	101	
+jinghpaw	chyeju	0084	nga	QUOT	other	other				
+jinghpaw	chyeju	0084	tsun	say	v:pred	v		pred		
+jinghpaw	chyeju	0084	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0085	#	#	##ds	##ds				
+jinghpaw	chyeju	0085	0	0	0.1:a	0	1	a	101	
+jinghpaw	chyeju	0085	nang	2SG	pro.2:p	pro	2	p	114	
+jinghpaw	chyeju	0085	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0085	manu-jahpu	price-price	np:p2	np		p2	116	new
+jinghpaw	chyeju	0085	jaw	give	v:pred	v		pred		
+jinghpaw	chyeju	0085	=na	=IRR	=aux	=aux				
+jinghpaw	chyeju	0085	re	COP	other	other				
+jinghpaw	chyeju	0085	#	#	##	##				
+jinghpaw	chyeju	0085	0	0	0.d:s_ds	0	d	s_ds	101	
+jinghpaw	chyeju	0085	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0085	yang	when	other	other				
+jinghpaw	chyeju	0085	=she	=then	=other	=other				
+jinghpaw	chyeju	0086	#	#	##	##				
+jinghpaw	chyeju	0086	shi	3SG	pro.d:s_ds	pro	d	s_ds	114	
+jinghpaw	chyeju	0086	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0086	#	#	##ds	##ds				
+jinghpaw	chyeju	0086	e	INTJ	other	other				
+jinghpaw	chyeju	0086	mai	be.OK	v:pred	v		pred		
+jinghpaw	chyeju	0086	=s-a	=CSM-DECL	=rv	=rv				
+jinghpaw	chyeju	0086	%	%	%	%				
+jinghpaw	chyeju	0086	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0086	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0086	=she	=then	=other	=other				
+jinghpaw	chyeju	0087	#	#	##	##				
+jinghpaw	chyeju	0087	0	0	0:p	0		p	112	
+jinghpaw	chyeju	0087	shi	3SG	pro.d:dt_a	pro	d	dt_a	114	
+jinghpaw	chyeju	0087	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0087	hka-u	water-bird	np.d:a	np	d	a	114	
+jinghpaw	chyeju	0087	dai	that	rn_dem	rn_dem				
+jinghpaw	chyeju	0087	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0087	shaw	pull	lv	lv				
+jinghpaw	chyeju	0087	ngut	finish	v:pred	v		pred		
+jinghpaw	chyeju	0087	yang	when	other	other				
+jinghpaw	chyeju	0087	=she	=then	=other	=other				
+jinghpaw	chyeju	0088	#	#	##	##				
+jinghpaw	chyeju	0088	shi	3SG	pro.d:s_ds	pro	d	s_ds	114	
+jinghpaw	chyeju	0088	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0088	#	#	##ds	##ds				
+jinghpaw	chyeju	0088	0	0	0.2:a	0	2	a	101	
+jinghpaw	chyeju	0088	0	0	0.1:p	0	1	p	114	
+jinghpaw	chyeju	0088	#	#	#ds_rc:p2	#ds_rc		p2		
+jinghpaw	chyeju	0088	0	0	0.2:s	0	2	s	101	
+jinghpaw	chyeju	0088	#	#	#ds_cc:p	#ds_cc		p		
+jinghpaw	chyeju	0088	nang	2SG	pro.2:a	pro	2	a	101	
+jinghpaw	chyeju	0088	ngai	1SG	pro.1:p	pro	1	p	114	
+jinghpaw	chyeju	0088	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0088	manu-jahpu	price-price	np:p2	np		p2	116	
+jinghpaw	chyeju	0088	jaw	give	v:pred	v		pred		
+jinghpaw	chyeju	0088	=na	=IRR	=aux	=aux				
+jinghpaw	chyeju	0088	%	%	%	%				
+jinghpaw	chyeju	0088	nga	say	v:pred	v		pred		
+jinghpaw	chyeju	0088	=gaw	=SFP	=other	=other				
+jinghpaw	chyeju	0088	%	%	%	%				
+jinghpaw	chyeju	0088	bai	again	other	other				
+jinghpaw	chyeju	0088	ya	now	other	other				
+jinghpaw	chyeju	0088	jaw	give	v:pred	v		pred		
+jinghpaw	chyeju	0088	=sa-nit	=CSM-IMP	=rv	=rv				
+jinghpaw	chyeju	0088	%	%	%	%				
+jinghpaw	chyeju	0088	nga	QUOT	other	other				
+jinghpaw	chyeju	0088	tsun	say	v:pred	v		pred		
+jinghpaw	chyeju	0088	=she	=then	=other	=other				
+jinghpaw	chyeju	0089	#	#	##ds.neg	##ds.neg				
+jinghpaw	chyeju	0089	manu-jahpu	price-price	np:dt	np		dt	116	
+jinghpaw	chyeju	0089	ngu	say	rn_adj	rn_adj				
+jinghpaw	chyeju	0089	=hta	=LOC	=rn	=rn				
+jinghpaw	chyeju	0089	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0089	=da	=HS	=other	=other				
+jinghpaw	chyeju	0089	#	#	#ds_rc:p	#ds_rc		p		
+jinghpaw	chyeju	0089	nang	2SG	ln_pro.2:poss	ln_pro	2	poss	114	
+jinghpaw	chyeju	0089	=na	=GEN	=ln	=ln				
+jinghpaw	chyeju	0089	baw	head	np:s	np		s	117	bridging
+jinghpaw	chyeju	0089	dai	that	rn_dem	rn_dem				
+jinghpaw	chyeju	0089	ngai	1SG	ln_pro.1:poss	ln_pro	1	poss	101	
+jinghpaw	chyeju	0089	=na	=GEN	=ln	=ln				
+jinghpaw	chyeju	0089	ngup	mouth	ln_np	ln_np			115	
+jinghpaw	chyeju	0089	kata	inside	np:l	np		l		
+jinghpaw	chyeju	0089	=kaw	=LOC	=rn	=rn				
+jinghpaw	chyeju	0089	shang	enter	v:pred	v		pred		
+jinghpaw	chyeju	0089	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0089	%	%	%	%				
+jinghpaw	chyeju	0089	ngai	1SG	pro.1:a	pro	1	a	101	
+jinghpaw	chyeju	0089	n-gawa	NEG-bite	lv	lv				
+jinghpaw	chyeju	0089	abrep	crush	v:pred	v		pred		
+jinghpaw	chyeju	0089	=kau	=away	=aux	=aux				
+jinghpaw	chyeju	0089	=ya	=BEN	=aux	=aux				
+jinghpaw	chyeju	0089	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0090	#	#	##ds	##ds				
+jinghpaw	chyeju	0090	0	0	0.1:a	0	1	a	101	
+jinghpaw	chyeju	0090	0	0	0.2:p	0	2	p	114	
+jinghpaw	chyeju	0090	dai	that	dem_pro:dt	dem_pro		dt		
+jinghpaw	chyeju	0090	=pyi	=even	=other	=other				
+jinghpaw	chyeju	0090	chyeju	thanks	np:p2	np		p2		
+jinghpaw	chyeju	0090	htang	give.back	v:pred	v		pred		
+jinghpaw	chyeju	0090	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0090	rai	COP	other	other				
+jinghpaw	chyeju	0090	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	chyeju	0091	#	#	##ds	##ds				
+jinghpaw	chyeju	0091	kaja	really	other	other				
+jinghpaw	chyeju	0091	nga	say	other	other				
+jinghpaw	chyeju	0091	yang	when	other	other				
+jinghpaw	chyeju	0091	#	#	#ds_ac	#ds_ac				
+jinghpaw	chyeju	0091	nang	2SG	nc	nc				
+jinghpaw	chyeju	0091	nye	1SG.GEN	nc	nc				
+jinghpaw	chyeju	0091	=na	=GEN	nc	nc				
+jinghpaw	chyeju	0091	baw	head	nc	nc				
+jinghpaw	chyeju	0091	=kaw	=LOC	nc	nc				
+jinghpaw	chyeju	0091	nye	1SG.GEN	ln_pro.1:poss	ln_pro	1	poss	101	
+jinghpaw	chyeju	0091	=na	=GEN	=ln	=ln				
+jinghpaw	chyeju	0091	ngup	mouth	np:l	np		l	115	
+jinghpaw	chyeju	0091	=kaw	=LOC	=rn	=rn				
+jinghpaw	chyeju	0091	nang	2SG	ln_pro.2:poss	ln_pro	2	poss	114	
+jinghpaw	chyeju	0091	=na	=GEN	=ln	=ln				
+jinghpaw	chyeju	0091	baw	head	np:s	np		s	117	
+jinghpaw	chyeju	0091	rawng	be.in	v:pred	v		pred		
+jinghpaw	chyeju	0091	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0091	shaloi	when	other	other				
+jinghpaw	chyeju	0091	%	%	%	%				
+jinghpaw	chyeju	0092	#	#	#ds_ac	#ds_ac				
+jinghpaw	chyeju	0092	0	0	0:p	0		p	117	
+jinghpaw	chyeju	0092	ngai	1SG	pro.1:a	pro	1	a	101	
+jinghpaw	chyeju	0092	gawa	bite	lv	lv				
+jinghpaw	chyeju	0092	abrep	crush	v:pred	v		pred		
+jinghpaw	chyeju	0092	=kau	=away	=aux	=aux				
+jinghpaw	chyeju	0092	=ya	=BEN	=aux	=aux				
+jinghpaw	chyeju	0092	yang	when	other	other				
+jinghpaw	chyeju	0092	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0092	%	%	%	%				
+jinghpaw	chyeju	0092	nang	2SG	pro.2:s	pro	2	s	114	
+jinghpaw	chyeju	0092	si	die	v:pred	v		pred		
+jinghpaw	chyeju	0092	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	chyeju	0092	#	#	##	##				
+jinghpaw	chyeju	0092	0	0	0.d:s_ds	0	d	s_ds	101	
+jinghpaw	chyeju	0092	ngu	QUOT	other	other				
+jinghpaw	chyeju	0092	tsun	say	v:pred	v		pred		
+jinghpaw	chyeju	0092	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0092	=da	=HS	=other	=other				
+jinghpaw	chyeju	0093	#	#	##neg	##neg				
+jinghpaw	chyeju	0093	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	chyeju	0093	nga	say	other	other				
+jinghpaw	chyeju	0093	dai	that	ln_dem	ln_dem				
+jinghpaw	chyeju	0093	hka-u	water-bird	np.d:a	np	d	a	114	
+jinghpaw	chyeju	0093	=mung	=also	=other	=other				
+jinghpaw	chyeju	0093	=i	=SFP	=other	=other				
+jinghpaw	chyeju	0093	ga	word	np:p	np		p		
+jinghpaw	chyeju	0093	=mung	=also	=other	=other				
+jinghpaw	chyeju	0093	n-htan	NEG-answer	lv	lv				
+jinghpaw	chyeju	0093	gwi	dare	v:pred	v		pred		
+jinghpaw	chyeju	0093	=s-ai	=CSM-DECL	=rv	=rv				
+jinghpaw	chyeju	0094	#	#	##ds.neg	##ds.neg				
+jinghpaw	chyeju	0094	#	#	#ds_ac	#ds_ac				
+jinghpaw	chyeju	0094	0	0	0.1:a	0	1	a		
+jinghpaw	chyeju	0094	dai	that	ln_dem	ln_dem				
+jinghpaw	chyeju	0094	majaw	because	np:other	np		other		
+jinghpaw	chyeju	0094	aw	INTJ	other	other				
+jinghpaw	chyeju	0094	ndan	thus	other	other				
+jinghpaw	chyeju	0094	zawn	like	other	other				
+jinghpaw	chyeju	0094	#	#	#ds_rc.neg:p	#ds_rc.neg		p		
+jinghpaw	chyeju	0094	0	0	0.h:s	0	h	s	118	new
+jinghpaw	chyeju	0094	n-hkru-n-kaja	NEG-be.good-NEG-be.good	v:pred	v		pred		
+jinghpaw	chyeju	0094	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	chyeju	0094	%	%	%	%				
+jinghpaw	chyeju	0094	#	#	#ds_rc.neg:appos	#ds_rc.neg		appos		
+jinghpaw	chyeju	0094	0	0	0.h:a	0	h	a	118	
+jinghpaw	chyeju	0094	tsawra-myit	love-mind	np:p	np		p		
+jinghpaw	chyeju	0094	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0094	=mung	=also	=other	=other				
+jinghpaw	chyeju	0094	n-chyena	NEG-understand	v:pred	v		pred		
+jinghpaw	chyeju	0094	=ai	=DECL.NMLZ	=rv	=rv				
+jinghpaw	chyeju	0094	%	%	%	%				
+jinghpaw	chyeju	0094	=ni	=PL	=rn	=rn				
+jinghpaw	chyeju	0094	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0094	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0094	garum	help	v:pred	v		pred		
+jinghpaw	chyeju	0094	yang	when	other	other				
+jinghpaw	chyeju	0094	%	%	%	%				
+jinghpaw	chyeju	0095	shanhte	3PL	pro.h:a	pro	h	a	118	
+jinghpaw	chyeju	0095	=mung	=also	=other	=other				
+jinghpaw	chyeju	0095	chyeju	thanks	np:p	np		p		
+jinghpaw	chyeju	0095	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0095	=ma	=also	=other	=other				
+jinghpaw	chyeju	0095	n-chyena	NEG-understand	v:pred	v		pred		
+jinghpaw	chyeju	0095	=ya	=BEN	=aux	=aux				
+jinghpaw	chyeju	0095	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0095	=le	=SFP	=other	=other				
+jinghpaw	chyeju	0095	=i	=SFP	=other	=other				
+jinghpaw	chyeju	0096	#	#	##ds	##ds				
+jinghpaw	chyeju	0096	#	#	#ds_ac	#ds_ac				
+jinghpaw	chyeju	0096	0	0	0.2:a	0	2	a		
+jinghpaw	chyeju	0096	dai	that	dem_pro:other	dem_pro		other		
+jinghpaw	chyeju	0096	=hku	=like	=rn	=rn				
+jinghpaw	chyeju	0096	e	INTJ	other	other				
+jinghpaw	chyeju	0096	#	#	##rc:p	##rc		p		
+jinghpaw	chyeju	0096	0	0	0.h:s	0	h	s		
+jinghpaw	chyeju	0096	dan	thus	nc	nc				
+jinghpaw	chyeju	0096	re	COP	nc	nc				
+jinghpaw	chyeju	0096	garum	help	nc	nc				
+jinghpaw	chyeju	0096	dan	thus	other	other				
+jinghpaw	chyeju	0096	re	COP	other	other				
+jinghpaw	chyeju	0096	n-hkru-n-kaja	NEG-be.good-NEG-be.good	np.d:p	np	d	p	118	
+jinghpaw	chyeju	0096	=ai	=DECL.NMLZ	=rn	=rn				
+jinghpaw	chyeju	0096	%	%	%	%				
+jinghpaw	chyeju	0096	=ni	=PL	=rn	=rn				
+jinghpaw	chyeju	0096	=hpe	=ACC	=rn	=rn				
+jinghpaw	chyeju	0096	garum	help	v:pred	v		pred		
+jinghpaw	chyeju	0096	yang	when	other	other				
+jinghpaw	chyeju	0096	=gaw	=TOP	=other	=other				
+jinghpaw	chyeju	0096	%	%	%	%				
+jinghpaw	chyeju	0097	gaman-lila	nothing-empty	np:pred	np		pred		
+jinghpaw	chyeju	0097	=she	=only	=other	=other				
+jinghpaw	chyeju	0097	rai	COP	other	other				
+jinghpaw	chyeju	0097	=nga	=CONT	=aux	=aux				
+jinghpaw	chyeju	0097	=hka	=EXCL	=rv	=rv				
+jinghpaw	chyeju	0097	#	#	##	##				
+jinghpaw	chyeju	0097	0	0	0.d:s_ds	0	d	s_ds	114	
+jinghpaw	chyeju	0097	nga	QUOT	other	other				
+jinghpaw	chyeju	0097	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0097	myit	think	v:pred	v		pred		
+jinghpaw	chyeju	0097	=na	=SEQ	=other	=other				
+jinghpaw	chyeju	0098	#	#	##	##				
+jinghpaw	chyeju	0098	0	0	0.d:s	0	d	s	114	
+jinghpaw	chyeju	0098	pyen	fly	v:pred	v		pred		
+jinghpaw	chyeju	0098	=mat	=COMPL	=aux	=aux				
+jinghpaw	chyeju	0098	=wa	=VEN	=aux	=aux				
+jinghpaw	chyeju	0098	=ai	=DECL	=rv	=rv				
+jinghpaw	chyeju	0098	=da	=HS	=other	=other				
