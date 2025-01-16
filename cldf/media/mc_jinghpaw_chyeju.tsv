@@ -195,13 +195,13 @@ jinghpaw	chyeju	0016	dan	thus	other	other
 jinghpaw	chyeju	0016	jang	when	other	other				
 jinghpaw	chyeju	0016	ngai	1SG	pro.1:a	pro	1	a	101	
 jinghpaw	chyeju	0016	#	#	#ds_rc	#ds_rc				
-jinghpaw	chyeju	0016	0	0	rel_f0:l	rel_f0		l	106	
+jinghpaw	chyeju	0016	0	0	rel_f0:l	rel_f0		l	106	new
 jinghpaw	chyeju	0016	nga	fish	np:s	np		s	103	
 jinghpaw	chyeju	0016	grai	very	other	other				
 jinghpaw	chyeju	0016	rawng	be.in	v:pred	v		pred		
 jinghpaw	chyeju	0016	=ai	=DECL.NMLZ	=rv	=rv				
 jinghpaw	chyeju	0016	%	%	%	%				
-jinghpaw	chyeju	0016	shara	place	np:p	np		p	106	new
+jinghpaw	chyeju	0016	shara	place	np:p	np		p	106	
 jinghpaw	chyeju	0016	langai	one	rn_qfr	rn_qfr				
 jinghpaw	chyeju	0016	mi	one	rn_qfr	rn_qfr				
 jinghpaw	chyeju	0016	mu	see	v:pred	v		pred		
@@ -223,7 +223,7 @@ jinghpaw	chyeju	0018	la	take	v:pred	v		pred
 jinghpaw	chyeju	0018	=wa	=VEN	=aux	=aux				
 jinghpaw	chyeju	0018	jang	when	other	other				
 jinghpaw	chyeju	0019	#	#	#ds	#ds				
-jinghpaw	chyeju	0019	0	0	0.1:a	0	1	a	107	
+jinghpaw	chyeju	0019	0	0	0.1:a	0	1	a	107	bridging
 jinghpaw	chyeju	0019	0	0	0:p	0		p	103	
 jinghpaw	chyeju	0019	bai	again	other	other				
 jinghpaw	chyeju	0019	chyawm	together	other	other				
@@ -364,7 +364,7 @@ jinghpaw	chyeju	0031	=hpe	=ACC	nc	nc
 jinghpaw	chyeju	0031	jinghku	relative	ln_np	ln_np				
 jinghpaw	chyeju	0031	sharam	otter	np.d:voc	np	d	voc	105	
 jinghpaw	chyeju	0031	=e	=SFP	=other	=other				
-jinghpaw	chyeju	0031	an	1DU	pro.1:a	pro	1	a	107	bridging
+jinghpaw	chyeju	0031	an	1DU	pro.1:a	pro	1	a	107	
 jinghpaw	chyeju	0031	lahkawng	two	rn_qfr	rn_qfr				
 jinghpaw	chyeju	0031	ya	now	other	other				
 jinghpaw	chyeju	0031	ndai	this	dem_pro:p	dem_pro		p	108	

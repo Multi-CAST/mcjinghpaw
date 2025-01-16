@@ -88,7 +88,7 @@ jinghpaw	manau	0012	nga	say	v:pred	v		pred
 jinghpaw	manau	0012	=ai	=DECL	=rv	=rv				
 jinghpaw	manau	0012	majaw	because	other	other				
 jinghpaw	manau	0012	%	%	%	%				
-jinghpaw	manau	0013	0	0	0.d:a_ds	0	d	a_ds	706	
+jinghpaw	manau	0013	0	0	0.d:a_ds	0	d	a_ds	706	bridging
 jinghpaw	manau	0013	shi	3SG	pro.d:p	pro	d	p	704	
 jinghpaw	manau	0013	=hpe	=ACC	=rn	=rn				
 jinghpaw	manau	0013	=gaw	=TOP	=other	=other				
@@ -139,7 +139,7 @@ jinghpaw	manau	0017	ngu	say	v:pred	v		pred
 jinghpaw	manau	0017	=nna	=SEQ	=other	=other				
 jinghpaw	manau	0017	=she	=only	=other	=other				
 jinghpaw	manau	0018	#	#	##	##				
-jinghpaw	manau	0018	u	bird	np.d:a	np	d	a	706	bridging
+jinghpaw	manau	0018	u	bird	np.d:a	np	d	a	706	
 jinghpaw	manau	0018	0	0	0:p2	0		p2		
 jinghpaw	manau	0018	=ni	=PL	=rn	=rn				
 jinghpaw	manau	0018	=gaw	=TOP	=other	=other				
@@ -147,12 +147,12 @@ jinghpaw	manau	0018	shi	3SG	pro.d:p	pro	d	p	704
 jinghpaw	manau	0018	=hpe	=ACC	=rn	=rn				
 jinghpaw	manau	0018	e	well	other	other				
 jinghpaw	manau	0018	#	#	#rc	#rc				
-jinghpaw	manau	0018	0	0	rel_f0:p	rel_f0		p	707	
+jinghpaw	manau	0018	0	0	rel_f0:p	rel_f0		p	707	bridging
 jinghpaw	manau	0018	tinag	oneself	np.d:a	np	d	a	706	
 jinghpaw	manau	0018	lu	get	v:pred	v		pred		
 jinghpaw	manau	0018	=ai	=DECL.NMLZ	=rv	=rv				
 jinghpaw	manau	0018	%	%	%	%				
-jinghpaw	manau	0018	mun	hair	np:obl	np		obl	707	bridging
+jinghpaw	manau	0018	mun	hair	np:obl	np		obl	707	
 jinghpaw	manau	0018	=kaw	=LOC	=rn	=rn				
 jinghpaw	manau	0018	=na	=ABL	=rn	=rn				
 jinghpaw	manau	0018	shi	3SG.GEN	ln_pro.d:poss	ln_pro	d	poss	704	

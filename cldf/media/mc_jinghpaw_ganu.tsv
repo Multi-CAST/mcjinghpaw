@@ -46,7 +46,7 @@ jinghpaw	ganu	0004	lahkawng	two	rn_qfr	rn_qfr
 jinghpaw	ganu	0004	nga	live	v:pred	v		pred		
 jinghpaw	ganu	0004	=ai	=DECL	=rv	=rv				
 jinghpaw	ganu	0005	#	#	##	##				
-jinghpaw	ganu	0005	Ganu	mother	np.h:a	np	h	a	403	bridging
+jinghpaw	ganu	0005	Ganu	mother	np.h:a	np	h	a	403	
 jinghpaw	ganu	0005	=gaw	=TOP	=other	=other				
 jinghpaw	ganu	0005	#	#	#ac	#ac				
 jinghpaw	ganu	0005	0	0	0.h:s	0	h	s	403	
@@ -134,7 +134,7 @@ jinghpaw	ganu	0012	#	#	##	##
 jinghpaw	ganu	0012	0	0	0:g	0		g	407	
 jinghpaw	ganu	0012	gaida-gasha	widow-child	ln_np	ln_np				
 jinghpaw	ganu	0012	hkan	3DU	ln_pro.h	ln_pro	h			
-jinghpaw	ganu	0012	nu	mother	np.h:s	np	h	s	402	
+jinghpaw	ganu	0012	nu	mother	np.h:s	np	h	s	402	new
 jinghpaw	ganu	0012	=mung	=also	=other	=other				
 jinghpaw	ganu	0012	sa	go	v:pred	v		pred		
 jinghpaw	ganu	0012	=ai	=DECL	=rv	=rv				

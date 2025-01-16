@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2108">
+<multicast version="2211">
  <corpus c_name="jinghpaw">
   <text t_name="chyeju" annotators="Keita Kurabe" speaker="JG01">
-   <file f_name="mc_jinghpaw_chyeju" audio="mc_jinghpaw_chyeju.wav" updated="2021-08-01">
+   <file f_name="mc_jinghpaw_chyeju" audio="mc_jinghpaw_chyeju.wav" updated="2022-07-25">
     <unit uid="0001" start_time="0" end_time="5325">
      <utterance_id>jinghpaw_chyeju_0001</utterance_id>
      <utterance>maumwi gabaw gaw chyahkyawn hte hka u a lam nga rai nga.</utterance>
@@ -1137,6 +1137,7 @@
        <gloss>0</gloss>
        <graid>rel_f0:l</graid>
        <refind>106</refind>
+       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>nga</gword>
@@ -1169,7 +1170,6 @@
        <gloss>place</gloss>
        <graid>np:p</graid>
        <refind>106</refind>
-       <isnref>new</isnref>
       </segment>
       <segment>
        <gword>langai</gword>
@@ -1306,6 +1306,7 @@
        <gloss>0</gloss>
        <graid>0.1:a</graid>
        <refind>107</refind>
+       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>0</gword>
@@ -2124,7 +2125,6 @@
        <gloss>1DU</gloss>
        <graid>pro.1:a</graid>
        <refind>107</refind>
-       <isnref>bridging</isnref>
       </segment>
       <segment>
        <gword>lahkawng</gword>
