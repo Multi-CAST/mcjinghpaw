@@ -660,7 +660,7 @@ jinghpaw	dwi	0055	chye	know	v:pred	v		pred
 jinghpaw	dwi	0055	=yau	=away	=aux	=aux				
 jinghpaw	dwi	0055	=s-ai	=CSM-DECL	=rv	=rv				
 jinghpaw	dwi	0055	=law	=SFP	=other	=other				
-jinghpaw	dwi	0056	#	#	##nc	##nc				
+jinghpaw	dwi	0056	#	#	#nc	#nc				
 jinghpaw	dwi	0056	gara	how	nc	nc				
 jinghpaw	dwi	0056	=hku	=like	nc	nc				
 jinghpaw	dwi	0056	rai	COP	nc	nc				
@@ -1022,7 +1022,7 @@ jinghpaw	dwi	0087	=she	=then	=other	=other
 jinghpaw	dwi	0088	#	#	##	##				
 jinghpaw	dwi	0088	dai	that	nc	nc				
 jinghpaw	dwi	0088	ma	child	nc_np.h:dt	nc_np	h	dt	202	
-jinghpaw	dwi	0088	dai	that	nc	nc			202	
+jinghpaw	dwi	0088	dai	that	rn_dem	rn_dem				
 jinghpaw	dwi	0088	=gaw	=TOP	nc	nc				
 jinghpaw	dwi	0088	shi	3SG.GEN	ln_pro.h:poss	ln_pro	h	poss	202	
 jinghpaw	dwi	0088	dwi	grandmother	np.h:s_ds	np	h	s_ds	203	
@@ -1765,7 +1765,7 @@ jinghpaw	dwi	0147	0	0	0.h:s	0	h	s	203
 jinghpaw	dwi	0147	nga	say	v:pred	v		pred		
 jinghpaw	dwi	0147	yang	when	other	other				
 jinghpaw	dwi	0147	=she	=then	=other	=other				
-jinghpaw	dwi	0147	shi	3SG	nc	nc			203	
+jinghpaw	dwi	0147	shi	3SG	nc_pro.h	nc_pro	h		203	
 jinghpaw	dwi	0147	=gaw	=TOP	nc	nc				
 jinghpaw	dwi	0147	#	#	##ds	##ds				
 jinghpaw	dwi	0147	nang	2SG	pro.2:a	pro	2	a	202	

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2211">
+<multicast version="2311">
  <corpus c_name="jinghpaw">
   <text t_name="chyeju" annotators="Keita Kurabe" speaker="JG01">
-   <file f_name="mc_jinghpaw_chyeju" audio="mc_jinghpaw_chyeju.wav" updated="2022-07-25">
+   <file f_name="mc_jinghpaw_chyeju" audio="mc_jinghpaw_chyeju.wav" updated="2023-07-09">
     <unit uid="0001" start_time="0" end_time="5325">
      <utterance_id>jinghpaw_chyeju_0001</utterance_id>
      <utterance>maumwi gabaw gaw chyahkyawn hte hka u a lam nga rai nga.</utterance>
@@ -6684,7 +6684,7 @@
       <segment>
        <gword>#</gword>
        <gloss>#</gloss>
-       <graid>##rc:p</graid>
+       <graid>#rc:p</graid>
       </segment>
       <segment>
        <gword>0</gword>

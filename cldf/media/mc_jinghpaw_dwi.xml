@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="2211">
+<multicast version="2311">
  <corpus c_name="jinghpaw">
   <text t_name="dwi" annotators="Keita Kurabe" speaker="JG01">
-   <file f_name="mc_jinghpaw_dwi" audio="mc_jinghpaw_dwi.wav" updated="2022-07-25">
+   <file f_name="mc_jinghpaw_dwi" audio="mc_jinghpaw_dwi.wav" updated="2023-07-09">
     <unit uid="0001" start_time="0" end_time="4174">
      <utterance_id>jinghpaw_dwi_0001</utterance_id>
      <utterance>Maumwi gabaw gaw jahkrai ma hkan dwi a lam nga re.</utterance>
@@ -3847,7 +3847,7 @@
       <segment>
        <gword>#</gword>
        <gloss>#</gloss>
-       <graid>##nc</graid>
+       <graid>#nc</graid>
       </segment>
       <segment>
        <gword>gara</gword>
@@ -5962,8 +5962,7 @@
       <segment>
        <gword>dai</gword>
        <gloss>that</gloss>
-       <graid>nc</graid>
-       <refind>202</refind>
+       <graid>rn_dem</graid>
       </segment>
       <segment>
        <gword>=gaw</gword>
@@ -10243,7 +10242,7 @@
       <segment>
        <gword>shi</gword>
        <gloss>3SG</gloss>
-       <graid>nc</graid>
+       <graid>nc_pro.h</graid>
        <refind>203</refind>
       </segment>
       <segment>
