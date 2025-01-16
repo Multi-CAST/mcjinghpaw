@@ -24,5 +24,10 @@
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Kurabe, Keita. 2021. Multi-CAST Jinghpaw. In Haig, Geoffrey &amp; Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2108. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#jinghpaw) (date accessed)</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
-    }
+    },
+    "communities": [
+        {
+            "identifier": "multicast"
+        }
+    ]
 }
